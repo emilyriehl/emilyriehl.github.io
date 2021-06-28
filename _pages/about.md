@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "website-in-progress for Emily Riehl"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,38 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am an Associate Professor in the Department of Mathematics at [Johns Hopkins University](https://mathematics.jhu.edu/) working on higher category theory and homotopy type theory. 
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I frequently collaborate with [Dominic Verity](https://researchers.mq.edu.au/en/persons/dominic-verity) at the Centre of Australian Category Theory. I am a host of the [n-Category Caf&eacute;](https://golem.ph.utexas.edu/category/) and founder of the [Kan Extension Seminar](http://www.math.jhu.edu/~eriehl/kan). 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+## Media:
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+* An interview on [Topology, Categories, and the Future of Mathematics](https://www.preposterousuniverse.com/podcast/2021/05/10/146-emily-riehl-on-topology-categories-and-the-future-of-mathematics/) on [Seal Carroll's Mindscape Podcast](https://www.preposterousuniverse.com/podcast/).
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+* A video interview for [Meet a Mathematician](https://youtu.be/eU6dIdJtjNI).
 
-**Markdown generator**
+* A Q&amp;A for [Quanta Magazine](https://www.quantamagazine.org/emily-riehl-conducts-the-mathematical-orchestra-from-the-middle-20200902/).
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+* A press release from the [Association for Women in Mathematics](href=https://awm-math.org/) for the 2021 [Joan &amp; Joseph Birman Research Prize in Topology and Geometry](https://emilyriehl.github.io/files/Birman.pdf).
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+* A press release from the Johns Hopkins University HUB about the [2020 President's Frontier Award](https://hub.jhu.edu/2020/01/16/emily-riehl-mathematics-frontier-award-999-em1-art1-dtd-news/), with accompanying [video](https://youtu.be/hCh8Lr5z7YM).
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+* A [Quanta Magazine](https://www.quantamagazine.org/) article on the community effort to develop the foundations of &infin;-category theory: [With Category Theory, Mathematics Escapes From Equality](https://www.quantamagazine.org/with-category-theory-mathematics-escapes-from-equality-20191010/), with an [interview](https://www.ams.org/news?news_id=5594&expand=1) I gave in response.
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+* A [two](https://egmo2020.nl/2019/09/11/emily-riehl-pt-1/)-[part](href=https://egmo2020.nl/2019/09/18/emily-riehl-pt-2/) interview for the European Girls' Mathematical Olympiad.
+
+* A series of five interviews on [&forall;\_forall](https://www.instagram.com/p/BvwAwzYh4N-/?utm_source=ig_web_copy_link), an Instagram account run by [Annie Raymond](http://people.math.umass.edu/~raymond/).
+
+* A discussion of [My Favorite Theorem](https://kpknudson.com/my-favorite-theorem/2018/5/21/episode-19-emily-riehl) on the eponymous podcast hosted by [Kevin Knudson](https://kpknudson.com) and [Evelyn Lamb](http://www.evelynjlamb.com/about-me/), with show notes in the [Roots of Unity](https://blogs.scientificamerican.com/roots-of-unity/emily-riehls-favorite-theorem/) blog hosted by Scientific American.
+
+* A [brief biography](https://emilyriehl.github.io/files/notices-women.pdf) appeared along profiles of 27 female mathematicians in the [March 2018 issue](http://www.ams.org/journals/notices/201803/rnoti-p248.pdf) of the [Notices of the AMS](http://www.ams.org/cgi-bin/notices/nxg.pl).
+
+* An interview from the [Association for Women in Mathematics](https://awm-math.org/) November-December issue by [Beth Malmskog](https://malmskog.wordpress.com/about/): read the full version from the [Mathematics, Live!](https://emilyriehl.github.io/files/AWM-interview.pdf) column or a web excerpt, [Category Theory and Context: An Interview with Emily Riehl](https://blogs.ams.org/phdplus/2017/08/19/category-theory-and-context-an-interview-with-emily-riehl/).
+
+* An interview with the fabulous [Mike Hill](https://www.math.ucla.edu/~mikehill/), [On performing queerness and mathematics](https://blogs.ams.org/inclusionexclusion/2017/10/09/on-performing-queerness-and-mathematics-emily-riehl-interviews-mike-hill/), for the wonderful [inclusion/exclusion](https://blogs.ams.org/inclusionexclusion/) blog.
+
+* A [Science Friday](https://www.sciencefriday.com) radio interview, [The Infinitely Surprising Career of a Mathematician](https://www.sciencefriday.com/segments/the-infinitely-surprising-career-of-a-mathematician/), with [Eugenia Cheng](http://eugeniacheng.com/) and [Rebecca Goldin](http://math.gmu.edu/~rgoldin/), with an accompanying [off-air interview](https://www.sciencefriday.com/articles/women-taking-math-next-dimension/).
+
+
+
