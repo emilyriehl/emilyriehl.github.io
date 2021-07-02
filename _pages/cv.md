@@ -11,11 +11,13 @@ redirect_from:
 
 ------
 
+Here is my [CV](https://emilyriehl.github.io/files/CV.pdf).
+
 # Academic Positions
 
 * **Johns Hopkins University**, Baltimore, MD
     * Associate Professor, July 2019--present
-    * A ssistant Professor, July 2015--June 2019
+    * Assistant Professor, July 2015--June 2019
 
 * **Harvard University**, Cambridge, MA
     * Benjamin Peirce Postdoctoral Fellow and NSF Postdoctoral Fellow, July 2011--June 2015
@@ -54,21 +56,3 @@ redirect_from:
     * A.B. Mathematics, magna cum laude, June 2006
     * Thesis: "[Lubin-Tate formal groups and local class field theory](https://emilyriehl.github.io/files/seniorthesis.pdf)" advised by [Frank Calegari](https://math.uchicago.edu/~fcale/).
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
