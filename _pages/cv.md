@@ -31,7 +31,7 @@ Here is my [CV](https://emilyriehl.github.io/files/CV.pdf).
     * Fellow, Homotopy Type theory and Univalent Foundations Program, May--June 2019
 
 * **Centre of Australian Category Theory**, Sydney, Australia
-    * VIsitor, January--July, 2017
+    * Visitor, January--July, 2017
 
 * **Max Planck Institue For Mathematics**, Bonn, Germany
     * Participant, Higher Structures in Geometry and Physics Program, January 2016
@@ -47,6 +47,7 @@ Here is my [CV](https://emilyriehl.github.io/files/CV.pdf).
 * **University of Chicago**, Chicago, IL
     * Ph.D. in Mathematics, June 2011; M.A. in Mathematics, June 2009
     * Thesis: “[Algebraic model structures](https://emilyriehl.github.io/files/phdthesis.pdf)” advised by [J. Peter May](http://math.uchicago.edu/~may/).
+    * "Topic" proposal: "[A model structure for quasi-categories](https://emilyriehl.github.io/files/topic.pdf)" discussed with [J. Peter May](http://math.uchicago.edu/~may/).
   
 * **University of Cambridge**, Churchill College, Cambridge, UK
     * Certificate of Advanced Study in Mathematics (Part III) with Distinction, June 2007 
