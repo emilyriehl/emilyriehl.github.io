@@ -10,7 +10,7 @@ redirect_from:
 
 I am an Associate Professor in the Department of Mathematics at [Johns Hopkins University](https://mathematics.jhu.edu/) working on higher category theory and homotopy type theory. 
 
-I am a co-host of the [n-Category Caf&eacute;](https://golem.ph.utexas.edu/category/) and was a founding board member of [Spectra](http://lgbtmath.org/) ![](https://emilyriehl.github.io/files/progress-pride.webp).
+I am a co-host of the [n-Category Caf&eacute;](https://golem.ph.utexas.edu/category/) and was a founding board member of [Spectra](http://lgbtmath.org/). <img src="https://emilyriehl.github.io/files/progress-pride.webp" width = "5%"/>
 
 I serve on the editorial boards for [Homology, Homotopy, and Applications](https://www.intlpress.com/index.php) and the [Journal of Pure and Applied Algebra](https://www.journals.elsevier.com/journal-of-pure-and-applied-algebra/editorial-board). 
 
