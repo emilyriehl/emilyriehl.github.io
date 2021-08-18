@@ -6,6 +6,9 @@ main:
   - title: "Papers"
     url: /papers/
 
+  - title: "Notes"
+    url: /notes/
+    
   - title: "Talks"
     url: /talks/    
 

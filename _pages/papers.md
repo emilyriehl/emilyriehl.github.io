@@ -43,6 +43,7 @@ author_profile: true
 ## Published Exposition
 * E. Riehl, [Homotopical categories: from model categories to (∞, 1)-categories](https://emilyriehl.github.io/files/homotopical.pdf), to appear in a forthcoming volume on spectra to appear in the MSRI Publications Series with Cambridge University Press, (2019), 1–67, [arXiv:1904.00886](https://arxiv.org/abs/1904.00886)
 * F. Loregian and E. Riehl, [Categorical notions of fibration](https://emilyriehl.github.io/files/fibrations.pdf), Expositiones Mathematicae 38 (2020), no. 4, 496–514, [arXiv:1806.06129](https://arxiv.org/abs/1806.06129)
+* E. Riehl, [Made-to-Order Weak Factorization Systems](https://emilyriehl.github.io/files/made-to-order-crm.pdf), Extended Abstracts Fall 2013, Research Perspectives CRM Barcelona, 2015.
 * E. Riehl, [Complicial sets, an overture](https://emilyriehl.github.io/files/complicial.pdf), 2016 MATRIX Annals, (2017), 49–76, [arXiv:1610.06801](https://arxiv.org/abs/1610.06801)
 * E. Riehl, [The Kan Extension Seminar: An Experimental Online Graduate Reading Course](https://emilyriehl.github.io/files/kan-extension-seminar.pdf), Notices Amer. Math. Soc. 61 (2014), no. 11, 1357–1358.
 * A.M. Bohmann, [A comparison of norm maps](https://emilyriehl.github.io/files/norms.pdf), with an appendix by A.M. Bohmann and E. Riehl, Proc. Amer. Math. Soc. 142 (2014), no. 4, 1413–1423, [arXiv:1201.6277](http://arxiv.org/abs/1201.6277)
