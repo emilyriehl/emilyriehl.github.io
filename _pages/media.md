@@ -5,11 +5,13 @@ permalink: /media/
 author_profile: true
 ---
 
+* An interview on [Tidbits of Research](https://tidbitsofresearch.podbean.com/e/episode-14-emily-riehl/) with Smaranda Sandu.
+
 * An interview on [Topology, Categories, and the Future of Mathematics](https://www.preposterousuniverse.com/podcast/2021/05/10/146-emily-riehl-on-topology-categories-and-the-future-of-mathematics/) on [Seal Carroll's Mindscape Podcast](https://www.preposterousuniverse.com/podcast/).
 
-* A video interview for [Meet a Mathematician](https://youtu.be/eU6dIdJtjNI).
+* A video interview for [ΜΣΣΤ a Mathematician](https://youtu.be/eU6dIdJtjNI).
 
-* A Q&amp;A for [Quanta Magazine](https://www.quantamagazine.org/emily-riehl-conducts-the-mathematical-orchestra-from-the-middle-20200902/).
+* A Q&amp;A for [Quanta Magazine](https://www.quantamagazine.org/emily-riehl-conducts-the-mathematical-orchestra-from-the-middle-20200902/), with a [video interview](https://youtu.be/qZzSFp0LDUQ) and brief [introduction to higher category theory](https://youtu.be/QpDTcefoWEQ).
 
 * A press release from the [Association for Women in Mathematics](href=https://awm-math.org/) for the 2021 [Joan &amp; Joseph Birman Research Prize in Topology and Geometry](https://emilyriehl.github.io/files/Birman.pdf).
 

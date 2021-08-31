@@ -5,6 +5,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+# theme stolen from Egbert's HoTT-Intro GitHub
+theme: jekyll-theme-dinky
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Emily Riehl"

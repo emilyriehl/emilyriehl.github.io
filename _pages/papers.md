@@ -49,6 +49,7 @@ author_profile: true
 * A.M. Bohmann, [A comparison of norm maps](https://emilyriehl.github.io/files/norms.pdf), with an appendix by A.M. Bohmann and E. Riehl, Proc. Amer. Math. Soc. 142 (2014), no. 4, 1413–1423, [arXiv:1201.6277](http://arxiv.org/abs/1201.6277)
 
 ## Preprints
+* E. Riehl and M. Wattal, On ∞-cosmoi of bicategories, (2021), 1–22, [arXiv:2108.11786](https://arxiv.org/abs/2108.11786)
 * P. Hackney, V. Ozornova, E. Riehl, M. Rovelli, An (∞, 2)-categorical pasting theorem, (2021), 1–46, [arXiv:2106.03660](https://arxiv.org/abs/2106.03660)
 * E. Riehl and D. Verity, Cartesian exponentiation and monadicity, (2021), 1–71, [arXiv:2101.09853](https://arxiv.org/abs/2101.09853)
 * E. Riehl, Homotopy coherent structures, (2017), 1–26, [arXiv:1801.07404](https://arxiv.org/abs/1801.07404), also available via AMS Open Math Notes OMN:201901.110786.

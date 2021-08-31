@@ -7,6 +7,7 @@ author_profile: true
 
 ## Johns Hopkins
 
+* [AS.110.721: Homotopy Type Theory](https://github.com/emilyriehl/721) (fall 2021).
 * [AS.110.301: Introduction to Proofs](https://math.jhu.edu/~eriehl/301/) (spring 2021).
 * [AS.110.411: Honors Algebra I](https://math.jhu.edu/~eriehl/411/) (fall 2019).
 * AS.110.301: Introduction to Proofs (fall 2019).
