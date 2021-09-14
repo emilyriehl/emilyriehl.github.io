@@ -5,6 +5,9 @@ permalink: /media/
 author_profile: true
 ---
 
+* An expository essay [Infinity-Category Theory Offers a Bird's-Eye View of Mathematics](https://www.scientificamerican.com/article/infinity-category-theory-offers-a-birds-eye-view-of-mathematics/), originally published with the title "Infinite Math" in Scientific American 325, 4, 32-41 (October 2021).
+
+
 * An interview on [Tidbits of Research](https://tidbitsofresearch.podbean.com/e/episode-14-emily-riehl/) with Smaranda Sandu.
 
 * An interview on [Topology, Categories, and the Future of Mathematics](https://www.preposterousuniverse.com/podcast/2021/05/10/146-emily-riehl-on-topology-categories-and-the-future-of-mathematics/) on [Seal Carroll's Mindscape Podcast](https://www.preposterousuniverse.com/podcast/).
