@@ -5,11 +5,7 @@ permalink: /books/
 author_profile: true
 ---
 
-{% include base_path %}
 
-{% for post in site.books reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
 * [Categorical Homotopy Theory](https://emilyriehl.github.io/files/cathtpy.pdf), published in 2014 by [Cambridge University Press](https://www.cambridge.org/br/academic/subjects/mathematics/geometry-and-topology/categorical-homotopy-theory) in their [New Mathematical Monographs](https://www.cambridge.org/core/series/new-mathematical-monographs/E28BCCE1A04DB329398908DD3C0B99ED) series.
 
@@ -30,3 +26,9 @@ author_profile: true
     The [2018 MIT Talbot workshop](https://math.mit.edu/events/talbot/index.php?year=2018) was on the same topic and various additional resources can be found on the conference website.
 
 *  *Fat Chance: Probability from 0 to 1*,  with Benedict Gross and Joe Harris, published in 2019 by [Cambridge University Press](https://www.cambridge.org/core/books/fat-chance/7B3971F26CD74B2C58E542A297F43629). I also led the ''office hours'' for the corresponding [edX course](https://courses.edx.org/courses/course-v1:HarvardX+FC1x+1T2018/8fd45335a5524a4299a47a49c7dfee04/).
+
+{% include base_path %}
+
+{% for post in site.books reversed %}
+  {% include archive-single.html %}
+{% endfor %}
