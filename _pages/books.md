@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 title: "Books"
 permalink: /books/
 author_profile: true
