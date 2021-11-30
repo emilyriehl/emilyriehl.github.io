@@ -27,17 +27,18 @@ author_profile: true
 * [A synthetic theory of ∞-categories in homotopy type theory](https://emilyriehl.github.io/files/ct2017.pdf), slides from [CT2017](http://www.mat.uc.pt/~ct2017/) at the University of British Columbia.
 * [Towards a synthetic theory of (∞,1)-categories](https://video-archive.fields.utoronto.ca/view/5048) given at the 2016 [Workshop on Homotopy Type Theory and Univalent Foundations of Mathematics](http://www.fields.utoronto.ca/activities/15-16/homotopy-type) at the Fields Institute.
 * [The formal theory of adjunctions, monads, algebras, and descent](https://www.msri.org/workshops/689/schedules/18223), from the workshop [Reimagining the Foundations of Algebraic Topology](https://www.msri.org/workshops/689) at MSRI; [slides](https://emilyriehl.github.io/files/reimagining.pdf).
-* [Limits of quasi-categories with (co)limits](https://www.msri.org/workshops/684/schedules/17862), from the [Connections for Women](https://www.msri.org/workshops/684) workshop at MSRI. 
+* [Limits of quasi-categories with (co)limits](https://www.msri.org/workshops/684/schedules/17862), from the [Connections for Women](https://www.msri.org/workshops/684) workshop at MSRI.
 * [Homotopy coherent adjunctions](https://emilyriehl.github.io/files/jmm2014.pdf), slides from the [AMS Special Session on Homotopy Theory](https://nilesjohnson.net/homotopy-special-session-2014.html) at the 2014 Joint Mathematics Meetings.
 * [The formal theory of homotopy coherent monads](https://emilyriehl.github.io/files/eilenberg100.pdf), slides from the Samuel Eilenberg Centenary Conference.
 * [Algebraic model structures](https://emilyriehl.github.io/files/awm2011.pdf), slides from the AWM Anniversary Conference at ICERM.
 * [Cellularity, composition, and morphisms of weak factorization systems](https://emilyriehl.github.io/files/ct2011.pdf), slides from the [CT2011](http://www.mat.uc.pt/~ct2011/) at the University of British Columbia.
 * [Algebraic model structures](https://emilyriehl.github.io/files/cms2011.pdf) slides from the 2011 CMS Summer Meeting at the University of Alberta.
-* [Algebraic model structures](https://emilyriehl.github.io/files/ct2010.pdf), slides from CT2010 at the University of Genova. 
+* [Algebraic model structures](https://emilyriehl.github.io/files/ct2010.pdf), slides from CT2010 at the University of Genova.
 
 
 ## Colloquia
 
+* Introduction to Homotopy Type Theory and Univalent Foundations, a colloquium talk given at Google; [slides](https://emilyriehl.github.io/files/Intro-HoTT-UF.pdf).
 * [Elements of ∞-Category Theory](https://www.matrix-inst.org.au/events/online-seminar-march-2021-a-prof-emily-riehl/), a colloquium hosted by the [Matrix Institute](https://www.matrix-inst.org.au/); [slides](https://emilyriehl.github.io/files/elements-colloquium.pdf).
 * [Elements of ∞-Category Theory](https://youtu.be/ZVreRhrtUyM), a virtual talk for the Mathematical Picture Language seminar at Harvard;  [slides](https://emilyriehl.github.io/files/elements-colloquium.pdf).
 * [Contractibility as Uniqueness](https://youtu.be/VdxdQiucJe8), a [Topos Institute](https://topos.site/) colloquium talk; [slides](https://emilyriehl.github.io/files/topos-colloquium.pdf).
@@ -72,7 +73,3 @@ author_profile: true
 * [The stable marriage problem](https://youtu.be/Qcv1IqHWAzg) and [the math behind the scenes](https://youtu.be/LtTV6rIxhdo), produced by [Numberphile](https://www.numberphile.com/).
 * [The stable marriage problem](https://youtu.be/w1leqkpDaRw), filmed by [Girls' Angle](http://www.girlsangle.org/).
 * [A solution to the stable marriage problem](https://youtu.be/Y5SRqdwQheU), a [Pecha Kucha](https://en.wikipedia.org/wiki/PechaKucha) presentation geared toward members of the Harvard math department.
-
-
-
-
