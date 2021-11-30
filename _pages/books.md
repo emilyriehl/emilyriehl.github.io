@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 title: "Books"
 permalink: /books/
 author_profile: true
@@ -26,8 +26,3 @@ author_profile: true
 
 *  *Fat Chance: Probability from 0 to 1*,  with Benedict Gross and Joe Harris, published in 2019 by [Cambridge University Press](https://www.cambridge.org/core/books/fat-chance/7B3971F26CD74B2C58E542A297F43629). I also led the ''office hours'' for the corresponding [edX course](https://courses.edx.org/courses/course-v1:HarvardX+FC1x+1T2018/8fd45335a5524a4299a47a49c7dfee04/).
 
-{% include base_path %}
-
-{% for post in site.books reversed %}
-  {% include archive-single.html %}
-{% endfor %}
