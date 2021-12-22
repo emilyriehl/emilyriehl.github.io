@@ -7,7 +7,7 @@ author_profile: true
 
 ## Mini-courses
 
-* [The model-independent theory of (∞,1)-categories](https://www.newton.ac.uk/seminar/20180702100011001/) delivered at the Isaac Newton Institute for Mathematical Sciences at the University of Cambridge as part of the workshop [Higher structures in homotopy theory](https://www.newton.ac.uk/event/hhhw01/) to open the semester program [Homotopy Harnessing Higher Structures](https://www.newton.ac.uk/event/hhh/): [lecture 1](https://www.newton.ac.uk/seminar/20180702100011001/), [lecture 2](https://www.newton.ac.uk/seminar/20180703100011001/), [lecture 3](https://www.newton.ac.uk/seminar/20180704100011001/), [lecture 4](https://www.newton.ac.uk/seminar/20180705100011001/).
+* [The model-independent theory of (&infin;,1)-categories](https://www.newton.ac.uk/seminar/20180702100011001/) delivered at the Isaac Newton Institute for Mathematical Sciences at the University of Cambridge as part of the workshop [Higher structures in homotopy theory](https://www.newton.ac.uk/event/hhhw01/) to open the semester program [Homotopy Harnessing Higher Structures](https://www.newton.ac.uk/event/hhh/): [lecture 1](https://www.newton.ac.uk/seminar/20180702100011001/), [lecture 2](https://www.newton.ac.uk/seminar/20180703100011001/), [lecture 3](https://www.newton.ac.uk/seminar/20180704100011001/), [lecture 4](https://www.newton.ac.uk/seminar/20180705100011001/).
 * A mini course [∞-category theory from scratch](https://emilyriehl.github.io/files/scratch.pdf) given at the [2015 Young Topologists' Meeting](https://www.epfl.ch/labs/hessbellwald-lab/seminar/ytm2015/): [lecture 1](https://tube.switch.ch/videos/8d2e27f1), [lecture 2](https://tube.switch.ch/videos/4c002b49), [lecture 3](https://tube.switch.ch/videos/abff9b56), [lecture 4](https://tube.switch.ch/videos/ffa790bd).
 
 ## Technical lectures
@@ -62,8 +62,8 @@ author_profile: true
 ## General audience
 
 * [Transition to Research](https://emilyriehl.github.io/files/paraDIGMS.pdf), slides prepared for a panel discussion for the [paraDIGMS 2021 Spring Conference](https://www.imsi.institute/paradigms-spring-2021/).
-* [A brief introduction to ∞-cosmoi and higher category theory](https://youtu.be/QpDTcefoWEQ), filmed by [Quanta Magazine](https://www.quantamagazine.org/emily-riehl-conducts-the-mathematical-orchestra-from-the-middle-20200902/).
-* [A formal language for ?-category theory]((https://emilyriehl.github.io/files/Frontier.pdf), the [2020 President's Frontier Award lecture](https://youtu.be/WLkMBMUk48E).
+* [A brief introduction to �&infin;-cosmoi and higher category theory](https://youtu.be/QpDTcefoWEQ), filmed by [Quanta Magazine](https://www.quantamagazine.org/emily-riehl-conducts-the-mathematical-orchestra-from-the-middle-20200902/).
+* [A formal language for &infin;-category theory](https://emilyriehl.github.io/files/Frontier.pdf), the [2020 President's Frontier Award lecture](https://youtu.be/WLkMBMUk48E).
 * [The mathematics of social choice](https://emilyriehl.github.io/files/voting.pdf), slides for a talk given as part of the 2019 [National Math Festival](https://www.nationalmathfestival.org/).
 * A [promotional video](https://youtu.be/9pBZOlmL6zo)  for [Fat Chance: Probability from 0 to 1](https://www.cambridge.org/core/books/fat-chance/7B3971F26CD74B2C58E542A297F43629) also available as a course on [edX](https://www.edx.org/course/fat-chance-probability-from-the-ground-up-2).
 
