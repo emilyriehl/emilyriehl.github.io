@@ -7,6 +7,7 @@ author_profile: true
 
 ## Mini-courses
 
+* [On the &infin;-topos semantics of homotopy type theory](https://emilyriehl.github.io/files/semantics.pdf) delivered at CIRM-Luminy as part of the workshop [Logic and Higher Structures](https://conferences.cirm-math.fr/2689.html). 
 * [The model-independent theory of (&infin;,1)-categories](https://www.newton.ac.uk/seminar/20180702100011001/) delivered at the Isaac Newton Institute for Mathematical Sciences at the University of Cambridge as part of the workshop [Higher structures in homotopy theory](https://www.newton.ac.uk/event/hhhw01/) to open the semester program [Homotopy Harnessing Higher Structures](https://www.newton.ac.uk/event/hhh/): [lecture 1](https://www.newton.ac.uk/seminar/20180702100011001/), [lecture 2](https://www.newton.ac.uk/seminar/20180703100011001/), [lecture 3](https://www.newton.ac.uk/seminar/20180704100011001/), [lecture 4](https://www.newton.ac.uk/seminar/20180705100011001/).
 * A mini course [∞-category theory from scratch](https://emilyriehl.github.io/files/scratch.pdf) given at the [2015 Young Topologists' Meeting](https://www.epfl.ch/labs/hessbellwald-lab/seminar/ytm2015/): [lecture 1](https://tube.switch.ch/videos/8d2e27f1), [lecture 2](https://tube.switch.ch/videos/4c002b49), [lecture 3](https://tube.switch.ch/videos/abff9b56), [lecture 4](https://tube.switch.ch/videos/ffa790bd).
 
