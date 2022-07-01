@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor in the Department of Mathematics at [Johns Hopkins University](https://mathematics.jhu.edu/) working on higher category theory and homotopy type theory. 
+I am a Professor in the Department of Mathematics at [Johns Hopkins University](https://mathematics.jhu.edu/) working on higher category theory and homotopy type theory. 
 
 I am a co-host of the [n-Category Caf&eacute;](https://golem.ph.utexas.edu/category/) and was a founding board member of [Spectra](http://lgbtmath.org/). <img src="https://emilyriehl.github.io/files/progress-pride.webp" width = "5%"/>
 
