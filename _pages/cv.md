@@ -16,13 +16,17 @@ Here is my [CV](https://emilyriehl.github.io/files/CV.pdf).
 # Academic Positions
 
 * **Johns Hopkins University**, Baltimore, MD
-    * Associate Professor, July 2019--present
+    * Professor, July 2022--present
+    * Associate Professor, July 2019--June 2022
     * Assistant Professor, July 2015--June 2019
 
 * **Harvard University**, Cambridge, MA
     * Benjamin Peirce Postdoctoral Fellow and NSF Postdoctoral Fellow, July 2011--June 2015
 
 #  Visiting Positions
+
+* **Institut Mittag-Leffler, the Royal Swedish Academy of Sciences**, Djursholm, Sweden
+    * Participant, Higher algebraic structures in algebra, topology and geometry, January 2021
 
 * **Mathematical Sciences Research Institute**, Berkeley, CA
     * Chern Professor and Lead Organizer, [Higher Categories and Categorification](https://www.msri.org/programs/323) Program, January--May 2020
@@ -33,7 +37,7 @@ Here is my [CV](https://emilyriehl.github.io/files/CV.pdf).
 * **Centre of Australian Category Theory**, Sydney, Australia
     * Visitor, January--July, 2017
 
-* **Max Planck Institue For Mathematics**, Bonn, Germany
+* **Max Planck Institute For Mathematics**, Bonn, Germany
     * Participant, Higher Structures in Geometry and Physics Program, January 2016
 
 * **Hausdorff Research Institute for Mathematics**, Bonn, Germany

@@ -7,6 +7,7 @@ author_profile: true
 
 ## Research Lecture Notes 
 
+* [On the &infin;-topos semantics of homotopy type theory](https://emilyriehl.github.io/files/semantics.pdf), lecture notes to accompany a [series of talks](https://library.cirm-math.fr/ListRecord.htm?list=request&table=3&NumReq=115&cluster_1=2689) delivered at CIRM-Luminy as part of the workshop [Logic and Higher Structures](https://conferences.cirm-math.fr/2689.html).
 * [∞-category theory from scratch](https://emilyriehl.github.io/files/scratch.pdf), from the [2015 Young Topologists' Meeting](https://www.epfl.ch/labs/hessbellwald-lab/seminar/ytm2015/).
 * [Toward the formal theory of (∞,n)-categories](https://emilyriehl.github.io/files/oberwolfach.pdf), from the 2014 Topologie workshop at Oberwolfach.
 * [The formal theory of adjunctions, monads, algebras, and descent](https:/emilyriehl.github.io/files/MSRI-formal.pdf), from [Reimagining the Foundations of Algebraic Topology at MSRI](https://www.msri.org/workshops/689), written by [David White](http://personal.denison.edu/~whiteda/).

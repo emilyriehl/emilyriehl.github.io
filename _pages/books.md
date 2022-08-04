@@ -16,9 +16,11 @@ author_profile: true
 
     Once again, I am very grateful for a special arrangement with the publishers that allows me to host a free PDF copy. More information can be found on the [book website](https://math.jhu.edu/~eriehl/context/) and in this [blog post](https://golem.ph.utexas.edu/category/2016/11/category_theory_in_context.html).
 
-* [Elements of &infin;-Category Theory](https://emilyriehl.github.io/files/elements.pdf), with [Dominic Verity](https://researchers.mq.edu.au/en/persons/dominic-verity), will soon be published by [Cambridge University Press](https://www.cambridge.org/core/books/elements-of-category-theory/DAC48C449AB8C2C1B1E528A49D27FC6D) in their [Cambridge Studies in Advanced Mathematics](https://www.cambridge.org/core/series/cambridge-studies-in-advanced-mathematics/0A5F361E5A5E9D3EFE58F53613C0D307) series.
+* [Elements of &infin;-Category Theory](https://emilyriehl.github.io/files/elements.pdf), with [Dominic Verity](https://researchers.mq.edu.au/en/persons/dominic-verity), published in 2022 by [Cambridge University Press](https://www.cambridge.org/core/books/elements-of-category-theory/DAC48C449AB8C2C1B1E528A49D27FC6D) in their [Cambridge Studies in Advanced Mathematics](https://www.cambridge.org/core/series/cambridge-studies-in-advanced-mathematics/0A5F361E5A5E9D3EFE58F53613C0D307) series.
 
     > This material has been / will be published by Cambridge University Press as Elements of &infin;-Category Theory by Emily Riehl and Dominic Verity. This pre-publication version is free to view and download for personal use only. Not for re-distribution, re-sale or use in derivative works. &copy; Emily Riehl and Dominic Verity 2018-2021.
+
+    I am grateful to them for a special arrangement that also allows me to host a free PDF copy with the preceding disclaimer. More information can be found on the [book website](https://elements-book.github.io/).
 
     The [original draft](https://emilyriehl.github.io/files/more-elements.pdf), which is no longer actively being edited, contained several additional chapters, which will re-appear later in a separate volume. Warning: improvements made to the primary text have not been propagated to this volume.
 

@@ -7,6 +7,8 @@ author_profile: true
 
 ## Johns Hopkins
 
+* [HoTTEST Summer School](https://uwo.ca/math/faculty/kapulkin/seminars/hottest_summer_school_2022.html) (summer 2022).
+* AS.110.602: Algebra II (spring 2022).
 * [AS.110.721: Homotopy Type Theory](https://github.com/emilyriehl/721) (fall 2021).
 * [AS.110.301: Introduction to Proofs](https://math.jhu.edu/~eriehl/301/) (spring 2021).
 * [AS.110.411: Honors Algebra I](https://math.jhu.edu/~eriehl/411/) (fall 2019).
@@ -37,6 +39,7 @@ author_profile: true
 Current and former mentees include:
 
 * Postdocs
+    * [Jonathan Weinberger](https://johnshopkins.academia.edu/JonathanWeinberger), 2022-present
     * [Tim Campion](http://sites.nd.edu/tcampion/), 2021-present
     * [Sina Hazratpour](https://sinhp.github.io/), 2021-present
     * [Maru Sarazola](https://pi.math.cornell.edu/~maru/), 2021-present
@@ -44,9 +47,10 @@ Current and former mentees include:
 
 * PhD students
     * [Daniel Fuentes-Keuthan](https://math.jhu.edu/~dfuente6/), "Goodwillie Towers of ∞-categories and Desuspension," PhD 2021
+    * [tslil clingman](https://tslil.xyz/), "Towards the theory proof-relevant, categories," PhD 2022
+    * [David Myers](http://davidjaz.com/), "Symmetry, geometry, modality," PhD 2022
     * [Anthony Agwu](https://mathematics.jhu.edu/people/graduate-students/)
-    * [tslil clingman](https://tslil.xyz/)
-    * [David Myers](http://davidjaz.com/)
+    * [Astra Kolomatskaia](https://www.math.stonybrook.edu/cards/kolomatskaiaastra.html)
     
 * VIsiting masters student
     * [Lyne Moser](https://lynemoser.com/), 2016

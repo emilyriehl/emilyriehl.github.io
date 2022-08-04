@@ -53,5 +53,5 @@ author_profile: true
 * E. Riehl and M. Wattal, On &infin;-cosmoi of bicategories, (2021), 1–22, [arXiv:2108.11786](https://arxiv.org/abs/2108.11786)
 * P. Hackney, V. Ozornova, E. Riehl, M. Rovelli, An (&infin;, 2)-categorical pasting theorem, (2021), 1–46, [arXiv:2106.03660](https://arxiv.org/abs/2106.03660)
 * E. Riehl and D. Verity, Cartesian exponentiation and monadicity, (2021), 1–71, [arXiv:2101.09853](https://arxiv.org/abs/2101.09853)
-* E. Riehl, Homotopy coherent structures, (2017), 1–26, [arXiv:1801.07404](https://arxiv.org/abs/1801.07404), also available via AMS Open Math Notes OMN:201901.110786.
+* E. Riehl, [Homotopy coherent structures](https://emilyriehl.github.io/files/coherent-structures.pdf), (2017), 1–26, [arXiv:1801.07404](https://arxiv.org/abs/1801.07404), also available via AMS Open Math Notes OMN:201901.110786.
 * E. Riehl, [Inductive Presentations of Generalized Reedy Categories](https://emilyriehl.github.io/files/generalized-reedy.pdf)
