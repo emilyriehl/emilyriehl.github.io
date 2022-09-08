@@ -40,7 +40,10 @@ author_profile: true
 
 ## Colloquia
 
-* [Path induction and the indiscernibility of identicals](https://emilyriehl.github.io/files/path-induction-LLN.pdf), a colloquium given at UCLouvain
+* [Path induction and the indiscernibility of identicals](https://emilyriehl.github.io/files/path-induction-LLN.pdf), a colloquium given at UCLouvain.
+* [Introduction to Homotopy Type Theory and Univalent Foundations](https://emilyriehl.github.io/files/Intro-HoTT-UF.pdf), a Tech Talk given at Google X.
+* [Elements of ∞-Category Theory](https://emilyriehl.github.io/files/elements-colloquium.pdf), a colloquium given at the [General Meeting of the London Mathematical Society](https://www.lms.ac.uk/civicrm/event/info?reset=1&id=50).
+* [Elements of ∞-Category Theory](https://www.matrix-inst.org.au/events/online-seminar-march-2021-a-prof-emily-riehl/), a colloquium hosted by the [Matrix Institute](https://www.matrix-inst.org.au/); [slides](https://emilyriehl.github.io/files/elements-colloquium.pdf).
 * [Elements of ∞-Category Theory](https://youtu.be/ZVreRhrtUyM), a virtual talk for the Mathematical Picture Language seminar at Harvard;  [slides](https://emilyriehl.github.io/files/elements-colloquium.pdf).
 * [Contractibility as Uniqueness](https://youtu.be/VdxdQiucJe8), a [Topos Institute](https://topos.site/) colloquium talk; [slides](https://emilyriehl.github.io/files/topos-colloquium.pdf).
 * [Contractibility as Uniqueness](https://youtu.be/X2kNt0ARVeI), a talk for [LGBTQ+Math Day](https://math.ryerson.ca/~abonato/LGBTQ/) held virtually at the Fields Institute.
