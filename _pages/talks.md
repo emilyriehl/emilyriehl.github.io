@@ -69,7 +69,7 @@ author_profile: true
 * [Transition to Research](https://emilyriehl.github.io/files/paraDIGMS.pdf), slides prepared for a panel discussion for the [paraDIGMS 2021 Spring Conference](https://www.imsi.institute/paradigms-spring-2021/).
 * [A brief introduction to &infin;-cosmoi and higher category theory](https://youtu.be/QpDTcefoWEQ), filmed by [Quanta Magazine](https://www.quantamagazine.org/emily-riehl-conducts-the-mathematical-orchestra-from-the-middle-20200902/).
 * [A formal language for &infin;-category theory](https://emilyriehl.github.io/files/Frontier.pdf), the [2020 President's Frontier Award lecture](https://youtu.be/WLkMBMUk48E).
-* [The mathematics of social choice](https://emilyriehl.github.io/files/voting.pdf), slides for a talk given as part of the 2019 [National Math Festival](https://www.nationalmathfestival.org/).
+* [The mathematics of social choice](https://emilyriehl.github.io/files/voting.pdf), slides prepared for the 2019 [National Math Festival](https://www.nationalmathfestival.org/) and [video](https://www.mathforamerica.org/teacher-learning/thursday-think-speaker-series) for a talk given in the Thursday Think Speaker Series for Math for America. 
 * A [promotional video](https://youtu.be/9pBZOlmL6zo)  for [Fat Chance: Probability from 0 to 1](https://www.cambridge.org/core/books/fat-chance/7B3971F26CD74B2C58E542A297F43629) also available as a course on [edX](https://www.edx.org/course/fat-chance-probability-from-the-ground-up-2).
 
 ## the Stable Marriage Problem
