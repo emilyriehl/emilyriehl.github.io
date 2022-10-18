@@ -40,6 +40,7 @@ author_profile: true
 
 ## Colloquia
 
+* [How I became seduced by univalent foundations](https://emilyriehl.github.io/files/fields-at-fields.pdf), a talk given at the [Fields Medal Symposium for Akshay Venkatesh](http://www.fields.utoronto.ca/activities/22-23/fieldsmedalsym) on the changing face of mathematical research.
 * [Path induction and the indiscernibility of identicals](https://emilyriehl.github.io/files/path-induction-LLN.pdf), a colloquium given at UCLouvain.
 * [Introduction to Homotopy Type Theory and Univalent Foundations](https://emilyriehl.github.io/files/Intro-HoTT-UF.pdf), a Tech Talk given at Google X.
 * [Elements of ∞-Category Theory](https://emilyriehl.github.io/files/elements-colloquium.pdf), a colloquium given at the [General Meeting of the London Mathematical Society](https://www.lms.ac.uk/civicrm/event/info?reset=1&id=50).
