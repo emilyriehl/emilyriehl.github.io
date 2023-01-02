@@ -13,6 +13,8 @@ author_profile: true
 
 ## Published Research
 
+* P. Hackney, V. Ozornova, E. Riehl, M. Rovelli, An (&infin;, 2)-categorical pasting theorem, Trans. Amer. Math. Soc. 376 (2023), 555–597, [arXiv:2106.03660](https://arxiv.org/abs/2106.03660)
+* E. Riehl and M. Wattal, [On &infin;-cosmoi of bicategories](https://emilyriehl.github.io/files/bicategories.pdf), La Matematica 1, (2022), 740–764, [arXiv:2108.11786](https://arxiv.org/abs/2108.11786)
 * E. Riehl and D. Verity, [On the construction of limits and colimits in &infin;-categories](https://emilyriehl.github.io/files/construction.pdf), Theory Appl. Categ. 35 (2020), no. 30, 1101–1158, [arXiv:1808.09835](https://arxiv.org/abs/1808.09835)
 * E. Riehl and D. Verity, [Recognizing quasi-categorical limits and colimits in homotopy coherent nerves](https://emilyriehl.github.io/files/recognizing.pdf), Appl. Categ. Struct., 28(4), (2020), 669–716, [arXiv:1808.09834](https://arxiv.org/abs/1808.09834)
 * E. Riehl and D. Verity, [&infin;-category theory from scratch](https://emilyriehl.github.io/files/scratch.pdf), Higher Structures 4(1):115–167, 2020, [arXiv:1608.05314](http://arxiv.org/abs/1608.05314)
@@ -50,8 +52,9 @@ author_profile: true
 * A.M. Bohmann, [A comparison of norm maps](https://emilyriehl.github.io/files/norms.pdf), with an appendix by A.M. Bohmann and E. Riehl, Proc. Amer. Math. Soc. 142 (2014), no. 4, 1413–1423, [arXiv:1201.6277](http://arxiv.org/abs/1201.6277)
 
 ## Preprints
-* E. Riehl and M. Wattal, On &infin;-cosmoi of bicategories, (2021), 1–22, [arXiv:2108.11786](https://arxiv.org/abs/2108.11786)
-* P. Hackney, V. Ozornova, E. Riehl, M. Rovelli, An (&infin;, 2)-categorical pasting theorem, (2021), 1–46, [arXiv:2106.03660](https://arxiv.org/abs/2106.03660)
+* E. Riehl, On the &infin;-topos semantics of homotopy type theory, (2022), 1–37, [arXiv:2212.06937](https://arxiv.org/abs/2212.06937)
+* S. Hazratpour and E. Riehl, A 2-categorical proof of Frobenius for fibrations defined from a generic point, (2022), 1–15, [arXiv:2210.00078](https://arxiv.org/abs/2210.00078)
+* P. Hackney, V. Ozornova, E. Riehl, and M. Rovelli, Pushouts of Dwyer maps are (&infin;,1)-categorical, (2022), 1–29, [arXiv:2205.02353](https://arxiv.org/abs/2205.02353)
 * E. Riehl and D. Verity, Cartesian exponentiation and monadicity, (2021), 1–71, [arXiv:2101.09853](https://arxiv.org/abs/2101.09853)
 * E. Riehl, [Homotopy coherent structures](https://emilyriehl.github.io/files/coherent-structures.pdf), (2017), 1–26, [arXiv:1801.07404](https://arxiv.org/abs/1801.07404), also available via AMS Open Math Notes OMN:201901.110786.
 * E. Riehl, [Inductive Presentations of Generalized Reedy Categories](https://emilyriehl.github.io/files/generalized-reedy.pdf)
