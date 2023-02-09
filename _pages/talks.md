@@ -66,6 +66,8 @@ author_profile: true
 
 ## General audience
 
+* [On the art of giving the same name to different things](https://emilyriehl.github.io/files/identities-calgary.pdf), an expanded version for the [Calgary Mathematics and Philosophy Lectures](https://www.ucalgary.ca/programs/mathphil/2022-23).
+* [Mathematician explains infinity in 5 levels of difficulty](https://youtu.be/Vp570S6Plt8), episode 22 of the [WIRED 5 levels series](https://www.wired.com/video/series/5-levels).
 * [On the art of giving the same name to different things](https://emilyriehl.github.io/files/identities.pdf), slides prepared for a joint talk with [Stephanie Burt](https://english.fas.harvard.edu/people/stephanie-burt) for [The Multiplicity Turn: Theories of Identity from Poetry to Mathematics](https://dlcl.stanford.edu/events/multiplicity-turn-theories-identity-poetry-mathematics-1).
 * [Transition to Research](https://emilyriehl.github.io/files/paraDIGMS.pdf), slides prepared for a panel discussion for the [paraDIGMS 2021 Spring Conference](https://www.imsi.institute/paradigms-spring-2021/).
 * [A brief introduction to &infin;-cosmoi and higher category theory](https://youtu.be/QpDTcefoWEQ), filmed by [Quanta Magazine](https://www.quantamagazine.org/emily-riehl-conducts-the-mathematical-orchestra-from-the-middle-20200902/).

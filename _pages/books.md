@@ -20,7 +20,7 @@ author_profile: true
 
     > This material has been / will be published by Cambridge University Press as Elements of &infin;-Category Theory by Emily Riehl and Dominic Verity. This pre-publication version is free to view and download for personal use only. Not for re-distribution, re-sale or use in derivative works. &copy; Emily Riehl and Dominic Verity 2018-2021.
 
-    I am grateful to them for a special arrangement that also allows me to host a free PDF copy with the preceding disclaimer. More information can be found on the [book website](https://elements-book.github.io/).
+    I am grateful to them for a special arrangement that also allows me to host a free PDF copy with the preceding disclaimer. More information can be found on the [book website](https://elements-book.github.io/). We were honored to be recognized as the mathematics and statistics category winner in the [2023 PROSE awards](https://publishers.org/news/association-of-american-publishers-announces-finalists-and-category-winners-for-2023-prose-awards/) from the Association of American Publishers.
 
     The [original draft](https://emilyriehl.github.io/files/more-elements.pdf), which is no longer actively being edited, contained several additional chapters, which will re-appear later in a separate volume. Warning: improvements made to the primary text have not been propagated to this volume.
 

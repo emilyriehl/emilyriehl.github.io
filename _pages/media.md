@@ -5,6 +5,8 @@ permalink: /media/
 author_profile: true
 ---
 
+* A video [Mathematician explains infinity in 5 levels of difficulty](https://youtu.be/Vp570S6Plt8), produced as episode 22 of the [WIRED 5 levels series](https://www.wired.com/video/series/5-levels).
+
 * An article [The mathematic mind of Emily Riehl](https://hub.jhu.edu/magazine/2021/winter/emily-riehl-category-theory/) from Johns Hopkins Magazine.
 
 * An expository essay [Infinity-Category Theory Offers a Bird's-Eye View of Mathematics](https://www.scientificamerican.com/article/infinity-category-theory-offers-a-birds-eye-view-of-mathematics/), originally published with the title "Infinite Math" in Scientific American 325, 4, 32-41 (October 2021).
