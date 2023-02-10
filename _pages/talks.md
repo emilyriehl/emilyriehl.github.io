@@ -40,6 +40,7 @@ author_profile: true
 
 ## Colloquia
 
+* [A reintroduction to proofs](https://emilyriehl.github.io/files/reintroduction-to-proofs.pdf), given as the [PIMS Distinguished Lecture](https://www.uregina.ca/science/mathstat/lectures.html) at the University of Regina.
 * [How I became seduced by univalent foundations](https://emilyriehl.github.io/files/fields-at-fields.pdf), a talk given at the [Fields Medal Symposium for Akshay Venkatesh](http://www.fields.utoronto.ca/activities/22-23/fieldsmedalsym) on the changing face of mathematical research.
 * [Path induction and the indiscernibility of identicals](https://emilyriehl.github.io/files/path-induction-LLN.pdf), a colloquium given at UCLouvain.
 * [Introduction to Homotopy Type Theory and Univalent Foundations](https://emilyriehl.github.io/files/Intro-HoTT-UF.pdf), a Tech Talk given at Google X.
