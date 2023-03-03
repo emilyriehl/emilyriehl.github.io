@@ -40,7 +40,8 @@ author_profile: true
 
 ## Colloquia
 
-* [A reintroduction to proofs](https://emilyriehl.github.io/files/undergrad-reintroduction-to-proofs.pdf), an undergraduate colloquium talk given at Texas State University.
+* [A reintroduction to proofs](https://emilyriehl.github.io/files/undergrad-reintroduction-to-proofs.pdf), a Logic @ Texas State undergraduate colloquium.
+* [A reintroduction to proofs](https://emilyriehl.github.io/files/reintroduction-to-proofs.pdf), given as the [PIMS Distinguished Lecture](https://www.uregina.ca/science/mathstat/lectures.html) at the University of Regina.
 * [Path induction and the indiscernibility of identicals](https://emilyriehl.github.io/files/path-induction-LLN.pdf), a colloquium given at UCLouvain.
 * [Introduction to Homotopy Type Theory and Univalent Foundations](https://emilyriehl.github.io/files/Intro-HoTT-UF.pdf), a Tech Talk given at Google X.
 * [Elements of ∞-Category Theory](https://emilyriehl.github.io/files/elements-colloquium.pdf), a colloquium given at the [General Meeting of the London Mathematical Society](https://www.lms.ac.uk/civicrm/event/info?reset=1&id=50).
