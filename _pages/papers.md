@@ -43,6 +43,7 @@ author_profile: true
 * E. Graham Evans, Jr. and E. Riehl, [On the intersections of polynomials and the Cayley-Bacharach theorem](https://emilyriehl.github.io/files/cayley-bacharach.pdf), J. Pure and Appl. Algebra 183 (2003), no. 1–3, 293–298.
 
 ## Published Exposition
+* E. Riehl, [Could &infin;-category theory be taught to undergraduates?](https://emilyriehl.github.io/files/undergraduates.pdf), [Notices of the AMS](https://www.ams.org/journals/notices/202305/noti2692/noti2692.html) 70(5). May 2023, 727--736. 
 * E. Riehl, [Homotopy coherent structures](https://emilyriehl.github.io/files/coherent-structures.pdf), Expositions in Theory and Applications of Categories 1 (2023), 1-31, [arXiv:1801.07404](https://arxiv.org/abs/1801.07404), also available via AMS Open Math Notes OMN:201901.110786.
 * E. Riehl [Infinity-Category Theory Offers a Bird's-Eye View of Mathematics](https://www.scientificamerican.com/article/infinity-category-theory-offers-a-birds-eye-view-of-mathematics/), originally published with the title "Infinite Math" in Scientific American 325, 4, 32-41 (October 2021).
 * E. Riehl, [Homotopical categories: from model categories to (&infin;, 1)-categories](https://emilyriehl.github.io/files/homotopical.pdf), to appear in a forthcoming volume on spectra to appear in the MSRI Publications Series with Cambridge University Press, (2019), 1–67, [arXiv:1904.00886](https://arxiv.org/abs/1904.00886)
