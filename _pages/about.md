@@ -12,7 +12,7 @@ I am a Professor in the Department of Mathematics at [Johns Hopkins University](
 
 I run the  [Johns Hopkins Category Theory Seminar](https://math.jhu.edu/~eriehl/ct/) and am a co-organizer of the [Homotopy Type Theory Electronic Seminar Talks](https://uwo.ca/math/faculty/kapulkin/seminars/hottest.html). I was both an organizer and lecturer for the [HoTTEST Summer School](https://uwo.ca/math/faculty/kapulkin/seminars/hottest_summer_school_2022.html), the archives of which can now be found on [GitHub](https://github.com/martinescardo/HoTTEST-Summer-School) and on [YouTube](https://youtube.com/playlist?list=PLtIZ5qxwSNnzpNqfXzJjlHI9yCAzRzKtx).
 
-I am a co-host of the [n-Category Caf&eacute;](https://golem.ph.utexas.edu/category/) and was a founding board member of [Spectra](http://lgbtmath.org/). <img src="https://emilyriehl.github.io/files/progress-pride.webp" width = "5%"/>
+I am a co-host of the [n-Category Caf&eacute;](https://golem.ph.utexas.edu/category/) and was a founding board member of [Spectra](http://lgbtmath.org/). <img src="https://emilyriehl.github.io/files/progress-pride.webp" width = "5%"/>
 
 I serve on the editorial boards for [Homology, Homotopy, and Applications](https://www.intlpress.com/index.php), the [Journal of Pure and Applied Algebra](https://www.journals.elsevier.com/journal-of-pure-and-applied-algebra/editorial-board), and [Mathematical Logic Quarterly](https://onlinelibrary.wiley.com/journal/15213870). 
 
