@@ -14,6 +14,7 @@ author_profile: true
 
 ## Technical lectures
 
+- [Homotopy types as homotopy types](https://emilyriehl.github.io/files/hopkins65.pdf), lecture notes from [A panorama of homotopy theory: a conference in honour of Mike Hopkins](https://www.maths.ox.ac.uk/groups/topology/panorama-homotopy-theory)
 - [Formalizing &infin;-category theory in the rzk proof assistant](https://emilyriehl.github.io/files/yoneda-in-rzk.pdf), slides from a brief introduction to an ongoing [formalization project](https://emilyriehl.github.io/yoneda).
 - [The equivariant uniform Kan fibration model of cubical homotopy type theory](https://www.msri.org/seminars/25038), a talk given in the cubical sets seminar at MSRI;
   [slides](https://emilyriehl.github.io/files/MSRI-cubes.pdf).

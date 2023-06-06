@@ -18,6 +18,7 @@ author_profile: true
 
 ## Miscellaneous Mathematical Notes
 
+* [Homotopy types as homotopy types](https://emilyriehl.github.io/files/hopkins65.pdf), lecture notes from [A panorama of homotopy theory: a conference in honour of Mike Hopkins](https://www.maths.ox.ac.uk/groups/topology/panorama-homotopy-theory)
 * [Higher category theory](https://emilyriehl.github.io/files/thursday.pdf), lecture notes from the Thursday Seminar held at Harvard in Spring 2013.
 * [The algebra and geometry of ∞-categories](https://emilyriehl.github.io/files/infinitycategories.pdf), written for the Friends of Harvard Mathematics. 
 * [A survey of categorical concepts](https://emilyriehl.github.io/files/survey.pdf), written for a graduate topics course.
