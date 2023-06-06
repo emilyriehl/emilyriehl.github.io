@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Emily Riehl"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Emily Riehl"
 description              : &description "academic webpage for Emily Riehl"
