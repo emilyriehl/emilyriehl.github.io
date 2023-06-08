@@ -54,7 +54,6 @@ author_profile: true
 * A.M. Bohmann, [A comparison of norm maps](https://emilyriehl.github.io/files/norms.pdf), with an appendix by A.M. Bohmann and E. Riehl, Proc. Amer. Math. Soc. 142 (2014), no. 4, 1413–1423, [arXiv:1201.6277](http://arxiv.org/abs/1201.6277)
 
 ## Preprints
-* E. Riehl, Could &infin;-category theory be taught to undergraduates?, (2023), 1-15 [arXiv:2302.07855](https://arxiv.org/abs/2302.07855)
 * E. Riehl, On the &infin;-topos semantics of homotopy type theory, (2022), 1–37, [arXiv:2212.06937](https://arxiv.org/abs/2212.06937)
 * S. Hazratpour and E. Riehl, A 2-categorical proof of Frobenius for fibrations defined from a generic point, (2022), 1–15, [arXiv:2210.00078](https://arxiv.org/abs/2210.00078)
 * P. Hackney, V. Ozornova, E. Riehl, and M. Rovelli, Pushouts of Dwyer maps are (&infin;,1)-categorical, (2022), 1–29, [arXiv:2205.02353](https://arxiv.org/abs/2205.02353)
