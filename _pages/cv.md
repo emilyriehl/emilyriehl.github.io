@@ -25,6 +25,12 @@ Here is my [CV](https://emilyriehl.github.io/files/CV.pdf).
 
 #  Visiting Positions
 
+* **Institute Henri Poincaré**, Paris, Francis
+    * Visiting Professor, Sorbonne Université, June 2023
+
+* **Australian National University**, Canberra, Australia
+    * Visitor, January 2023
+
 * **Institut Mittag-Leffler, the Royal Swedish Academy of Sciences**, Djursholm, Sweden
     * Participant, Higher algebraic structures in algebra, topology and geometry, January 2021
 
