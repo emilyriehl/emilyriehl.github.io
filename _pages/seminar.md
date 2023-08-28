@@ -5,7 +5,7 @@ permalink: /seminar/
 author_profile: true
 ---
 
-## Fall 2023 Schedule: (Tuesdays excluding the first of the month, 3-4pm)
+## Fall 2023 Schedule: (Tuesdays excluding the first of the month, 3-4pm; Maryland 114)
 
 In Fall 2023 the category theory seminar will aim to introduce condensed mathematics.
 
@@ -211,16 +211,16 @@ After that single sentence, we’ll look at the moduli stack of elliptic curves 
  
  Abstract: It is known that the Grothendieck group of the category of Schur functors is the ring of symmetric functions. This ring has a rich structure, much of which is encapsulated in the fact that it is a &ldquo;plethory&rdquo;: a monoid in the category of birings with its substitution monoidal structure. We show that similarly the category of Schur functors is a &ldquo;2-plethory&rdquo;, which descends to give the plethory structure on symmetric functions. Thus, much of the structure of symmetric functions exists at a higher level in the category of Schur functors.
  
- ## Fall 2020 Schedule (various Wednesdays; gather 5pm, talk 5:15pm Baltimore time):
+## Fall 2020 Schedule (various Wednesdays; gather 5pm, talk 5:15pm Baltimore time):
 
 - September 16: [tslil clingman](http://tslil.xyz), 
 Johns Hopkins
  
 Title: 
-    [BI DOUBLing categories we'll see](https://tslil.xyz/store/bidoublemultivirtual.pdf)
-    [MULTIple morphisms acting weakly](https://tslil.xyz/store/bidoublemultivirtual.pdf)
-    [Two out of the four](https://tslil.xyz/store/bidoublemultivirtual.pdf)
-    [Have laws rather poor](https://tslil.xyz/store/bidoublemultivirtual.pdf)
+    [BI DOUBLing categories we'll see](https://tslil.xyz/store/bidoublemultivirtual.pdf) // 
+    [MULTIple morphisms acting weakly](https://tslil.xyz/store/bidoublemultivirtual.pdf) //
+    [Two out of the four](https://tslil.xyz/store/bidoublemultivirtual.pdf) //
+    [Have laws rather poor](https://tslil.xyz/store/bidoublemultivirtual.pdf) //
     [But the last is coherent VIRTUALLY!](https://tslil.xyz/store/bidoublemultivirtual.pdf)
 
 Abstract: Although 1-dimensional categories of various flavours are sufficient as a universe of discourse for many applications, the theory of categories themselves only truly reveals itself in dimension 2. For this reason, and for other naturally occurring motivating examples, it is of use to make rigorous and study various notions of 2-dimensional category.
@@ -239,12 +239,9 @@ is defined by a universal property, the complex laws and theorems of
 non-strict composition are automatic and functoriality is the natural
 result of the graded preservation of universality.
 
-    Prerequisites:
-    - limits in a category, especially products and pullbacks 
-    - monoidal categories, and strict/strong/lax monoidal functors 
-    - the 2-category Cat of categories, functors, and natural transformations 
+Prerequisites: limits in a category, especially products and pullbacks;monoidal categories, and strict/strong/lax monoidal functors;  the 2-category Cat of categories, functors, and natural transformations 
 
-    Suggested background: We will find motivation in theory of pro-functors and their composites, as well as the theory of bi-modules over rings and their tensors.
+Suggested background: We will find motivation in theory of pro-functors and their composites, as well as the theory of bi-modules over rings and their tensors.
 
 -  September 23: [David Jaz Myers](http://davidjaz.com), Johns Hopkins
  
@@ -276,13 +273,9 @@ We will find applications of our theory of mates in re-proving some of
 the early theorems of adjunctions and, if time and interest permits, to
 the celebrated &ldquo;Doctrinal Adjunction&rdquo; result of Kelly. The central result of this paper relates adjunctions of lax- and colax-morphisms of 2-dimensional algebras for 2-dimensional monads to adjunctions of the underlying objects. As a particular consequence, in an adjunction of monoidal categories the left adjoint is oplax-monoidal iff. the right adjoint is lax-monoidal. 
 
-Prerequisites:
-    - Adjunctions (equational definition in Cat)  
-    - 2-categories, 2-functors (definitions and Cat as an example) 
-    - double categories, double functors (definitions) 
+Prerequisites: Adjunctions (equational definition in Cat); 2-categories, 2-functors (definitions and Cat as an example); double categories, double functors (definitions) 
 
-<i>Inessential but suggested:</i> 
-    - horizontal and vertical double-natural transformations 
+<i>Inessential but suggested:</i>  horizontal and vertical double-natural transformations 
 
 -  October 28: [Alexander Campbell](https://acmbl.github.io), Johns Hopkins
  
@@ -323,7 +316,7 @@ Abstract: At its current state of the art, &infin;-category theory is challengin
  
 Title:  [Sketches of an Elephant: an Introduction to Topos Theory](http://www.math.jhu.edu/~eriehl/ct/sketches-of-an-elephant.pdf) 
 
-Abstract: We briefly outline the history of topos theory, from its origins in sheaf theory which lead to the notion of a Grothendieck topos, through its unification with categorical logic which lead to the notion of an elementary topos, to a glimpse of the modern topos-theoretic outlook. PTJ describes this point of view as &ldquo;the rejection of the idea that there is a fixed universe of `constant' sets within which mathematics can and should be developed, and the recognition that the notion of `variable structure' may be more conveniently handled within a universe of continuously variable sets.&rdquo; Time permitting, we'll sketch an application of the universal language of the topos of sheaves on the spectrum of a commutative ring that allows one to regard the ring as a local ring, at least locally.
+Abstract: We briefly outline the history of topos theory, from its origins in sheaf theory which lead to the notion of a Grothendieck topos, through its unification with categorical logic which lead to the notion of an elementary topos, to a glimpse of the modern topos-theoretic outlook. PTJ describes this point of view as &ldquo;the rejection of the idea that there is a fixed universe of "constant" sets within which mathematics can and should be developed, and the recognition that the notion of "variable structure" may be more conveniently handled within a universe of continuously variable sets.&rdquo; Time permitting, we'll sketch an application of the universal language of the topos of sheaves on the spectrum of a commutative ring that allows one to regard the ring as a local ring, at least locally.
 
 -  September 17:  [tslil clingman](http://tslil.xyz), Johns Hopkins 
  
@@ -667,7 +660,7 @@ Abstract: In this talk, we give a basic introduction to the nascent field of app
 
 ## Fall 2017 Schedule (approximately alternate Thursdays; pretalk 4pm, talk 5:30pm; [Krieger 413](https://m.jhu.edu/homewood_ed_1/map/map?feed=u-map-homewood&id=u-map-homewood%2FAll+Homewood+Campus+Buildings%2FKrieger+Hall&parentId=u-map-homewood%2FAll+Homewood+Campus+Buildings)):
 
-- September 7: <a href=http://math.jhu.edu/~eriehl>Emily Riehl</a>, Johns Hopkins
+- September 7: [Emily Riehl](https://emilyriehl.github.io), Johns Hopkins
  
 Title:  Basic concepts of enriched category theory 
 
