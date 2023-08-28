@@ -9,6 +9,18 @@ author_profile: true
 
 In Fall 2023 the category theory seminar will aim to introduce condensed mathematics.
 
+References include:
+- [Lectures on condensed mathematics](https://www.math.uni-bonn.de/people/scholze/Condensed.pdf), Peter Scholze, lecture notes, 2019.
+- [Pyknotic objects, I. Basic notions](https://arxiv.org/pdf/1904.09966.pdf), Clark Barwick and Peter Haine, preprint, 2019.
+- [Exodromy](https://arxiv.org/pdf/1807.03281.pdf), Clark Barwick, Saul Glasman, Peter Haine, preprint, 2020.
+- [The foundations of condensed mathematics](https://dagur.sites.ku.dk/files/2022/01/condensed-foundations.pdf), Dagur &Aacute;sgeirsson, MSc thesis, 2021.
+- [Animated Condensed Sets and Their Homotopy Groups](https://arxiv.org/pdf/2105.07888.pdf), Catrin Mair, masters thesis, 2021.
+- [A p-adic 6-functor formalism in rigid-analytic geometry](https://arxiv.org/pdf/2206.02022.pdf), Lucas Mann, preprint, 2022
+
+Past workshops and mini-courses:
+- [Joint Seminar TUM/UR: Condensed/Pyknotic Mathematics](https://cisinski.app.uni-regensburg.de/condensed.html), Regensburg 2020
+- [Arbeitstagung 2023 on Condensed Mathematics](https://www.mpim-bonn.mpg.de/node/11707/program/all), Bonn 2023
+
 ## Spring 2022 Schedule: (almost always on Tuesday, pretalk 4-5pm, talk 5:30-6:30pm)
 
 - February 2: Miloslav &#352;t&#283;p&aacute;n, Masaryk
