@@ -12,15 +12,30 @@ In Fall 2023 the category theory seminar will aim to introduce condensed mathema
 References include:
 - [Lectures on condensed mathematics](https://www.math.uni-bonn.de/people/scholze/Condensed.pdf), Peter Scholze, lecture notes, 2019.
 - [Pyknotic objects, I. Basic notions](https://arxiv.org/pdf/1904.09966.pdf), Clark Barwick and Peter Haine, preprint, 2019.
-- [Exodromy](https://arxiv.org/pdf/1807.03281.pdf), Clark Barwick, Saul Glasman, Peter Haine, preprint, 2020.
 - [The foundations of condensed mathematics](https://dagur.sites.ku.dk/files/2022/01/condensed-foundations.pdf), Dagur &Aacute;sgeirsson, MSc thesis, 2021.
 - [Animated Condensed Sets and Their Homotopy Groups](https://arxiv.org/pdf/2105.07888.pdf), Catrin Mair, masters thesis, 2021.
-- [A p-adic 6-functor formalism in rigid-analytic geometry](https://arxiv.org/pdf/2206.02022.pdf), Lucas Mann, preprint, 2022
 
 Past workshops and mini-courses:
 - [Joint Seminar TUM/UR: Condensed/Pyknotic Mathematics](https://cisinski.app.uni-regensburg.de/condensed.html), Regensburg 2020
 - [Arbeitstagung 2023 on Condensed Mathematics](https://www.mpim-bonn.mpg.de/node/11707/program/all), Bonn 2023
 - [Crash course in condensed mathematics](https://math.commelin.net/2023/condensed), Albert-Ludwigs-Universität Freiburg 2023.
+
+Applications and related topics:
+- [Exodromy](https://arxiv.org/pdf/1807.03281.pdf), Clark Barwick, Saul Glasman, Peter Haine, preprint, 2020.
+- [Lectures on analytic geometry](https://www.math.uni-bonn.de/people/scholze/Analytic.pdf), Peter Scholze, 2020.
+- [Condensed mathematics and complex geometry](https://people.mpim-bonn.mpg.de/scholze/Complex.pdf), Dustin Clausen and Peter Scholze, 2022.
+- [Six functor formalisms](https://people.mpim-bonn.mpg.de/scholze/SixFunctors.pdf), Peter Scholze, 2023.
+- [A p-adic 6-functor formalism in rigid-analytic geometry](https://arxiv.org/pdf/2206.02022.pdf), Lucas Mann, preprint, 2022
+
+- September 12: Yashi Jain, Johns Hopkins, on condensed/pyknotic sets I
+- September 19: Astra Kolomatskaia, Stony Brook, on condensed/pyknotic sets II
+- September 26: Qing Qi, Johns Hopkins, on condensed abelian groups I
+- October 10: Nooria Ahmed, on condensed abelian groups II
+- October 17: Fan Huang, Johns Hopkins, on cohomology
+- October 24: Akira Tominaga, Johns Hopkins, on locally compact abelian groups
+- November 14: [Rok Gregoric](https://web.ma.utexas.edu/users/gregoric/), Johns Hopkins, on analytic rings
+- November 26: Anish Chedalavada, Johns Hopkins, on applications to Morava E-theory
+- December 12: [Jonathan Weinberger](https://sites.google.com/view/jonathanweinberger), Johns Hopkins, on exodromy
 
 ## Spring 2022 Schedule: (almost always on Tuesday, pretalk 4-5pm, talk 5:30-6:30pm)
 
