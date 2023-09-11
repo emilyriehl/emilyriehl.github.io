@@ -27,7 +27,13 @@ Applications and related topics:
 - [Six functor formalisms](https://people.mpim-bonn.mpg.de/scholze/SixFunctors.pdf), Peter Scholze, 2023.
 - [A p-adic 6-functor formalism in rigid-analytic geometry](https://arxiv.org/pdf/2206.02022.pdf), Lucas Mann, preprint, 2022
 
-- September 12: Yashi Jain, Johns Hopkins, on condensed/pyknotic sets I
+Talks: 
+- September 12: Yashi Jain, Johns Hopkins
+
+Title: Pyknotic sets
+
+Abstract: In this talk, I will introduce the idea of Pyknotic/Condensed sets and how they can potentially be used to solve the problem of the category of topological spaces not being abelian. I will also go over the prerequisite concepts in category theory such as the notion of Grothendieck topology, pro-object in a category etc.
+
 - September 19: Astra Kolomatskaia, Stony Brook, on condensed/pyknotic sets II
 - September 26: Qing Qi, Johns Hopkins, on condensed abelian groups I
 - October 10: Nooria Ahmed, on condensed abelian groups II
