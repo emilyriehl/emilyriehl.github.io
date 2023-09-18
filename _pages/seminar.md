@@ -35,6 +35,12 @@ Title: Pyknotic sets
 Abstract: In this talk, I will introduce the idea of Pyknotic/Condensed sets and how they can potentially be used to solve the problem of the category of topological spaces not being abelian. I will also go over the prerequisite concepts in category theory such as the notion of Grothendieck topology, pro-object in a category etc.
 
 - September 19: Astra Kolomatskaia, Stony Brook, on condensed/pyknotic sets II
+
+Title: Pyknotic/condensed sets II
+
+Abstract: We will continue the discussion of pyknotic sets, and introduce the notion of condensed sets.
+
+
 - September 26: Qing Qi, Johns Hopkins, on condensed abelian groups I
 - October 10: Nooria Ahmed, on condensed abelian groups II
 - October 17: Fan Huang, Johns Hopkins, on cohomology
