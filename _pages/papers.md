@@ -60,6 +60,7 @@ author_profile: true
 
 ## Preprints
 
+- N. Kudasov, E. Riehl, and J. Weinberger, Formalizing the &infin;-categorical Yoneda lemma, (2023), 1–13, [arXiv:2309.08340](https://arxiv.org/abs/2309.08340)
 - E. Riehl, On the &infin;-topos semantics of homotopy type theory, (2022), 1–37, [arXiv:2212.06937](https://arxiv.org/abs/2212.06937)
 - S. Hazratpour and E. Riehl, A 2-categorical proof of Frobenius for fibrations defined from a generic point, (2022), 1–15, [arXiv:2210.00078](https://arxiv.org/abs/2210.00078)
 - P. Hackney, V. Ozornova, E. Riehl, and M. Rovelli, Pushouts of Dwyer maps are (&infin;,1)-categorical, (2022), 1–29, [arXiv:2205.02353](https://arxiv.org/abs/2205.02353)
