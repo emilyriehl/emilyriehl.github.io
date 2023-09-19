@@ -14,8 +14,8 @@ author_profile: true
 
 ## Technical lectures
 
+- [Formalizing &infin;-category theory in the Rzk proof assistant](https://emilyriehl.github.io/files/yoneda-in-rzk.pdf), slides from a talk given at the [Interactions of Proof Assistants and Mathematics](https://itp-school-2023.github.io/) summer school describing ongoing [formalization project](https://emilyriehl.github.io/yoneda).
 - [Homotopy types as homotopy types](https://emilyriehl.github.io/files/hopkins65.pdf), lecture notes from [A panorama of homotopy theory: a conference in honour of Mike Hopkins](https://www.maths.ox.ac.uk/groups/topology/panorama-homotopy-theory); [video](https://www.maths.ox.ac.uk/groups/topology/panorama-homotopy-theory/links-recordings-lectures).
-- [Formalizing &infin;-category theory in the rzk proof assistant](https://emilyriehl.github.io/files/yoneda-in-rzk.pdf), slides from a brief introduction to an ongoing [formalization project](https://emilyriehl.github.io/yoneda).
 - [The equivariant uniform Kan fibration model of cubical homotopy type theory](https://www.msri.org/seminars/25038), a talk given in the cubical sets seminar at MSRI;
   [slides](https://emilyriehl.github.io/files/MSRI-cubes.pdf).
 - [A macrocosm principle for cartesian fibrations](http://www.fields.utoronto.ca/talks/macrocosm-principle-cartesian-fibrations) given at the [Workshop on Higher Structures in Geometry and Physics](http://www.fields.utoronto.ca/activities/19-20/mirrorsymmetry-non-archimedean) at the Fields Institute.
