@@ -15,6 +15,9 @@ References include:
 - [The foundations of condensed mathematics](https://dagur.sites.ku.dk/files/2022/01/condensed-foundations.pdf), Dagur &Aacute;sgeirsson, MSc thesis, 2021.
 - [Animated Condensed Sets and Their Homotopy Groups](https://arxiv.org/pdf/2105.07888.pdf), Catrin Mair, masters thesis, 2021.
 
+A contemporaneous seminar: 
+- [Columbia Condensed Mathematics Seminar](https://www.math.columbia.edu/~jmorgan/condensed_mathematics.html)
+
 Past workshops and mini-courses:
 - [Joint Seminar TUM/UR: Condensed/Pyknotic Mathematics](https://cisinski.app.uni-regensburg.de/condensed.html), Regensburg 2020
 - [Arbeitstagung 2023 on Condensed Mathematics](https://www.mpim-bonn.mpg.de/node/11707/program/all), Bonn 2023
