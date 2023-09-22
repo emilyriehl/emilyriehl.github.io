@@ -43,8 +43,12 @@ Title: Pyknotic/condensed sets II
 
 Abstract: We will continue the discussion of pyknotic sets, and introduce the notion of condensed sets.
 
+- September 26: Qing Qi, Johns Hopkins
 
-- September 26: Qing Qi, Johns Hopkins, on condensed abelian groups I
+Title: Condensed abelian groups I
+
+Abstract: We will talk about the categories of κ-condensed abelian groups with Grothendieck axioms and why they are the abelian category of the nicest possible sort.
+
 - October 10: Nooria Ahmed, on condensed abelian groups II
 - October 17: Fan Huang, Johns Hopkins, on cohomology
 - October 24: Akira Tominaga, Johns Hopkins, on locally compact abelian groups
