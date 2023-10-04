@@ -41,6 +41,7 @@ author_profile: true
 
 ## Colloquia
 
+- [Do we need a new foundation for higher structures?](https://emilyriehl.github.io/files/rzk-colloquium.pdf), a colloquium given at Rutgers.
 - [A reintroduction to proofs](https://emilyriehl.github.io/files/undergrad-reintroduction-to-proofs.pdf), a Logic @ Texas State undergraduate colloquium.
 - [A reintroduction to proofs](https://emilyriehl.github.io/files/reintroduction-to-proofs.pdf), given as the [PIMS Distinguished Lecture](https://www.uregina.ca/science/mathstat/lectures.html) at the University of Regina.
 - [Path induction and the indiscernibility of identicals](https://emilyriehl.github.io/files/path-induction-LLN.pdf), a colloquium given at UCLouvain.
