@@ -65,12 +65,15 @@ related to the construction of simple type theories. This suggests a more genera
 approach regarding coherence theorems. We will revisit the coherence theorem of
 monoidal categories proved by Mac Lane.
 
-- October 10: Nooria Ahmed, on condensed abelian groups II
-- October 17: Fan Huang, Johns Hopkins, on cohomology
-- October 24: Akira Tominaga, Johns Hopkins, on locally compact abelian groups
-- November 14: [Rok Gregoric](https://web.ma.utexas.edu/users/gregoric/), Johns Hopkins, on analytic rings
-- November 26: Anish Chedalavada, Johns Hopkins, on applications to Morava E-theory
-- December 12: [Jonathan Weinberger](https://sites.google.com/view/jonathanweinberger), Johns Hopkins, on exodromy
+- October 17: Nooria Ahmed, on condensed abelian groups II
+
+Abstract: In the previous talk, we learned about how k-Condensed Abelian Groups are abelian categories of an especially nice sort. In this talk, I will discuss how this fixes issues in some of our motivating problems and endows additional structure on the category that we will use later. Time permitting, I will also discuss some cardinality issues when considering different cardinals k.
+
+- October 24: Fan Huang, Johns Hopkins, on cohomology
+- November 14: Akira Tominaga, Johns Hopkins, on locally compact abelian groups
+- November 26: [Rok Gregoric](https://web.ma.utexas.edu/users/gregoric/), Johns Hopkins, on analytic rings
+- December 12: Anish Chedalavada, Johns Hopkins, on applications to Morava E-theory
+- February ??: [Jonathan Weinberger](https://sites.google.com/view/jonathanweinberger), Johns Hopkins, on exodromy
 
 ## Spring 2022 Schedule: (almost always on Tuesday, pretalk 4-5pm, talk 5:30-6:30pm)
 
