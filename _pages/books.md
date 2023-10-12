@@ -28,3 +28,26 @@ author_profile: true
 
 *  *Fat Chance: Probability from 0 to 1*,  with Benedict Gross and Joe Harris, published in 2019 by [Cambridge University Press](https://www.cambridge.org/core/books/fat-chance/7B3971F26CD74B2C58E542A297F43629). I also led the ''office hours'' for the corresponding [edX course](https://courses.edx.org/courses/course-v1:HarvardX+FC1x+1T2018/8fd45335a5524a4299a47a49c7dfee04/).
 
+## Edited Volume
+
+In Fall 2019, I hosted a weekend workshop entitled [A conversation on professional norms in mathematics](https://math.jhu.edu/~eriehl/norms/) with the generous support of the National Science Foundation CAREER Grants Program and the Department of Mathematics at Johns Hopkins University.
+
+Following that event, [Mathilde Gerbelli-Gauthier](https://mgerbelli.github.io/website/), [Pamela E. Harris](https://www.pamelaeharris.com/), 
+[Michael A. Hill](https://www.math.ucla.edu/~mikehill/), 
+[Dagan Karp](https://www.math.hmc.edu/~dk/), and I produced an edited volume, published by the [American Mathematical Society](https://bookstore.ams.org/mbk-140).
+
+Thanks to a special arrangement from the publisher, the text of the manuscript is now available here:
+
+* [A Conversation on Professional Norms in Mathematics](https://emilyriehl.github.io/files/norms.pdf)
+
+After a short preface and introduction, the volume contains the following essays:
+
+- "The Time for Miracles is Over" by [William Yslas Vélez](https://www.math.arizona.edu/~velez/) and Ana Christina Vélez
+- "On toxic mentorship and the academic savior complex" by [Pamela E. Harris](https://www.pamelaeharris.com/)
+- "Todxs cuentan:  building community and welcoming humanity from the first day of class" by [Federico Ardila-Mantilla](https://fardila.com/)
+- "Congressive Question Time" by [Eugenia Cheng](https://eugeniacheng.com/)
+- "Mathematics, We Have a Problem" by [Michelle Manes](https://math.hawaii.edu/~mmanes/)
+- "Fiber Bundles and Intersectional Feminism" by [Dagan Karp](https://www.math.hmc.edu/~dk/)
+- "On Parameters for Communicating Mathematics" by [Oliver Knill](https://people.math.harvard.edu/~knill/)
+- "Turning Coffee into Unions: Mathematicians and Collective Bargaining" by [Denis R. Hirschfeldt](https://www.math.uchicago.edu/~drh/)
+- "Universities in the time of climate change" by [Izabella Łaba](https://personal.math.ubc.ca/~ilaba/)
