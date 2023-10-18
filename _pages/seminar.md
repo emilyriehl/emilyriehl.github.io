@@ -58,18 +58,23 @@ Abstract: We will talk about the categories of κ-condensed abelian groups with 
 
 Title: Coherence Theorems in the style of Mac Lane
 
-Abstract: The aim is to discuss different equational structures defined on categories like
-monoidal, symmetric monoidal and cartesian monoidal structures. The aim is
-to shed light on the associated coherence theorems and to show how these are
+Abstract: The aim is to discuss different equational structures defined on categories like monoidal, symmetric monoidal and cartesian monoidal structures. The aim is to shed light on the associated coherence theorems and to show how these are
 related to the construction of simple type theories. This suggests a more general
 approach regarding coherence theorems. We will revisit the coherence theorem of
 monoidal categories proved by Mac Lane.
 
-- October 17: Nooria Ahmed, on condensed abelian groups II
+- October 17: Nooria Ahmed, Johns Hopkins
+
+Title: Condensed abelian groups II
 
 Abstract: In the previous talk, we learned about how k-Condensed Abelian Groups are abelian categories of an especially nice sort. In this talk, I will discuss how this fixes issues in some of our motivating problems and endows additional structure on the category that we will use later. Time permitting, I will also discuss some cardinality issues when considering different cardinals k.
 
-- October 24: Fan Huang, Johns Hopkins, on cohomology
+- October 24: Fan Huang, Johns Hopkins
+
+Title: Cohomology 
+
+Abstract: Our goal in this talk is to recover the classical sheaf cohomology on topological spaces from related condensed set and condensed abelian groups. I will also discuss some infinity category theory, because from some point of view, that is where the actual story of derived category and cohomology happens.
+
 - November 14: Akira Tominaga, Johns Hopkins, on locally compact abelian groups
 - November 26: [Rok Gregoric](https://web.ma.utexas.edu/users/gregoric/), Johns Hopkins, on analytic rings
 - December 12: Anish Chedalavada, Johns Hopkins, on applications to Morava E-theory
