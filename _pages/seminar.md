@@ -75,9 +75,21 @@ Title: Cohomology
 
 Abstract: Our goal in this talk is to recover the classical sheaf cohomology on topological spaces from related condensed set and condensed abelian groups. I will also discuss some infinity category theory, because from some point of view, that is where the actual story of derived category and cohomology happens.
 
-- November 14: Akira Tominaga, Johns Hopkins, on locally compact abelian groups
-- November 26: [Rok Gregoric](https://web.ma.utexas.edu/users/gregoric/), Johns Hopkins, on analytic rings
-- December 12: Anish Chedalavada, Johns Hopkins, on applications to Morava E-theory
+- November 14: Akira Tominaga, Johns Hopkins
+
+Title: Locally compact abelian groups
+
+- November 26: Juan Esteban Rodriguez Camargo, Columbia
+
+Title: Solid locally analytic representations
+
+Abstract: I will discuss common work with Joaquin Rodrigues Jacinto about new foundations for representation theory of p-adic Lie groups using condensed mathematics. I will explain how different categories of representations fit in the new theory of analytic geometry of Clausen and Scholze, and also how some group cohomological comparisons can be understood in the language of six functor formalisms.
+
+- December 5: [Raffael Stenzel](https://guests.mpim-bonn.mpg.de/stenzel/), MPIM Bonn
+
+- December 12: [Rok Gregoric](https://web.ma.utexas.edu/users/gregoric/), Johns Hopkins, on analytic rings
+
+- February ?? : Anish Chedalavada, Johns Hopkins, on applications to Morava E-theory
 - February ??: [Jonathan Weinberger](https://sites.google.com/view/jonathanweinberger), Johns Hopkins, on exodromy
 
 ## Spring 2022 Schedule: (almost always on Tuesday, pretalk 4-5pm, talk 5:30-6:30pm)
