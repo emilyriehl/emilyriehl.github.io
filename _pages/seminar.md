@@ -87,9 +87,16 @@ Abstract: I will discuss common work with Joaquin Rodrigues Jacinto about new fo
 
 - December 5: [Raffael Stenzel](https://guests.mpim-bonn.mpg.de/stenzel/), MPIM Bonn
 
-- December 12: [Rok Gregoric](https://web.ma.utexas.edu/users/gregoric/), Johns Hopkins, on analytic rings
+Title: The (&infin;,2)-category of internal (&infin;,1)-categories
 
-- February ?? : Anish Chedalavada, Johns Hopkins, on applications to Morava E-theory
+Abstract: Results which concern the classification of parametrized structures over a given base by means of internal constructions within that 
+base are fairly ubiquitous in logic, algebra and topology. These results are by and large formal consequences of reflection properties of an 
+associated externalization functor. In this talk, we define the formal externalization of &infin;-categories internal to an ambient &infin;-category C and study the resulting (&infin;,2)-categorical enhancement thus obtained. We then construct a lift of this theory to the context of model 
+categorical presentations, and relate it to homotopy theoretical constructions of Hovey, Dugger, and Riehl and Verity.
+
+- February ??: [Rok Gregoric](https://web.ma.utexas.edu/users/gregoric/), Johns Hopkins, on analytic rings
+
+- February ??: Anish Chedalavada, Johns Hopkins, on applications to Morava E-theory
 - February ??: [Jonathan Weinberger](https://sites.google.com/view/jonathanweinberger), Johns Hopkins, on exodromy
 
 ## Spring 2022 Schedule: (almost always on Tuesday, pretalk 4-5pm, talk 5:30-6:30pm)
