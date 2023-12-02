@@ -94,9 +94,12 @@ base are fairly ubiquitous in logic, algebra and topology. These results are by 
 associated externalization functor. In this talk, we define the formal externalization of &infin;-categories internal to an ambient &infin;-category C and study the resulting (&infin;,2)-categorical enhancement thus obtained. We then construct a lift of this theory to the context of model 
 categorical presentations, and relate it to homotopy theoretical constructions of Hovey, Dugger, and Riehl and Verity.
 
+- February ??: [Toan Pham](https://toanqpham.github.io/), Johns Hopkins, on solid abelian groups
+
 - February ??: [Rok Gregoric](https://web.ma.utexas.edu/users/gregoric/), Johns Hopkins, on analytic rings
 
 - February ??: Anish Chedalavada, Johns Hopkins, on applications to Morava E-theory
+
 - February ??: [Jonathan Weinberger](https://sites.google.com/view/jonathanweinberger), Johns Hopkins, on exodromy
 
 ## Spring 2022 Schedule: (almost always on Tuesday, pretalk 4-5pm, talk 5:30-6:30pm)
