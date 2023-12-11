@@ -94,6 +94,10 @@ base are fairly ubiquitous in logic, algebra and topology. These results are by 
 associated externalization functor. In this talk, we define the formal externalization of &infin;-categories internal to an ambient &infin;-category C and study the resulting (&infin;,2)-categorical enhancement thus obtained. We then construct a lift of this theory to the context of model 
 categorical presentations, and relate it to homotopy theoretical constructions of Hovey, Dugger, and Riehl and Verity.
 
+- December 12: [Peter Haine](https://math.berkeley.edu/~phaine/)
+
+Title: How to invent pyknotic/condensed mathematics
+
 - February ??: [Toan Pham](https://toanqpham.github.io/), Johns Hopkins, on solid abelian groups
 
 - February ??: [Rok Gregoric](https://web.ma.utexas.edu/users/gregoric/), Johns Hopkins, on analytic rings
