@@ -5,7 +5,23 @@ permalink: /seminar/
 author_profile: true
 ---
 
-## Fall 2023 Schedule: (Tuesdays excluding the first of the month, 3-4pm; Maryland 114)
+## Spring 2024 Schedule: (Tuesdays excluding the first of the month, 4:15-5:15pm; Krieger 413)
+
+The condensed mathematics seminar will continue in Spring 2024, though those talks will be announced elsewhere. The category theory seminar will resume in parallel on the following schedule.
+
+- February 27, [Sina Hazratpour](https://sinhp.github.io/), Johns Hopkins
+
+- March 12, [Daniel Carranza](https://daniel-carranza.github.io/), Johns Hopkins
+
+- March 26, [Jonathan Weinberger](https://sites.google.com/view/jonathanweinberger), Johns Hopkins
+
+- April 9, Anna Matsui, Johns Hopkins
+
+- April 16, Nooria Ahmed, Johns Hopkins
+
+- April 23, [Paula Verdugo](https://paula-verdugo.github.io/), Johns Hopkins
+
+## Fall 2023 Schedule: (Tuesdays excluding the first of the month, 3-4pm; Krieger 413)
 
 In Fall 2023 the category theory seminar will aim to introduce condensed mathematics.
 
