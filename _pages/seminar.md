@@ -7,9 +7,13 @@ author_profile: true
 
 ## Spring 2024 Schedule: (Tuesdays excluding the first of the month, 4:15-5:15pm; Krieger 413)
 
-The condensed mathematics seminar will continue in Spring 2024, though those talks will be announced elsewhere. The category theory seminar will resume in parallel on the following schedule.
+The condensed mathematics seminar will continue in Spring 2024, organized by [Rok Gregoric](https://sites.google.com/view/rokgregoric/home) and Anish Chedalavada. The new seminar website is [here](https://sites.google.com/view/rokgregoric/seminars). The category theory seminar will resume in parallel on the following schedule.
 
 - February 27, [Sina Hazratpour](https://sinhp.github.io/), Johns Hopkins
+
+Title: Fibered Yoneda Lemma in Lean 4
+
+Abstract: In this talk, I would like to give you a sense of what it’s like to do category theory in a computer. I use an interactive theorem prover called Lean4, a complex piece of software based on dependent type theory. In the first part, I will give a quick overview of category theory in Lean 4. In the second part of the talk, I will present two interactive proofs in Lean 4: the proof of the Yoneda Lemma and the proof of Fibered Yoneda Lemma.
 
 - March 12, [Daniel Carranza](https://daniel-carranza.github.io/), Johns Hopkins
 
