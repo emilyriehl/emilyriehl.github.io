@@ -17,6 +17,12 @@ Abstract: In this talk, I would like to give you a sense of what it’s like to 
 
 - March 12, [Daniel Carranza](https://daniel-carranza.github.io/), Johns Hopkins
 
+Title: Calculus of fractions for quasicategories
+
+Abstract: A central object of interest in abstract homotopy theory is the localization of marked categories. One case of interest is when the marked category admits a "calculus of fractions". This condition was introduced by P. Gabriel and M. Zisman to construct better-behaved models for the localization. For instance, in their model of the localization, morphisms are given by spans rather than arbitrary zig-zags, and the localization functor preserves any finite colimits that exist in the original category.
+
+In this talk, I will present a generalization (joint with C. Kapulkin and Z. Lindsey) of calculus of fractions to the setting of infinity categories (specifically quasicategories) and show how a workable model for the localization can be constructed using a marked variant of Kan's Ex-functor. No prior familiarity with calculus of fractions or quasicategories is required!
+
 - March 26, [Jonathan Weinberger](https://sites.google.com/view/jonathanweinberger), Johns Hopkins
 
 - April 9, Anna Matsui, Johns Hopkins
