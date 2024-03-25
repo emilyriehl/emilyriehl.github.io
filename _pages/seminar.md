@@ -25,6 +25,12 @@ In this talk, I will present a generalization (joint with C. Kapulkin and Z. Lin
 
 - March 26, [Jonathan Weinberger](https://sites.google.com/view/jonathanweinberger), Johns Hopkins
 
+Title: Synthetic &infin;-category theory
+
+Abstract: &infin;-categories are ubiquitous in modern algebraic geometry and homotopy theory. They can be understood as a homotopical version of ordinary categories in that composition is not given as a strict operation but up to a contractible choice of higher-dimensional data. This observation opens up a new way to reason about them: using the language of homotopy type theory, one can natively express such homotopy-invariant conditions leading to simpler definitions of proofs that traditionally would take a lot of time to establish. I’ll give a non-technical introduction to this synthetic approach to &infin;-category theory, relying on a directed extension of homotopy type theory by Riehl and Shulman. This includes a recent project, jointly with Kudasov and Riehl, where we developed a computer-checked proof of the Yoneda lemma for &infin;-categories. No prior knowledge of &infin;-categories or type theory is required.
+
+- April 2, Anthony Agwu, Johns Hopkins
+
 - April 9, Anna Matsui, Johns Hopkins
 
 - April 16, Nooria Ahmed, Johns Hopkins
