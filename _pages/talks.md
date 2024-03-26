@@ -69,6 +69,7 @@ author_profile: true
 
 ## General audience
 
+- [The mathematical multiverse: the case against a unified mathematical reality](https://emilyriehl.github.io/files/reality.pdf), for [Investigating Reality: A Philosophical, Mathematical, and Scientific Exploration](https://santafe.edu/info/investigating-reality/about) at the Santa Fe Institute.
 - [On the art of giving the same name to different things](https://emilyriehl.github.io/files/identities-calgary.pdf), an expanded version for the [Calgary Mathematics and Philosophy Lectures](https://www.ucalgary.ca/programs/mathphil/2022-23) and the [SUMS 2023: Math and Language](https://sites.google.com/brown.edu/sums) conference.
 - [Mathematician explains infinity in 5 levels of difficulty](https://youtu.be/Vp570S6Plt8), episode 22 of the [WIRED 5 levels series](https://www.wired.com/video/series/5-levels).
 - [On the art of giving the same name to different things](https://emilyriehl.github.io/files/identities.pdf), slides prepared for a joint talk with [Stephanie Burt](https://english.fas.harvard.edu/people/stephanie-burt) for [The Multiplicity Turn: Theories of Identity from Poetry to Mathematics](https://dlcl.stanford.edu/events/multiplicity-turn-theories-identity-poetry-mathematics-1).
