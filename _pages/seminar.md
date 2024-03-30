@@ -31,6 +31,12 @@ Abstract: &infin;-categories are ubiquitous in modern algebraic geometry and hom
 
 - April 2, Anthony Agwu, Johns Hopkins
 
+Title: On the Construction of a Relizability Topos
+
+Abstract: Partial combinatory algebras come out of a program started by Kleene to give a semantics for intuitionistic logic. As such any partial combinatory algebra gives a model of intuitionistic logic. Given a partial combinatory algebra A, one can derive from its model of intuitionistic logic an elementary topos called the realizability topos on A. What makes this topos interesting is that it is a large category but it is not a Grothendieck topos nor does it generally have countable limits or colimits and is not equivalent to a small category like FinSet. Realizability toposes also possess the existence of internal categories that are weakly complete (i.e. has all limits with respect to internal diagrams) and yet are not internal preorders. The effective topos is of particular note since this topos is built out of partial recursive mathematics and serves as a model of computable mathematics.
+
+I’ll will give an overview of partial combinatory algebras as well as their connnection to lambda calculus which will play a role in giving semantics for intuitionistic logic. We will also go over triposes and the tripos-to-topos construction needed to construct the relizability topos as well as the construction of the products, exponents and the subobject classifier of the relizability topos. Time permitting, I might talk about the internal weakly complete category of modest sets.
+
 - April 9, Anna Matsui, Johns Hopkins
 
 - April 16, Nooria Ahmed, Johns Hopkins
