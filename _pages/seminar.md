@@ -45,6 +45,11 @@ Abstract: 2λ-calculus is a language with three levels: types, terms, and rewrit
 
 - April 23, [Paula Verdugo](https://paula-verdugo.github.io/), Johns Hopkins
 
+Title: A formal language for formal category theory
+
+Abstract: Equipments have shown to be a powerful environment to express formal category theory. We build a model structure on the category of double categories and double functors whose fibrant objects are the equipments, and combine this together with Makkai’s early approach to equivalence invariant statements in higher category theory via FOLDS (First Order Logic with Dependent Sorts) and Henry’s recent connection between model structures and formal languages, to show a result on the equivalence invariance of formal category theory.
+
+
 ## Fall 2023 Schedule: (Tuesdays excluding the first of the month, 3-4pm; Krieger 413)
 
 In Fall 2023 the category theory seminar will aim to introduce condensed mathematics.
