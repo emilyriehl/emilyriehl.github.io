@@ -25,6 +25,9 @@ Here is my [CV](https://emilyriehl.github.io/files/CV.pdf).
 
 #  Visiting Positions
 
+* **Hausdorff Research Institute for Mathematics**, Bonn, Germany
+    * Program Participant, Prospects of Formal Mathematics, May--August 2024
+
 * **Institute Henri Poincaré**, Paris, Francis
     * Visiting Professor, Sorbonne Université, June 2023
 
