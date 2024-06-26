@@ -52,7 +52,7 @@ Current and former mentees include:
     * [Daniel Fuentes-Keuthan](https://math.jhu.edu/~dfuente6/), "Goodwillie Towers of ∞-categories and Desuspension," PhD 2021
     * [tslil clingman](https://tslil.xyz/), "Towards the theory proof-relevant, categories," PhD 2022
     * [David Myers](http://davidjaz.com/), "Symmetry, geometry, modality," PhD 2022
-    * [Paula Verdugo](https://paula-verdugo.github.io/), "On the homotopy theory of double categories and the equivalence invariance of formal category theory," PhD 2024
+    * [Paula Verdugo](https://paula-verdugo.github.io/), "On the homotopy theory of double categories and the equivalence invariance of formal category theory," PhD 2024 (jointly advised with Dominic Verity)
     * [Astra Kolomatskaia](https://www.math.stonybrook.edu/cards/kolomatskaiaastra.html), "Type Theory and Higher Structures," PhD 2024
     * [Anthony Agwu](https://mathematics.jhu.edu/people/graduate-students/)
     * [Alvaro Belmonte](https://mathematics.jhu.edu/people/graduate-students/)
