@@ -13,8 +13,9 @@ author_profile: true
 
 ## Published Research
 
-- N. Kudasov, E. Riehl, and J. Weinberger, Formalizing the &infin;-categorical Yoneda lemma, to appear in 13th ACM
-SIGPLAN International Conference on Certified Programs and Proofs (CPP 2024), 1–13, [arXiv:2309.08340](https://arxiv.org/abs/2309.08340)
+- S. Hazratpour and E. Riehl, A 2-categorical proof of Frobenius for fibrations defined from a generic point, [Mathematical Structures in Computer Science](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/article/2categorical-proof-of-frobenius-for-fibrations-defined-from-a-generic-point/8A9A180160D0833C108E51B0B5D1E6F2), Published online 2024:1-23,  [arXiv:2210.00078](https://arxiv.org/abs/2210.00078)
+- N. Kudasov, E. Riehl, and J. Weinberger, Formalizing the &infin;-categorical Yoneda lemma, 
+[CPP 2024: Proceedings of the 13th ACM SIGPLAN International Conference on Certified Programs and Proofs](https://dl.acm.org/doi/10.1145/3636501.3636945), 274-290, [arXiv:2309.08340](https://arxiv.org/abs/2309.08340)
 - P. Hackney, V. Ozornova, E. Riehl, and M. Rovelli, Pushouts of Dwyer maps are (&infin;,1)-categorical,  to appear in
 Algebr. Geom. Topol. (2022), 1–29, [arXiv:2205.02353](https://arxiv.org/abs/2205.02353)
 - P. Hackney, V. Ozornova, E. Riehl, M. Rovelli, An (&infin;, 2)-categorical pasting theorem, Trans. Amer. Math. Soc. 376 (2023), 555–597, [arXiv:2106.03660](https://arxiv.org/abs/2106.03660)
@@ -48,6 +49,7 @@ Algebr. Geom. Topol. (2022), 1–29, [arXiv:2205.02353](https://arxiv.org/abs/22
 
 ## Published Exposition
 
+- E. Riehl, On the &infin;-topos semantics of homotopy type theory, Bulletin of the London Mathematical Society, Volume 56, Issue 2, Feb 2024, 461-879, [arXiv:2212.06937](https://arxiv.org/abs/2212.06937)
 - E. Riehl, [Could &infin;-category theory be taught to undergraduates?](https://emilyriehl.github.io/files/undergraduates.pdf), [Notices of the AMS](https://www.ams.org/journals/notices/202305/noti2692/noti2692.html) 70(5). May 2023, 727--736.
 - E. Riehl, [Homotopy coherent structures](https://emilyriehl.github.io/files/coherent-structures.pdf), Expositions in Theory and Applications of Categories 1 (2023), 1-31, [arXiv:1801.07404](https://arxiv.org/abs/1801.07404), also available via AMS Open Math Notes OMN:201901.110786.
 - E. Riehl, [Homotopical categories: from model categories to (&infin;, 1)-categories](https://emilyriehl.github.io/files/homotopical.pdf), to appear in a forthcoming volume on spectra to appear in the MSRI Publications Series with Cambridge University Press, (2019), 1–67, [arXiv:1904.00886](https://arxiv.org/abs/1904.00886)
@@ -64,7 +66,6 @@ Algebr. Geom. Topol. (2022), 1–29, [arXiv:2205.02353](https://arxiv.org/abs/22
 
 ## Preprints
 
-- E. Riehl, On the &infin;-topos semantics of homotopy type theory, (2022), 1–37, [arXiv:2212.06937](https://arxiv.org/abs/2212.06937)
-- S. Hazratpour and E. Riehl, A 2-categorical proof of Frobenius for fibrations defined from a generic point, (2022), 1–15, [arXiv:2210.00078](https://arxiv.org/abs/2210.00078)
+- S. Awodey, E. Cavallo, T. Coquand, E. Riehl, C. Sattler, The equivariant model structure on cartesian cubical sets, (2024), 1-87, [arXiv:2406.18497](https://arxiv.org/abs/2406.18497)
 - E. Riehl and D. Verity, Cartesian exponentiation and monadicity, (2021), 1–71, [arXiv:2101.09853](https://arxiv.org/abs/2101.09853)
 - E. Riehl, [Inductive Presentations of Generalized Reedy Categories](https://emilyriehl.github.io/files/generalized-reedy.pdf)
