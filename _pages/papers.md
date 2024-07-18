@@ -16,8 +16,8 @@ author_profile: true
 - S. Hazratpour and E. Riehl, A 2-categorical proof of Frobenius for fibrations defined from a generic point, [Mathematical Structures in Computer Science](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/article/2categorical-proof-of-frobenius-for-fibrations-defined-from-a-generic-point/8A9A180160D0833C108E51B0B5D1E6F2), Published online 2024:1-23,  [arXiv:2210.00078](https://arxiv.org/abs/2210.00078)
 - N. Kudasov, E. Riehl, and J. Weinberger, Formalizing the &infin;-categorical Yoneda lemma, 
 [CPP 2024: Proceedings of the 13th ACM SIGPLAN International Conference on Certified Programs and Proofs](https://dl.acm.org/doi/10.1145/3636501.3636945), 274-290, [arXiv:2309.08340](https://arxiv.org/abs/2309.08340)
-- P. Hackney, V. Ozornova, E. Riehl, and M. Rovelli, Pushouts of Dwyer maps are (&infin;,1)-categorical,  to appear in
-Algebr. Geom. Topol. (2022), 1–29, [arXiv:2205.02353](https://arxiv.org/abs/2205.02353)
+- P. Hackney, V. Ozornova, E. Riehl, and M. Rovelli, [Pushouts of Dwyer maps are (&infin;,1)-categorical](https://msp.org/agt/2024/24-4/p11.xhtml), 
+Algebraic &amp; Geometric Topology 24-4 (2024), 2171--2183. [arXiv:2205.02353](https://arxiv.org/abs/2205.02353)
 - P. Hackney, V. Ozornova, E. Riehl, M. Rovelli, An (&infin;, 2)-categorical pasting theorem, Trans. Amer. Math. Soc. 376 (2023), 555–597, [arXiv:2106.03660](https://arxiv.org/abs/2106.03660)
 - E. Riehl and M. Wattal, [On &infin;-cosmoi of bicategories](https://emilyriehl.github.io/files/bicategories.pdf), La Matematica 1, (2022), 740–764, [arXiv:2108.11786](https://arxiv.org/abs/2108.11786)
 - E. Riehl and D. Verity, [On the construction of limits and colimits in &infin;-categories](https://emilyriehl.github.io/files/construction.pdf), Theory Appl. Categ. 35 (2020), no. 30, 1101–1158, [arXiv:1808.09835](https://arxiv.org/abs/1808.09835)
