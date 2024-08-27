@@ -7,44 +7,22 @@ author_profile: true
 
 ## Fall 2024 Schedule: (Mondays, usually 3-4pm; Krieger 413)
 
-- August 26, 3-4pm, [Marino Gran](https://perso.uclouvain.be/marino.gran/), UC Louvain
+- August 26, 3-4pm, [Marino Gran](https://perso.uclouvain.be/marino.gran/), UCLouvain
 
 Title: An introduction to pretorsion theories (based on the collaboration with Alberto Facchini, Carmelo Finocchiaro, Francis Borceux, Federico Campanini, Aline Michel and Walter Tholen)
 
-Abstract: The notion of pretorsion theory [3, 4] is a natural extension of the classical notion of torsion theory in an abelian category. The idea is to associate, with any pair (T , F) of full replete subcategories of a category C, a corresponding notion of Z-trivial morphism, where Z = T ∩ F is the induced subcategory of “trivial objects” in C. When C has a zero object 0 and Z = {0}, then the notion of pretorsion theory reduces to the usual notion of torsion theory. There are, however, several examples of pretorsion theories that are not torsion theories, for instance in the categories of preordered sets [3] and of (small) categories [6]. In this talk we shall recall some basic properties of pretorsion theories [4], the universal property [1] of the stable category, and some motivating examples. We shall then focus our attention on some examples of pretorsion theories in the category PreOrd(Grp) of preordered groups [5] and Cat of small categories [2].
+Abstract: The notion of pretorsion theory is a natural extension of the classical notion of torsion theory in an abelian category. The idea is to associate, with any pair (T , F) of full replete subcategories of a category C, a corresponding notion of Z-trivial morphism, where Z = T ∩ F is the induced subcategory of “trivial objects” in C. When C has a zero object 0 and Z = {0}, then the notion of pretorsion theory reduces to the usual notion of torsion theory. There are, however, several examples of pretorsion theories that are not torsion theories, for instance in the categories of preordered sets and of (small) categories. In this talk we shall recall some basic properties of pretorsion theories, the universal property of the stable category, and some motivating examples. We shall then focus our attention on some examples of pretorsion theories in the category PreOrd(Grp) of preordered groups and Cat of small categories.
 
-References
-
-[1] F. Borceux, F. Campanini and M. Gran, The stable category of preorders in a pretopos II: the universal property,
-Annali Mat. Pura Appl. 201(2022) 2847–2869.
-[2] F. Borceux, F. Campanini, M. Gran and W. Tholen, Groupoids and skeletal categories form a pretorsion theory
-in Cat, Advances in Mathematics 426 (2023) 109-110.
-[3] A. Facchini and C. Finocchiaro, Pretorsion theories, stable category and preordered sets, Annali Mat. Pura
-Appl. 199 (2020), 1073–1089.
-[4] A. Facchini, C. Finocchiaro and M. Gran, Pretorsion theories in general categories, J. Pure Appl. Algebra 225
-(2021) 106503.
-[5] M. Gran and A. Michel, Torsion theories and coverings of preordered groups, Algebra Universalis 82, 22 (2021).
-[6] J. Xarez, A pretorsion theory for the category of all categories, Cah. Top. G&eacute;om. Diff. Cat&eacute;g. 53 (2022) 25-3
-
-- August 26, 4:30-5:30pm, [Nadja Egner](https://uclouvain.be/en/directories/nadja.egner), UC Louvain
+- August 26, 4:30-5:30pm, [Nadja Egner](https://uclouvain.be/en/directories/nadja.egner), UCLouvain
 
 Title: Galois theory and homology in quasi-abelian functor categories
 
-Abstract: The aim of this talk is to give an introduction to the categorical theory of (higher) central extensions and of generalized Hopf formulae for homology, and to apply these methods to the study of, in particular, the category Grpd_n(A) of internal n-fold groupoids in a quasi-abelian category A in relation to its reflective subcategory n-Grpd(A) of internal n-groupoids in A. Examples of quasi-abelian categories are given by any abelian category but also by the non-exact additive categories of torsion(-free) abelian
-groups, of topological abelian groups, of Banach spaces and of Fr&eacute;chet spaces, see e.g. [4].
+Abstract: The aim of this talk is to give an introduction to the categorical theory of (higher) central extensions and of generalized Hopf formulae for homology, and to apply these methods to the study of, in particular, the category Grpd<sub>n</sub>(A) of internal n-fold groupoids in a quasi-abelian category A in relation to its reflective subcategory n-Grpd(A) of internal n-groupoids in A. Examples of quasi-abelian categories are given by any abelian category but also by the non-exact additive categories of torsion(-free) abelian
+groups, of topological abelian groups, of Banach spaces and of Fr&eacute;chet spaces.
 
-G. Janelidze and G. M. Kelly introduce in [3] a categorical theory of central extensions, which generalizes the classical theory of central extensions of groups, i.e. surjective group homomorphisms f : A → B such that the kernel of f lies in the center of A. In [2], T. Everaert, M. Gran and T. Van der Linden pursue the categorical study of higher central extensions and generalized Hopf formulae for homology as
-an approach to non-abelian homological algebra. Indeed, the generalized Hopf formulae with respect to the usual adjunction between the category of groups and of abelian groups recover the Brown-Ellis-Hopf formulae for abelian group homology with trivial coefficients.
+G. Janelidze and G. M. Kelly introduce in a categorical theory of central extensions, which generalizes the classical theory of central extensions of groups, i.e. surjective group homomorphisms f : A → B such that the kernel of f lies in the center of A. T. Everaert, M. Gran and T. Van der Linden pursue the categorical study of higher central extensions and generalized Hopf formulae for homology as an approach to non-abelian homological algebra. Indeed, the generalized Hopf formulae with respect to the usual adjunction between the category of groups and of abelian groups recover the Brown-Ellis-Hopf formulae for abelian group homology with trivial coefficients.
 
-Given a quasi-abelian category A and a finite category T, we consider the functor category A^T. Each replete full subcategory S of T yields a reflective full subcategory F of A^T whose objects are defined to be the functors F : T → A such that F (T) = 0 for all T /∈ S. In particular, one can choose T and S in such a way that A^T and Grpd_n(A) are equivalent categories, as well as F and n-Grpd(A). We characterize the (higher) central extensions in A^T with respect to F , that lead to generalized Hopf formulae for homology [1].
-
-References
-[1] N. Egner, Galois theory and homology in quasi-abelian functor categories, preprint arXiv:2403.12750 (2024).
-[2] T. Everaert, M. Gran and T. Van der Linden, Higher Hopf formulae for homology via Galois theory, Adv. in
-Mathematics 217 (2008), 2231–2267.
-[3] G. Janelidze and G. M. Kelly, Galois theory and a general notion of central extension, J. Pure Appl. Algebra
-2 (1994), 135–161.
-[4] W. Rump, Almost abelian categories, Cah. Topol. G&eacute;om. Diff&eacute;r. Cat&eacute;g. 42, 3 (2001), 163–225.
+Given a quasi-abelian category A and a finite category T, we consider the functor category A<sup>T</sup>. Each replete full subcategory S of T yields a reflective full subcategory F of A<sup>T</sup> whose objects are defined to be the functors F : T → A such that F (T) = 0 for all T /∈ S. In particular, one can choose T and S in such a way that A<sup>T</sup> and Grpd<sub>n</sub>(A) are equivalent categories, as well as F and n-Grpd(A). We characterize the (higher) central extensions in A<sup>T</sup> with respect to F, that lead to generalized Hopf formulae for homology.
 
 ## Spring 2024 Schedule: (Tuesdays excluding the first of the month, 4:15-5:15pm; Krieger 413)
 
