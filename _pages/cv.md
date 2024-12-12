@@ -16,7 +16,7 @@ Here is my [CV](https://emilyriehl.github.io/files/CV.pdf).
 # Academic Positions
 
 * **Johns Hopkins University**, Baltimore, MD
-    * Kelly Miller Professor of Mathematics, July 2024--present
+    * [Kelly Miller](https://en.wikipedia.org/wiki/Kelly_Miller_(scientist)) Professor of Mathematics, July 2024--present
     * Professor, July 2022--June 2024
     * Associate Professor, July 2019--June 2022
     * Assistant Professor, July 2015--June 2019
