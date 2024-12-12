@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Professor in the Department of Mathematics at [Johns Hopkins University](https://mathematics.jhu.edu/) working on higher category theory and homotopy type theory. 
+I am the Kelly Miller Professor of Mathematics in the Department of Mathematics at [Johns Hopkins University](https://mathematics.jhu.edu/) working on higher category theory, homotopy type theory, and computer formalization.
 
 I run the  [Johns Hopkins Category Theory Seminar](https://emilyriehl.github.io/seminar/) and am a co-organizer of the [Homotopy Type Theory Electronic Seminar Talks](https://uwo.ca/math/faculty/kapulkin/seminars/hottest.html). I was both an organizer and lecturer for the [HoTTEST Summer School](https://uwo.ca/math/faculty/kapulkin/seminars/hottest_summer_school_2022.html), the archives of which can now be found on [GitHub](https://github.com/martinescardo/HoTTEST-Summer-School) and on [YouTube](https://youtube.com/playlist?list=PLtIZ5qxwSNnzpNqfXzJjlHI9yCAzRzKtx).
 
