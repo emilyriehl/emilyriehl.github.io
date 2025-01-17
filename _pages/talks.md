@@ -14,7 +14,8 @@ author_profile: true
 
 ## Technical lectures
 
-- [Formalizing post-rigorous mathematics](https://emilyriehl.github.io/files/post-rigorous.pdf), slides from a talk given at the Hausdorff Institute Trimester Program: [Prospects of Formal Mathematics](https://www.mathematics.uni-bonn.de/him/programs/current-trimester-program/him-trimester-program-prospects-of-formal-mathematics)
+- [The &infin;-cosmos project: formalizing 1-, 2-, V-, and &infin;-category theory in Lean](https://emilyriehl.github.io/files/cosmos-project.pdf), slides and [video](https://youtu.be/pV6BIImkToU?feature=shared) from a talk given at [Lean Together 2025](https://leanprover-community.github.io/lt2025/).
+- [Formalizing post-rigorous mathematics](https://emilyriehl.github.io/files/post-rigorous.pdf), slides from a talk given at the Hausdorff Institute Trimester Program: [Prospects of Formal Mathematics](https://www.mathematics.uni-bonn.de/him/programs/current-trimester-program/him-trimester-program-prospects-of-formal-mathematics).
 - [Formalizing &infin;-category theory in the Rzk proof assistant](https://emilyriehl.github.io/files/yoneda-in-rzk.pdf), slides from a talk given at the [Interactions of Proof Assistants and Mathematics](https://itp-school-2023.github.io/) summer school describing ongoing [formalization project](https://emilyriehl.github.io/yoneda); [video](https://youtu.be/-voVwvoa5QI) from another version given at the Hausdorff Institute a year later.
 - [Homotopy types as homotopy types](https://emilyriehl.github.io/files/hopkins65.pdf), lecture notes from [A panorama of homotopy theory: a conference in honour of Mike Hopkins](https://www.maths.ox.ac.uk/groups/topology/panorama-homotopy-theory); [video](https://www.maths.ox.ac.uk/groups/topology/panorama-homotopy-theory/links-recordings-lectures).
 - [The equivariant uniform Kan fibration model of cubical homotopy type theory](https://www.msri.org/seminars/25038), a talk given in the cubical sets seminar at MSRI;
@@ -61,7 +62,7 @@ author_profile: true
 - [A synthetic theory of ∞-categories in homotopy type theory](https://emilyriehl.github.io/files/ASL-HoTT.pdf), slides from a colloquium given to the Association of Symbolic Logic at the 2018 Joint Mathematics Meetings.
 - [Quasi-category theory you can use](https://emilyriehl.github.io/files/GSTGC.pdf), slides from the Graduate Student Topology and Geometry Conference at UT Austin.
 
-## Applied category theory?
+## Applied category theory
 
 - [The Yoneda Lemma in the category of Matrices](https://youtu.be/SsgEvrDFJsM), a tutorial given as part of [Applied Category Theory 2020](https://act2020.mit.edu/#tutorialday); [slides](https://emilyriehl.github.io/files/matrices.pdf).
 - [Categorifying cardinal arithmetic](https://emilyriehl.github.io/files/arithmetic.pdf), slides originally prepared for the [Category Theory for All](https://www.maa.org/meetings/mathfest/program-details/2018/invited-paper-session-abstracts-category-theory-for-all) session at [MAA MathFest](https://www.maa.org/meetings/mathfest); [condensed version](https://emilyriehl.github.io/files/arithmetic-condensed.pdf) that gives away the answers to the questions posed.
