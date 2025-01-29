@@ -43,7 +43,7 @@ author_profile: true
 
 ## Colloquia
 
-- [Prospects for computer formalization of infinite-dimensional category theory](https://emilyriehl.github.io/files/prospects.pdf) and [Collaborative formalizations of &infin;-category theory](https://emilyriehl.github.io/files/collaborative.pdf), a pair of colloquia delivered at the end of a mini course at UCLouvain.
+- [Prospects for computer formalization of infinite-dimensional category theory](https://emilyriehl.github.io/files/prospects.pdf) and [Collaborative formalizations of &infin;-category theory](https://emilyriehl.github.io/files/collaborative.pdf), a pair of colloquia delivered at the end of a mini course at UCLouvain; also a [condensed and updated version](https://emilyriehl.github.io/files/prospects-cpp.pdf) delivered at [CPP 2025](https://popl25.sigplan.org/program/program-POPL-2025/?&track=CPP).
 - [Do we need a new foundation for higher structures?](https://emilyriehl.github.io/files/rzk-colloquium.pdf), a colloquium given at Rutgers.
 - [A reintroduction to proofs](https://emilyriehl.github.io/files/undergrad-reintroduction-to-proofs.pdf), a Logic @ Texas State undergraduate colloquium.
 - [A reintroduction to proofs](https://emilyriehl.github.io/files/reintroduction-to-proofs.pdf), given as the [PIMS Distinguished Lecture](https://www.uregina.ca/science/mathstat/lectures.html) at the University of Regina.
