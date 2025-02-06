@@ -5,6 +5,26 @@ permalink: /seminar/
 author_profile: true
 ---
 
+## Spring 2025 Schedule: (Mondays, usually 4:30-5:30pm; Krieger 413)
+
+- February 3, [Tim Campion](http://sites.nd.edu/tcampion), Johns Hopkins
+
+- February 10, [Egbert Rijke](https://egbertrijke.github.io/), Johns Hopkins
+
+- February 17, [Egbert Rijke](https://egbertrijke.github.io/), Johns Hopkins
+
+- February 24, Alvaro Belmonte, Johns Hopkins
+
+- March 3, [Daniel Carranza](https://daniel-carranza.github.io/), Johns Hopkins
+
+- March 24, Anna Matsui, Johns Hopkins
+
+- March 31, [Jonathan Weinberger](https://www.chapman.edu/engineering/about/faculty/program-faculty/jonathan-weinberger.aspx), Chapman
+
+- April 14, Anthony Agwu, Johns Hopkins
+
+- May 5, Yoyo Jiang, Johns Hopkins
+
 ## Fall 2024 Schedule: (Mondays, usually 3-4pm; Krieger 413)
 
 - August 26, 3-4pm, [Marino Gran](https://perso.uclouvain.be/marino.gran/), UCLouvain
