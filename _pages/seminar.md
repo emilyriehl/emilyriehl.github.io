@@ -9,9 +9,23 @@ author_profile: true
 
 - February 3, [Tim Campion](http://sites.nd.edu/tcampion), Johns Hopkins
 
+Title: An (∞,n)-categorical pasting theorem
+
 - February 10, [Egbert Rijke](https://egbertrijke.github.io/), Johns Hopkins
 
+Title: Developing a library of formalized mathematics from a univalent point of view
+
+Abstract: The agda-unimath project started in November 2021, at a meeting called Univalent Foundations for Daily Applications. At this meeting, I proposed to formalize the Symmetry book project, in which group theory is studied from the perspective that symmetries are identifications in spaces, and that thus the theory of groups can be built up entirely from the perspective that groups are spaces of objects whose symmetries, or indeed self-identifications, form the underlying set of the group.
+
+While large parts of the Symmetry book have been formalized, the agda-unimath project took a life on its own. The library has grown to roughly 1/3 of the size of the Lean's more widely known mathlib library in little over three years and spans a wide range of subjects in both traditional mathematics and univalent mathematics. In this talk, I want to share some of my experiences of developing the agda-unimath library, and discuss some of the highlights of the library.
+
 - February 17, [Egbert Rijke](https://egbertrijke.github.io/), Johns Hopkins
+
+Title: Developing a library of formalized mathematics from a univalent point of view
+
+Abstract: The agda-unimath project started in November 2021, at a meeting called Univalent Foundations for Daily Applications. At this meeting, I proposed to formalize the Symmetry book project, in which group theory is studied from the perspective that symmetries are identifications in spaces, and that thus the theory of groups can be built up entirely from the perspective that groups are spaces of objects whose symmetries, or indeed self-identifications, form the underlying set of the group.
+
+While large parts of the Symmetry book have been formalized, the agda-unimath project took a life on its own. The library has grown to roughly 1/3 of the size of the Lean's more widely known mathlib library in little over three years and spans a wide range of subjects in both traditional mathematics and univalent mathematics. In this talk, I want to share some of my experiences of developing the agda-unimath library, and discuss some of the highlights of the library.
 
 - February 24, Alvaro Belmonte, Johns Hopkins
 
