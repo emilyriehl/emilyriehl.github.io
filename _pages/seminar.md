@@ -27,9 +27,7 @@ Abstract: The agda-unimath project started in November 2021, at a meeting called
 
 While large parts of the Symmetry book have been formalized, the agda-unimath project took a life on its own. The library has grown to roughly 1/3 of the size of the Lean's more widely known mathlib library in little over three years and spans a wide range of subjects in both traditional mathematics and univalent mathematics. In this talk, I want to share some of my experiences of developing the agda-unimath library, and discuss some of the highlights of the library.
 
-- February 24, Alvaro Belmonte, Johns Hopkins
-
-- March 3, [Daniel Carranza](https://daniel-carranza.github.io/), Johns Hopkins
+- March 10, [Daniel Carranza](https://daniel-carranza.github.io/), Johns Hopkins
 
 - March 24, Anna Matsui, Johns Hopkins
 
