@@ -29,6 +29,12 @@ While large parts of the Symmetry book have been formalized, the agda-unimath pr
 
 - March 10, [Daniel Carranza](https://daniel-carranza.github.io/), Johns Hopkins
 
+Title: Weak homotopy types of finite spaces
+
+Abstract: Can you construct an example of a topological space with only 4 points whose fundamental group is isomorphic to the group of integers Z? Upon first glance, our intuitions about finite subspaces of R<sup>n</sup> would suggest that a space with finitely many points cannot admit homotopically interesting maps from a circle. Surprisingly, however, there does exist such a space! In fact, a classical result due to McCord (1966) says that the weak homotopy types of finite spaces (that is, spaces with finitely many points) coincide with the weak homotopy types of finite simplicial complex. This result often goes by the name "McCord's theorem".
+
+In this talk, I will present a new proof of McCord's theorem, formulated in the language of abstract homotopy theory.
+
 - March 24, Anna Matsui, Johns Hopkins
 
 - March 31, [Jonathan Weinberger](https://www.chapman.edu/engineering/about/faculty/program-faculty/jonathan-weinberger.aspx), Chapman
