@@ -37,7 +37,15 @@ In this talk, I will present a new proof of McCord's theorem, formulated in the 
 
 - March 24, Anna Matsui, Johns Hopkins
 
-- March 31, [Jonathan Weinberger](https://www.chapman.edu/engineering/about/faculty/program-faculty/jonathan-weinberger.aspx), Chapman
+- March 31, [Jonathan Weinberger](https://www.chapman.edu/engineering/about/faculty/program-faculty/jonathan-weinberger.aspx), Chapman University
+
+Title: Directed univalence and the Yoneda embedding for synthetic (&infin;,1)-categories
+
+Abstract: I'll present recent advances in synthetic (&infin;,1)-category theory, more specifically a modal extension of Riehl--Shulman's simplicial homotopy type theory.
+
+This includes the construction of the universal left fibration, the Yoneda embedding and Yoneda lemma, a study of cofinal functors, Quillen's Theorem A, and first steps in synthetic higher algebra.
+
+The work is joint with Daniel Gratzer and Ulrik Buchholtz (https://arxiv.org/abs/2407.09146, https://arxiv.org/abs/2501.13229).
 
 - April 14, Anthony Agwu, Johns Hopkins
 
