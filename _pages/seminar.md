@@ -37,6 +37,10 @@ In this talk, I will present a new proof of McCord's theorem, formulated in the 
 
 - March 24, Anna Matsui, Johns Hopkins
 
+Title: Double Categories
+
+Abstract: This talk will give an introduction to double categories, double pseudofunctors, companions, conjoints, and some of their properties together with interesting examples and applications.
+
 - March 31, [Jonathan Weinberger](https://www.chapman.edu/engineering/about/faculty/program-faculty/jonathan-weinberger.aspx), Chapman University
 
 Title: Directed univalence and the Yoneda embedding for synthetic (&infin;,1)-categories
