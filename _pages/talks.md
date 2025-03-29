@@ -43,6 +43,7 @@ author_profile: true
 
 ## Colloquia
 
+- [∞-category theory for undergraduates](https://youtu.be/mTwvecBthpQ), an updated and expanded version for [Theories of Everything with Curt Jaimungal](https://www.youtube.com/@TheoriesofEverything); [slides](https://emilyriehl.github.io/files/undergraduates-TOE.pdf).
 - [Prospects for computer formalization of infinite-dimensional category theory](https://emilyriehl.github.io/files/prospects.pdf) and [Collaborative formalizations of &infin;-category theory](https://emilyriehl.github.io/files/collaborative.pdf), a pair of colloquia delivered at the end of a mini course at UCLouvain; also a [condensed and updated version](https://emilyriehl.github.io/files/prospects-cpp.pdf) for a more CS-audience delivered at [CPP 2025](https://popl25.sigplan.org/program/program-POPL-2025/?&track=CPP) as well as a [condensed and further updated version](https://emilyriehl.github.io/files/prospects-cam.pdf) with more mathematical content prepared for the [Formalisation of mathematics with interactive theorem provers series](https://talks.cam.ac.uk/talk/index/224938) at Cambridge.
 - [Do we need a new foundation for higher structures?](https://emilyriehl.github.io/files/rzk-colloquium.pdf), a colloquium given at Rutgers.
 - [A reintroduction to proofs](https://emilyriehl.github.io/files/undergrad-reintroduction-to-proofs.pdf), a Logic @ Texas State undergraduate colloquium.
