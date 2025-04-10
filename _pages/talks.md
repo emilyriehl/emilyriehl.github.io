@@ -73,6 +73,7 @@ author_profile: true
 
 ## General audience
 
+- [Testing artificial mathematical intelligence](https://emilyriehl.github.io/files/testing.pdf), for the [Simons Institute for the Theory of Computing and SLMath Joint Workshop: AI for Mathematics and Theoretical Computer Science](https://simons.berkeley.edu/workshops/simons-institute-theory-computing-slmath-joint-workshop-ai-mathematics-theoretical). 
 - [Can machines think logically?](https://emilyriehl.github.io/files/can-machines-think-logically.pdf), for a Krieger school symposium on [The Science of AI](https://ai.jhu.edu/event/data-science-and-ai-institute-and-the-krieger-school-of-arts-and-sciences-symposium-series-the-science-of-ai/).
 - [The mathematical multiverse: the case against a unified mathematical reality](https://emilyriehl.github.io/files/reality.pdf), for [Investigating Reality: A Philosophical, Mathematical, and Scientific Exploration](https://santafe.edu/info/investigating-reality/about) at the Santa Fe Institute.
 - [On the art of giving the same name to different things](https://emilyriehl.github.io/files/identities-calgary.pdf), an expanded version for the [Calgary Mathematics and Philosophy Lectures](https://www.ucalgary.ca/programs/mathphil/2022-23) and the [SUMS 2023: Math and Language](https://sites.google.com/brown.edu/sums) conference.
