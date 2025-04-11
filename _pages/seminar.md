@@ -53,6 +53,10 @@ The work is joint with Daniel Gratzer and Ulrik Buchholtz (https://arxiv.org/abs
 
 - April 14, Anthony Agwu, Johns Hopkins
 
+Title: The Small Object Argument in the category of assemblies
+
+Abstract: In this talk, we will review the category of assemblies and go over the notion of W-types with reductions and the WISC axiom. We will use the W-types with reductions to construct a version of the small object argument in the category of assemblies. If time permits, we will show how to construct reflective subcategories of assemblies, in particular the reflective subcategory of modest assemblies.
+
 - May 5, Yoyo Jiang, Johns Hopkins
 
 ## Fall 2024 Schedule: (Mondays, usually 3-4pm; Krieger 413)
