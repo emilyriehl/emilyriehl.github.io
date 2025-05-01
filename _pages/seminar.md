@@ -59,6 +59,10 @@ Abstract: In this talk, we will review the category of assemblies and go over th
 
 - May 5, Yoyo Jiang, Johns Hopkins
 
+Title: Homotopy Co/limits: An ∞-Categorical Perspective
+
+Abstract: In algebraic topology, we often find it convenient to relax the notion of “sameness” between topological spaces from homeomorphisms to homotopy equivalences, since that is what our algebraic invariants, like homology and homotopy groups, can distinguish between. Unfortunately, limits and colimits are not invariant under these weaker equivalences: taking co/limits of equivalent spaces do not necessarily yield equivalent results. In this talk, we will introduce homotopy co/limits as a solution to this problem. The most conceptual way to think about these is in the context of ∞-categories, where they satisfy analogous universal properties to their 1-categorical counterparts. We will give an introduction to the basic theory of quasi-categories by focusing on examples and drawing analogies to 1-categories. After we define homotopy co/limits, we will look at concrete examples in the ∞-category of spaces and see some familiar topological constructions. Finally, we will draw the connection to more traditional definitions of homotopy co/limits in the context of model categories and briefly discuss their equivalence to the ∞-categorical definition.
+
 ## Fall 2024 Schedule: (Mondays, usually 3-4pm; Krieger 413)
 
 - August 26, 3-4pm, [Marino Gran](https://perso.uclouvain.be/marino.gran/), UCLouvain
