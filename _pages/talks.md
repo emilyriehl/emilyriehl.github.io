@@ -14,6 +14,7 @@ author_profile: true
 
 ## Technical lectures
 
+- [Formalizing invisible mathematics: case studies from category theory](https://emilyriehl.github.io/files/invisible.pdf), slides from the workshop [Big proof: formalized mathematics at scale](https://www.newton.ac.uk/event/bprw03/).
 - [The &infin;-cosmos project: formalizing 1-, 2-, V-, and &infin;-category theory in Lean](https://emilyriehl.github.io/files/cosmos-project.pdf), slides and [video](https://youtu.be/pV6BIImkToU?feature=shared) from a talk given at [Lean Together 2025](https://leanprover-community.github.io/lt2025/).
 - [Formalizing post-rigorous mathematics](https://emilyriehl.github.io/files/post-rigorous.pdf), slides from a talk given at the Hausdorff Institute Trimester Program: [Prospects of Formal Mathematics](https://www.mathematics.uni-bonn.de/him/programs/current-trimester-program/him-trimester-program-prospects-of-formal-mathematics).
 - [Formalizing &infin;-category theory in the Rzk proof assistant](https://emilyriehl.github.io/files/yoneda-in-rzk.pdf), slides from a talk given at the [Interactions of Proof Assistants and Mathematics](https://itp-school-2023.github.io/) summer school describing ongoing [formalization project](https://emilyriehl.github.io/yoneda); [video](https://youtu.be/-voVwvoa5QI) from another version given at the Hausdorff Institute a year later.
@@ -63,13 +64,6 @@ author_profile: true
 - [A synthetic theory of ∞-categories in homotopy type theory](https://emilyriehl.github.io/files/ASL-HoTT.pdf), slides from a colloquium given to the Association of Symbolic Logic at the 2018 Joint Mathematics Meetings.
 - [Quasi-category theory you can use](https://emilyriehl.github.io/files/GSTGC.pdf), slides from the Graduate Student Topology and Geometry Conference at UT Austin.
 
-## Applied category theory
-
-- [The Yoneda Lemma in the category of Matrices](https://youtu.be/SsgEvrDFJsM), a tutorial given as part of [Applied Category Theory 2020](https://act2020.mit.edu/#tutorialday); [slides](https://emilyriehl.github.io/files/matrices.pdf).
-- [Categorifying cardinal arithmetic](https://emilyriehl.github.io/files/arithmetic.pdf), slides originally prepared for the [Category Theory for All](https://www.maa.org/meetings/mathfest/program-details/2018/invited-paper-session-abstracts-category-theory-for-all) session at [MAA MathFest](https://www.maa.org/meetings/mathfest); [condensed version](https://emilyriehl.github.io/files/arithmetic-condensed.pdf) that gives away the answers to the questions posed.
-- [A categorical view of computational effects](https://youtu.be/Ssx2_JKpB3U) given at [Lambda World Cádiz](https://cadiz.lambda.world/).
-- [A categorical view of computational effects](https://youtu.be/6t6bsWVOIzs), a keynote lecture delivered at the [Compose Conference](http://www.composeconference.org/2017/); [slides](https://emilyriehl.github.io/files/compose.pdf).
-- [Functoriality in algebra and topology](https://emilyriehl.github.io/files/functoriality.pdf), slides from a colloquium talk given to pure and applied mathematicians at Macquarie University.
 
 ## General audience
 
@@ -85,6 +79,15 @@ author_profile: true
 - [A formal language for &infin;-category theory](https://emilyriehl.github.io/files/Frontier.pdf), the [2020 President's Frontier Award lecture](https://youtu.be/WLkMBMUk48E).
 - [The mathematics of social choice](https://emilyriehl.github.io/files/voting.pdf), slides prepared for the 2019 [National Math Festival](https://www.nationalmathfestival.org/) and [video](https://www.mathforamerica.org/teacher-learning/thursday-think-speaker-series) for a talk given in the Thursday Think Speaker Series for Math for America.
 - A [promotional video](https://youtu.be/9pBZOlmL6zo) for [Fat Chance: Probability from 0 to 1](https://www.cambridge.org/core/books/fat-chance/7B3971F26CD74B2C58E542A297F43629) also available as a course on [edX](https://www.edx.org/course/fat-chance-probability-from-the-ground-up-2).
+
+## Applied category theory
+
+- [The Yoneda Lemma in the category of Matrices](https://youtu.be/SsgEvrDFJsM), a tutorial given as part of [Applied Category Theory 2020](https://act2020.mit.edu/#tutorialday); [slides](https://emilyriehl.github.io/files/matrices.pdf).
+- [Categorifying cardinal arithmetic](https://emilyriehl.github.io/files/arithmetic.pdf), slides originally prepared for the [Category Theory for All](https://www.maa.org/meetings/mathfest/program-details/2018/invited-paper-session-abstracts-category-theory-for-all) session at [MAA MathFest](https://www.maa.org/meetings/mathfest); [condensed version](https://emilyriehl.github.io/files/arithmetic-condensed.pdf) that gives away the answers to the questions posed.
+- [A categorical view of computational effects](https://youtu.be/Ssx2_JKpB3U) given at [Lambda World Cádiz](https://cadiz.lambda.world/).
+- [A categorical view of computational effects](https://youtu.be/6t6bsWVOIzs), a keynote lecture delivered at the [Compose Conference](http://www.composeconference.org/2017/); [slides](https://emilyriehl.github.io/files/compose.pdf).
+- [Functoriality in algebra and topology](https://emilyriehl.github.io/files/functoriality.pdf), slides from a colloquium talk given to pure and applied mathematicians at Macquarie University.
+
 
 ## the Stable Marriage Problem
 
