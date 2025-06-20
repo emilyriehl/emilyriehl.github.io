@@ -5,6 +5,56 @@ permalink: /talks/
 author_profile: true
 ---
 
+## Hardy lectureship
+
+The [London Mathematical Society Hardy Lecture Tour](https://www.lms.ac.uk/events/lectures/hardy-lectureship) will include the following stops (with a few additions):
+
+- 20 June, Aberdeen, "Elements of &infin;-category theory
+
+Abstract: An ∞-category is an infinite-dimensional weak analogue of an ordinary strict 1-category, intended to capture examples of category-like structure in settings where objects have well-defined "mapping spaces," though perhaps only up to weak homotopy equivalence. We explain how ideas from formal category theory can be used to extend ordinary 1-category theory to ∞-category theory. Most of our definitions and proof techniques are 2-categorical, deployed in a the 2-category of ∞-categories, ∞-functors, and ∞-natural transformations, which is a defined as a quotient of an infinite-dimensional category called an ∞-cosmos where ∞-categories most naturally live. This is joint work with Dominic Verity.
+
+- 23 June, Manchester, "Contractibility as uniqueness"
+
+Abstract: What does it mean for something to exist uniquely? Classically, to say that a set A has a unique element means that there is an element x of A and any other element y of A equals x. When this assertion is applied to a space A, instead of a mere set, and interpreted in a continuous fashion, it encodes the statement that the space A is contractible, i.e., that A is continuously deformable to a point. This talk will explore this notion of contractibility as uniqueness and its role in generalizing from ordinary categories to infinite-dimensional categories.
+
+- 24 June, Glasgow, "From the 1-categorical Yoneda lemma to the ∞-categorical Yoneda lemma"
+
+Abstract: A fundamental theorem in category theory, called the Yoneda lemma, states that two objects in a category are isomorphic if and only if the functors they represent are naturally isomorphic. An analogous result holds when ordinary 1-categories are replaced by ∞-categories, but the proof is considerably more complicated. After explaining why this is, we'll show that there is in fact a proof of the ∞-categorical Yoneda lemma that is as simple as the proof of the 1-categorical Yoneda lemma &mdash; provided we change the background foundation system from set theory to homotopy type theory. Time permitting, we'll also explain a "dependent" generalization of the Yoneda lemma that can be thought of as an "arrow induction" principle. 
+
+- 25 June, Edinburgh, "Queer in math and queering math"
+
+Abstract: Queer theory challenges essentialist or normative conceptions of identity, often using personal stories to show the limits of conventional categories. In this talk, I will share my journey as a queer mathematician, tracing the formation of a pair of identities that were more often developed in parallel rather than fully integrated. I will also describe a recent "queering" of the concept of "identity" in mathematics, which enables a more expansive notion of mathematical equality than appears in traditional mathematical foundations.
+
+- 27 June, Cardiff, "Homotopy types as homotopy types"
+
+Abstract: Classically, a "homotopy type" records the information in a topological space that is captured by its homotopy groups. The classical homotopy category of spaces is defined as a quotient of the ordinary category of topological spaces. Quillen famously proved that the homotopy category can also be understood as a quotient of the (better behaved) category of simplicial sets, with Kan complexes encoding homotopy types. Voevodsky extended this result to show that homotopy type theory (i.e., Martin-Löf’s dependent type theory plus the univalence axiom) can be modelled by the category of simplicial sets, again with the Kan complexes encoding homotopy types, now thought of more synthetically the primitive objects in this formal system. In this talk, I’ll highlight some constructions and proofs that are standard in homotopy type theory but less familiar in classical homotopy theory, focussing in particular on the principle of "path induction."
+
+- 30 June, Cambridge, "Path induction and the indiscernibility of identicals"
+
+Abstract: Mathematics students learn a powerful technique for proving theorems about an arbitrary natural number: the principle of mathematical induction. This talk introduces a closely related proof technique called path induction, which can be thought of as an expression of Leibniz's indiscernibility of identicals: if two objects are identified, then they must have the same properties, and conversely. What makes this interesting is that the notion of identification referenced here is given by Per Martin-Löf's intensional identity types, which encode a more flexible notion of sameness than the traditional equality predicate in that an identification can carry data, for instance of an explicit isomorphism or equivalence. The nickname "path induction" for the elimination rule for identity types derives from a new homotopical interpretation of type theory, in which the terms of a type define the points of a space and identifications correspond to paths. In this homotopical context, indiscernibility of identicals is a consequence of the path lifting property of fibrations. Path induction is then justified by the fact that based path spaces are contractible.
+
+- 1 July, Oxford (Topos Institute), "Testing artificial mathematical intelligence"
+
+Abstract: As Thurston describes in his famous essay "On proof and progress in mathematics," the answer to the question "What is it that mathematicians accomplish?" is multifaceted. Inspired by Turing's "Computing machinery and intelligence," we propose a series of tests to help identify whether a generative AI system can meaningfully contribute to the process of doing mathematics.
+
+- 2 July, Birmingham, "Prospects for formalizing the theory of weak infinite-dimensional categories" and "Directed univalence for left fibrations of internal ∞-categories"
+
+Abstract: Over the past several years, mathematicians have launched increasingly ambitious computer formalization projects targeting increasingly complex areas of mathematics. This talk will present a high level case study involving ∞-category theory. A peculiarity of the ∞-categories literature is that proofs are often written without reference to a concrete definition of the concept of an ∞-category, a practice that creates an impediment to formalization. We describe three broad strategies that would make ∞-category theory formalizable, which may be described as “analytic,” “axiomatic,” and “synthetic.” We then highlight two parallel ongoing collaborative efforts to formalize ∞-category theory in two different proof assistants: the “axiomatic” theory in Lean and the “synthetic” theory in Rzk. We show some sample formalized proofs to highlight the advantages and drawbacks of each approach and explain how you could contribute to this effort.
+
+Abstract: Joint work with Mike Shulman pioneered a synthetic approach to ∞-category theory via a "simplicial" extension of HoTT (sHoTT). This system has semantics in categories of simplicial objects in an ∞-topos via which synthetic ∞-categories in sHoTT correspond to internal ∞-categories of Martini and Wolf. In joint work with Evan Cavallo and Christian Sattler, we construct a universal left fibration in this semantic setting and prove that it is directed univalent: arrows in the universe of left fibrations correspond to functions/functors between the corresponding discrete ∞-categories. Our proof is "all in the weights," reducing the homotopy theoretic construction of the equivalence to a series of lemmas about indexing 1-categories and the nerve embedding into simplicial sets.
+
+- 3 July, London (Heilbronn Institute), "A reintroduction to proofs"
+
+Abstract: An introduction to proofs course aims to teach how to write proofs informally in the language of set theory and classical logic. In this talk, I'll explore the alternate possibility of learning instead to write proofs informally in the language of dependent type theory. I'll argue that the intuitions suggested by this formal system are closer to the intuitions mathematicians have about their praxis. Furthermore, dependent type theory is the formal system used by many computer proof assistants both "under the hood" to verify the correctness of proofs and in the vernacular language with which they interact with the user. Thus, there is an opportunity to practice writing proofs in this formal system by interacting with computer proof assistants such as Rocq or Lean. Equally, intuitions built from an early informal introduction to dependent type theory will make it easier for those who aspire to write computer formalized proofs later on.
+
+- 4 July, London (Hardy Lecture), "Could we teach ∞-category theory to undergraduates or to a computer?"
+
+Abstract: While the last decades have seen considerable advances in our understanding of ∞-category theory, experts in the field have not yet solved the problem that confronts users of the theory: namely how to develop proficiency with this technology on a compressed time scale. Put more pithily, will we ever be able to distill ∞-category down to the point that it could be taught to undergraduates, much like ordinary 1-category theory is sometimes taught today? And will proofs that deploy ∞-categorical technology ever become formalizable, verifiable by a computer proof assistant? After considering the role that category theory and ∞-category theory play in 20th and 21st century mathematics, we describe a radical potential solution to these problems: to change the foundation system. We argue that deploying a bespoke synthetic formal system for a particular kind of mathematical object --- ∞-categories in this instance --- is a promising tactic to simplifying definitions and proofs, without sacrificing rigor.
+
+- 7 July, Bristol, "A conversation on professional norms in mathematics"
+
+Abstract: This talk will report on a multi-year conversation that aims to critically examine the cultural practices that affect the mathematics profession with a particular focus on our often unstated professional norms. Norms are local --- they are how individuals interact with each other and how individuals act in an institution --- and global --- our work at the local level building community glues to the work of our colleagues at other institutions, creating a systemic awareness and change across the mathematical landscape. We will raise questions related to building communities in which all mathematicians can flourish, rewarding collective work, organizing labor, confronting climate change, and anticipating AI. 
+
 ## Mini-courses
 
 - [UCLA Distinguished Lecture Series](https://ww3.math.ucla.edu/dls/emily-riehl/), also part of the Distinguished Women in Math Lecture Series organized by the [Women in Math](https://ww3.math.ucla.edu/women-in-math/) group; [Contractibility as uniqueness](https://emilyriehl.github.io/files/contractibility-as-uniqueness.pdf), [Path induction and the indiscernibility of identicals](https://emilyriehl.github.io/files/path-induction.pdf), [Arrow induction and the dependent Yoneda lemma](https://emilyriehl.github.io/files/arrow-Yoneda.pdf).
