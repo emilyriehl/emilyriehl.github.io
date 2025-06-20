@@ -9,7 +9,7 @@ author_profile: true
 
 The [London Mathematical Society Hardy Lecture Tour](https://www.lms.ac.uk/events/lectures/hardy-lectureship) will include the following stops (with a few additions):
 
-- 20 June, Aberdeen, "Elements of &infin;-category theory
+- 20 June, Aberdeen, "Elements of &infin;-category theory"
 
 Abstract: An ∞-category is an infinite-dimensional weak analogue of an ordinary strict 1-category, intended to capture examples of category-like structure in settings where objects have well-defined "mapping spaces," though perhaps only up to weak homotopy equivalence. We explain how ideas from formal category theory can be used to extend ordinary 1-category theory to ∞-category theory. Most of our definitions and proof techniques are 2-categorical, deployed in a the 2-category of ∞-categories, ∞-functors, and ∞-natural transformations, which is a defined as a quotient of an infinite-dimensional category called an ∞-cosmos where ∞-categories most naturally live. This is joint work with Dominic Verity.
 
