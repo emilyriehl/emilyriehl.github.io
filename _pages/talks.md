@@ -13,7 +13,7 @@ The [London Mathematical Society Hardy Lecture Tour](https://www.lms.ac.uk/event
 
 Abstract: An ∞-category is an infinite-dimensional weak analogue of an ordinary strict 1-category, intended to capture examples of category-like structure in settings where objects have well-defined "mapping spaces," though perhaps only up to weak homotopy equivalence. We explain how ideas from formal category theory can be used to extend ordinary 1-category theory to ∞-category theory. Most of our definitions and proof techniques are 2-categorical, deployed in a the 2-category of ∞-categories, ∞-functors, and ∞-natural transformations, which is a defined as a quotient of an infinite-dimensional category called an ∞-cosmos where ∞-categories most naturally live. This is joint work with Dominic Verity.
 
-- 23 June, Manchester, "Contractibility as uniqueness"
+- 23 June, Manchester, "[Contractibility as uniqueness](https://emilyriehl.github.io/files/contractibility-as-uniqueness-hardy.pdf)"
 
 Abstract: What does it mean for something to exist uniquely? Classically, to say that a set A has a unique element means that there is an element x of A and any other element y of A equals x. When this assertion is applied to a space A, instead of a mere set, and interpreted in a continuous fashion, it encodes the statement that the space A is contractible, i.e., that A is continuously deformable to a point. This talk will explore this notion of contractibility as uniqueness and its role in generalizing from ordinary categories to infinite-dimensional categories.
 
