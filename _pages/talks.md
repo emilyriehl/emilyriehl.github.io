@@ -21,7 +21,7 @@ Abstract: What does it mean for something to exist uniquely? Classically, to say
 
 Abstract: A fundamental theorem in category theory, called the Yoneda lemma, states that two objects in a category are isomorphic if and only if the functors they represent are naturally isomorphic. An analogous result holds when ordinary 1-categories are replaced by ∞-categories, but the proof is considerably more complicated. After explaining why this is, we'll show that there is in fact a proof of the ∞-categorical Yoneda lemma that is as simple as the proof of the 1-categorical Yoneda lemma &mdash; provided we change the background foundation system from set theory to homotopy type theory. Time permitting, we'll also explain a "dependent" generalization of the Yoneda lemma that can be thought of as an "arrow induction" principle. 
 
-- 25 June, Edinburgh, "Queer in math and queering math"
+- 25 June, Edinburgh, "[Queer in math and queering math](https://emilyriehl.github.io/files/queer-hardy.pdf)"
 
 Abstract: Queer theory challenges essentialist or normative conceptions of identity, often using personal stories to show the limits of conventional categories. In this talk, I will share my journey as a queer mathematician, tracing the formation of a pair of identities that were more often developed in parallel rather than fully integrated. I will also describe a recent "queering" of the concept of "identity" in mathematics, which enables a more expansive notion of mathematical equality than appears in traditional mathematical foundations.
 
