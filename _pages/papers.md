@@ -62,7 +62,8 @@ Algebraic &amp; Geometric Topology 24-4 (2024), 2171--2183. [arXiv:2205.02353](h
 
 ## Popular writing
 
-- E. Riehl [Should all mathematical proofs be checked by a computer?](https://emilyriehl.github.io/files/new-scientist.pdf), Lost in Space-Time Column, [New Scientist](https://www.newscientist.com/article/2380590-should-all-mathematical-proofs-be-checked-by-a-computer/), July 2023
+- E. Riehl [AI Took on the Math Olympiad---But Mathematicians Aren’t Impressed: AI models supposedly did well on International Math Olympiad problems, but how they got their answers reminds us why we still need people doing math](https://www.scientificamerican.com/article/mathematicians-question-ai-performance-at-international-math-olympiad/), an opinion piece published by Scientific American, August 2025.
+- E. Riehl [Should all mathematical proofs be checked by a computer?](https://emilyriehl.github.io/files/new-scientist.pdf), Lost in Space-Time Column, [New Scientist](https://www.newscientist.com/article/2380590-should-all-mathematical-proofs-be-checked-by-a-computer/), July 2023.
 - E. Riehl [Infinity-Category Theory Offers a Bird's-Eye View of Mathematics](https://www.scientificamerican.com/article/infinity-category-theory-offers-a-birds-eye-view-of-mathematics/), originally published with the title "Infinite Math" in Scientific American 325, 4, 32-41 (October 2021).
 
 ## Preprints

@@ -5,6 +5,8 @@ permalink: /media/
 author_profile: true
 ---
 
+- A brief account of running rim-to-rim-to-rim at the Grand Canyon in [Emily Riehl: Numbers Runner](https://magazine.krieger.jhu.edu/2025/05/emily-riehl-numbers-runner/) for the Krieger School Arts and Sciences Magazine.
+
 - Some thoughts on [Mathematical Beauty, Truth and Proof in the Age of AI](https://www.quantamagazine.org/mathematical-beauty-truth-and-proof-in-the-age-of-ai-20250430/) in a special issue of Quanta on AI in the sciences.
 
 - A brief description of my experience with computer formalized proofs is contained within the article [A.I. Is Coming for Mathematics, Too](https://www.nytimes.com/2023/07/02/science/ai-mathematics-machine-learning.html).
