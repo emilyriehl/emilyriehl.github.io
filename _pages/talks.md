@@ -117,6 +117,8 @@ Abstract: This talk will report on a multi-year conversation that aims to critic
 
 ## General audience
 
+- [A new paradigm for mathematical proof?](https://emilyriehl.github.io/files/proof-paradigm-lorentz.pdf), for the [Mechanization and Mathematical Research
+](https://www.lorentzcenter.nl/mechanization-and-mathematical-research.html) workshop at the Lorentz Center.
 - [A new paradigm for mathematical proof?](https://emilyriehl.github.io/files/proof-paradigm.pdf), for the [Natural Philosophy Symposium](https://www.naturalphilosophyhopkins.org/natural-philosophy-symposium-2025/).
 - [Testing artificial mathematical intelligence](https://emilyriehl.github.io/files/testing-ai.pdf), for the [Simons Institute for the Theory of Computing and SLMath Joint Workshop: AI for Mathematics and Theoretical Computer Science](https://simons.berkeley.edu/workshops/simons-institute-theory-computing-slmath-joint-workshop-ai-mathematics-theoretical) and a workshop on [Deep Learning Models for Mathematics and Type Theory](https://www.cse.chalmers.se/~sattler/workshop-deep-learning-math.html). 
 - [Can machines think logically?](https://emilyriehl.github.io/files/can-machines-think-logically.pdf), for a Krieger school symposium on [The Science of AI](https://ai.jhu.edu/event/data-science-and-ai-institute-and-the-krieger-school-of-arts-and-sciences-symposium-series-the-science-of-ai/).
