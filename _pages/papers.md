@@ -13,6 +13,7 @@ author_profile: true
 
 ## Published Research
 
+- M. Carneiro, E. Riehl, [Formalizing colimits in Cat](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITP.2025.20), In 16th International Conference on Interactive Theorem Proving (ITP 2025). Leibniz International Proceedings in Informatics (LIPIcs), Volume 352, pp. 20:1-20:19, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2025), [arXiv:2503.20704](https://arxiv.org/abs/2503.20704)
 - E. Riehl and D. Verity, Cartesian exponentiation and monadicity, [Cahiers de Topologie et Geometrie Differential Categoriques](https://cahierstgdc.com/wp-content/uploads/2024/07/E.-RIEHL-D.-VERITY_-LXV-3.pdf), (2024), 1–60, [arXiv:2101.09853](https://arxiv.org/abs/2101.09853) 
 - S. Hazratpour and E. Riehl, A 2-categorical proof of Frobenius for fibrations defined from a generic point, [Mathematical Structures in Computer Science](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/article/2categorical-proof-of-frobenius-for-fibrations-defined-from-a-generic-point/8A9A180160D0833C108E51B0B5D1E6F2), Published online 2024:1-23,  [arXiv:2210.00078](https://arxiv.org/abs/2210.00078)
 - N. Kudasov, E. Riehl, and J. Weinberger, Formalizing the &infin;-categorical Yoneda lemma, 
@@ -68,6 +69,5 @@ Algebraic &amp; Geometric Topology 24-4 (2024), 2171--2183. [arXiv:2205.02353](h
 
 ## Preprints
 
-- M. Carneiro, E. Riehl, Formalizing colimits in Cat, (2025), 1-18, [arXiv:2503.20704](https://arxiv.org/abs/2503.20704)
 - S. Awodey, E. Cavallo, T. Coquand, E. Riehl, C. Sattler, The equivariant model structure on cartesian cubical sets, (2024), 1-87, [arXiv:2406.18497](https://arxiv.org/abs/2406.18497)
 - E. Riehl, [Inductive Presentations of Generalized Reedy Categories](https://emilyriehl.github.io/files/generalized-reedy.pdf)
