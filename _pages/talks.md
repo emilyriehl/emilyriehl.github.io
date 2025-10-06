@@ -65,6 +65,8 @@ Abstract: This talk will report on a multi-year conversation that aims to critic
 ## Technical lectures
 
 - [Formalizing invisible mathematics: case studies from category theory](https://emilyriehl.github.io/files/invisible.pdf), slides from the workshop [Big proof: formalized mathematics at scale](https://www.newton.ac.uk/event/bprw03/).
+- [Synthetic perspectives on the Yoneda lemma](https://library.cirm-math.fr/Record.htm?idlist=1&record=19394791124911129739), video from a talk given at the workshop 
+[Synthetic mathematics, logic-affine computation and efficient proof systems](https://conferences.cirm-math.fr/3377.html) delivered at CIRM-Luminy.
 - [The &infin;-cosmos project: formalizing 1-, 2-, V-, and &infin;-category theory in Lean](https://emilyriehl.github.io/files/cosmos-project.pdf), slides and [video](https://youtu.be/pV6BIImkToU?feature=shared) from a talk given at [Lean Together 2025](https://leanprover-community.github.io/lt2025/).
 - [Formalizing post-rigorous mathematics](https://emilyriehl.github.io/files/post-rigorous.pdf), slides from a talk given at the Hausdorff Institute Trimester Program: [Prospects of Formal Mathematics](https://www.mathematics.uni-bonn.de/him/programs/current-trimester-program/him-trimester-program-prospects-of-formal-mathematics).
 - [Formalizing &infin;-category theory in the Rzk proof assistant](https://emilyriehl.github.io/files/yoneda-in-rzk.pdf), slides from a talk given at the [Interactions of Proof Assistants and Mathematics](https://itp-school-2023.github.io/) summer school describing ongoing [formalization project](https://emilyriehl.github.io/yoneda); [video](https://youtu.be/-voVwvoa5QI) from another version given at the Hausdorff Institute a year later.
