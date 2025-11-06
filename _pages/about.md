@@ -10,7 +10,7 @@ redirect_from:
 
 I am the [Kelly Miller](https://en.wikipedia.org/wiki/Kelly_Miller_(scientist)) Professor of Mathematics at [Johns Hopkins University](https://mathematics.jhu.edu/) working on higher category theory, homotopy type theory, and computer formalization. I am currently serving as Director of Graduate Studies.
 
-I'm honored to be an invited sectional speaker in topology at the 2026 [International Congress of Mathematicians](https://www.icm2026.org/event/ac193975-5d24-4628-8c30-ddb23de19a8b/speakers). 
+I'm honored to be an invited sectional speaker in topology at the 2026 [International Congress of Mathematicians](https://www.icm2026.org/event/ac193975-5d24-4628-8c30-ddb23de19a8b/speakers). My contribution to the ICM Conference Proceedings is an expository article [Synthetic perspectives on spaces and categories](https://emilyriehl.github.io/files/synthetic-ICM.pdf).
 
 I run the  [Johns Hopkins Category Theory Seminar](https://emilyriehl.github.io/seminar/) and am a co-organizer of the [Homotopy Type Theory Electronic Seminar Talks](https://uwo.ca/math/faculty/kapulkin/seminars/hottest.html). I was both an organizer and lecturer for the [HoTTEST Summer School](https://uwo.ca/math/faculty/kapulkin/seminars/hottest_summer_school_2022.html), the archives of which can now be found on [GitHub](https://github.com/martinescardo/HoTTEST-Summer-School) and on [YouTube](https://youtube.com/playlist?list=PLtIZ5qxwSNnzpNqfXzJjlHI9yCAzRzKtx).
 
