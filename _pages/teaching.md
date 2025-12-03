@@ -7,6 +7,7 @@ author_profile: true
 
 ## Johns Hopkins
 
+* AS.001.270: [Computer-Verified Proof: A Hands-On Introduction to Interactive Theorem Proving](https://adam.math.hhu.de/#/g/emilyriehl/ReintroductionToProofs) (fall 2025).
 * AS.110.201: Linear Algebra (fall 2024).
 * AS.110.601: Algebra I (fall 2023).
 * [HoTTEST Summer School](https://uwo.ca/math/faculty/kapulkin/seminars/hottest_summer_school_2022.html) (summer 2022).
@@ -42,7 +43,7 @@ Current and former mentees include:
 
 * Postdocs
     * [Egbert Rijke](https://github.com/EgbertRijke), 2024-present
-    * [Tim Campion](http://sites.nd.edu/tcampion/), 2021-present
+    * [Tim Campion](http://sites.nd.edu/tcampion/), 2021-2025
     * [Jonathan Weinberger](https://johnshopkins.academia.edu/JonathanWeinberger), 2022-2024
     * [Sina Hazratpour](https://sinhp.github.io/), 2021-2024
     * [Maru Sarazola](https://sites.google.com/view/msarazola/home), 2021-2023
@@ -54,7 +55,7 @@ Current and former mentees include:
     * [David Myers](http://davidjaz.com/), "Symmetry, geometry, modality," PhD 2022
     * [Paula Verdugo](https://paula-verdugo.github.io/), "On the homotopy theory of double categories and the equivalence invariance of formal category theory," PhD 2024 (jointly advised with Dominic Verity)
     * [Astra Kolomatskaia](https://www.math.stonybrook.edu/cards/kolomatskaiaastra.html), "Type Theory and Higher Structures," PhD 2024
-    * [Anthony Agwu](https://mathematics.jhu.edu/people/graduate-students/)
+    * [Anthony Agwu](https://mathematics.jhu.edu/people/graduate-students/), "A model of type theory in groupoid assemblies," PhD 2025
     * [Alvaro Belmonte](https://mathematics.jhu.edu/people/graduate-students/)
     * [Anna Matsui](https://mathematics.jhu.edu/people/graduate-students/)
     * [Daniel Carranza](https://daniel-carranza.github.io/)    
