@@ -64,6 +64,8 @@ Abstract: This talk will report on a multi-year conversation that aims to critic
 
 ## Technical lectures
 
+
+- [Challenges in (auto)formalizing category theory](https://emilyriehl.github.io/files/autoformalizing-category-theory.pdf), slides from the [ItaLean 2025](https://pitmonticone.github.io/ItaLean2025/) workshop.
 - [Formalizing invisible mathematics: case studies from category theory](https://emilyriehl.github.io/files/invisible.pdf), slides from the workshop [Big proof: formalized mathematics at scale](https://www.newton.ac.uk/event/bprw03/).
 - [Synthetic perspectives on the Yoneda lemma](https://library.cirm-math.fr/Record.htm?idlist=1&record=19394791124911129739), video from a talk given at the workshop 
 [Synthetic mathematics, logic-affine computation and efficient proof systems](https://conferences.cirm-math.fr/3377.html) delivered at CIRM-Luminy.
