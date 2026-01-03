@@ -7,6 +7,9 @@ author_profile: true
 
 ## Mixed Media
 
+
+- A Science podcast discussion [Looking for continents on exoplanets, and math is hard for mathematicians, too](https://www.science.org/content/podcast/looking-continents-exoplanets-and-math-hard-mathematicians-too) and related [Expert Voices column](https://www.science.org/doi/10.1126/science.aec9014).
+
 - A Q&amp;A for [Quanta Magazine](https://www.quantamagazine.org/emily-riehl-conducts-the-mathematical-orchestra-from-the-middle-20200902/), with a [video interview](https://youtu.be/qZzSFp0LDUQ) and brief [introduction to higher category theory](https://youtu.be/QpDTcefoWEQ).
 
 - A press release from the Johns Hopkins University HUB about the [2020 President's Frontier Award](https://hub.jhu.edu/2020/01/16/emily-riehl-mathematics-frontier-award-999-em1-art1-dtd-news/), with accompanying [video](https://youtu.be/hCh8Lr5z7YM).
@@ -22,6 +25,7 @@ author_profile: true
 - A video interview for [ΜΣΣΤ a Mathematician](https://youtu.be/eU6dIdJtjNI).
 
 ## Audio
+
 
 - An interview on [Tidbits of Research](https://tidbitsofresearch.podbean.com/e/episode-14-emily-riehl/) with Smaranda Sandu.
 
