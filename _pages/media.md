@@ -26,7 +26,6 @@ author_profile: true
 
 ## Audio
 
-
 - An interview on [Tidbits of Research](https://tidbitsofresearch.podbean.com/e/episode-14-emily-riehl/) with Smaranda Sandu.
 
 - An interview on [Topology, Categories, and the Future of Mathematics](https://www.preposterousuniverse.com/podcast/2021/05/10/146-emily-riehl-on-topology-categories-and-the-future-of-mathematics/) on [Seal Carroll's Mindscape Podcast](https://www.preposterousuniverse.com/podcast/).
