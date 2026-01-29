@@ -5,8 +5,9 @@ permalink: /media/
 author_profile: true
 ---
 
-## Mixed Media
+See in addition the lists of my [popular writing](https://emilyriehl.github.io/papers) and [general audience talks](https://emilyriehl.github.io/talks/).
 
+## Mixed Media
 
 - A Science podcast discussion [Looking for continents on exoplanets, and math is hard for mathematicians, too](https://www.science.org/content/podcast/looking-continents-exoplanets-and-math-hard-mathematicians-too) and related [Expert Voices column](https://www.science.org/doi/10.1126/science.aec9014).
 
