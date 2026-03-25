@@ -34,6 +34,8 @@ See in addition the lists of my [popular writing](https://emilyriehl.github.io/p
 
 ## Print
 
+- Some thoughts on [In Math, Rigor Is Vital. But Are Digitized Proofs Taking It Too Far?](https://www.quantamagazine.org/in-math-rigor-is-vital-but-are-digitized-proofs-taking-it-too-far-20260325/) in a series of articles in Quanta on the evolving foundations of mathematics.
+
 - A press release highlighting the [four Johns Hopkins mathematicians who will speak at the 2026 International Congress of Mathematicians](https://hub.jhu.edu/2025/07/30/johns-hopkins-professors-2026-international-congress-of-mathematicians/).
 
 - A brief account of running rim-to-rim-to-rim at the Grand Canyon in [Emily Riehl: Numbers Runner](https://magazine.krieger.jhu.edu/2025/05/emily-riehl-numbers-runner/) for the Krieger School Arts and Sciences Magazine.
