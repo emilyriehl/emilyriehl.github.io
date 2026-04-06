@@ -27,6 +27,10 @@ See in addition the lists of my [popular writing](https://emilyriehl.github.io/p
 
 ## Audio
 
+- A wide ranging discussion on the [Invasive Thoughts](https://invasive-thoughts.com/) podcast with Nicholas Bellinson and Khafiz Kerimov on Metamathematics and Infinity Category Theory.
+
+- A discussion on Science Friday with [Daniel Litt](https://www.daniellitt.com/) entitled [Move over, vibe-coding. Vibe-proving is here for math](https://www.sciencefriday.com/segments/could-ai-make-mathematicians-obsolete/).
+
 - An interview on [Tidbits of Research](https://tidbitsofresearch.podbean.com/e/episode-14-emily-riehl/) with Smaranda Sandu.
 
 - An interview on [Topology, Categories, and the Future of Mathematics](https://www.preposterousuniverse.com/podcast/2021/05/10/146-emily-riehl-on-topology-categories-and-the-future-of-mathematics/) on [Seal Carroll's Mindscape Podcast](https://www.preposterousuniverse.com/podcast/).
