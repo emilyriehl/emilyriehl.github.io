@@ -12,11 +12,11 @@ I am the [Kelly Miller](https://en.wikipedia.org/wiki/Kelly_Miller_(scientist)) 
 
 I'm honored to be an invited sectional speaker in topology at the 2026 [International Congress of Mathematicians](https://www.icm2026.org/event/ac193975-5d24-4628-8c30-ddb23de19a8b/speakers). My contribution to the ICM Conference Proceedings is an expository article [Synthetic perspectives on spaces and categories](https://emilyriehl.github.io/files/synthetic-ICM.pdf).
 
+I am currently a member of the [Executive Committee of the AMS Council](https://www.ams.org/about-us/governance/exec-comm/ec) and serve in that capacity on a number of other AMS committees. I am currently writing a series of opinion pieces for Science in their [Expert Voices](https://www.science.org/authored-by/Riehl/Emily) series.
+
 I run the  [Johns Hopkins Category Theory Seminar](https://emilyriehl.github.io/seminar/) and am a co-organizer of the [Homotopy Type Theory Electronic Seminar Talks](https://uwo.ca/math/faculty/kapulkin/seminars/hottest.html). I was both an organizer and lecturer for the [HoTTEST Summer School](https://uwo.ca/math/faculty/kapulkin/seminars/hottest_summer_school_2022.html), the archives of which can now be found on [GitHub](https://github.com/martinescardo/HoTTEST-Summer-School) and on [YouTube](https://youtube.com/playlist?list=PLtIZ5qxwSNnzpNqfXzJjlHI9yCAzRzKtx).
 
 I am a co-host of the [n-Category Caf&eacute;](https://golem.ph.utexas.edu/category/) and was a founding board member of [Spectra](http://lgbtmath.org/), where I now serve on the Board of Trustees. <img src="https://emilyriehl.github.io/files/progress-pride.webp" width = "5%"/>
-
-I am currently a member of the [Executive Committee of the AMS Council](https://www.ams.org/about-us/governance/exec-comm/ec) and serve in that capacity on a number of other AMS committees.
 
 I am a member of the Strategic Advisory Board for the [Mathlib Initiative](https://mathlib-initiative.org/), the Scientific Advisory Board for the [Institute for Computer-Aided Reasoning in Mathematics](https://www.cmu.edu/news/stories/archives/2025/august/new-nsf-institute-at-cmu-will-help-mathematicians-harness-ai-and-advance-discoveries), and the Scientific Review Panel for the [Pacific Institute for Mathematical Sciences](https://pims.math.ca/).
 
