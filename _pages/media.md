@@ -21,6 +21,8 @@ See in addition the lists of my [popular writing](https://emilyriehl.github.io/p
 
 ## Video 
 
+- A video podcast on [Higher Category Theory, Homotopy &amp; AI in Math](https://youtu.be/4MQbd5wTlI8) hosted by [aboutlogic](https://www.youtube.com/@aboutlogic).
+
 - A video [Mathematician explains infinity in 5 levels of difficulty](https://youtu.be/Vp570S6Plt8), produced as episode 22 of the [WIRED 5 levels series](https://www.wired.com/video/series/5-levels).
 
 - A video interview for [ΜΣΣΤ a Mathematician](https://youtu.be/eU6dIdJtjNI).
