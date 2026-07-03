@@ -75,5 +75,6 @@ Algebraic &amp; Geometric Topology 24-4 (2024), 2171--2183. [arXiv:2205.02353](h
 
 ## Preprints
 
+- E. Cavallo, E. Riehl, C. Sattler, [Directed univalence for simplicial objects in an &infin;-topos](https://emilyriehl.github.io/files/directed-univalence.pdf), 1–64, 2026, [arXiv:2607.02420](https://arxiv.org/abs/2607.02420)
 
 - E. Riehl, [Inductive Presentations of Generalized Reedy Categories](https://emilyriehl.github.io/files/generalized-reedy.pdf)
