@@ -54,7 +54,8 @@ Algebraic &amp; Geometric Topology 24-4 (2024), 2171--2183. [arXiv:2205.02353](h
 
 ## Published Exposition
 
-- E. Riehl, [Synthetic perspectives on spaces and categories](https://emilyriehl.github.io/files/synthetic-ICM.pdf), to appear in the ICM Conference Proceedings, [arXiv:2510.15795](https://arxiv.org/abs/2510.15795).
+- E. Riehl, [Synthetic perspectives on spaces and categories](https://emilyriehl.github.io/files/synthetic-ICM.pdf), 
+[International Congress of Mathematicians 2026](https://epubs.siam.org/doi/10.1137/25M1806569), Volume 4: Invited Lectures: Sections 5--8, 2026, 414 -- 433, [arXiv:2510.15795](https://arxiv.org/abs/2510.15795).
 - E. Riehl, On the &infin;-topos semantics of homotopy type theory, Bulletin of the London Mathematical Society, Volume 56, Issue 2, Feb 2024, 461-879, [arXiv:2212.06937](https://arxiv.org/abs/2212.06937).
 - E. Riehl, [Could &infin;-category theory be taught to undergraduates?](https://emilyriehl.github.io/files/undergraduates.pdf), [Notices of the AMS](https://www.ams.org/journals/notices/202305/noti2692/noti2692.html) 70(5). May 2023, 727--736.
 - E. Riehl, [Homotopy coherent structures](https://emilyriehl.github.io/files/coherent-structures.pdf), Expositions in Theory and Applications of Categories 1 (2023), 1-31, [arXiv:1801.07404](https://arxiv.org/abs/1801.07404), also available via AMS Open Math Notes OMN:201901.110786.

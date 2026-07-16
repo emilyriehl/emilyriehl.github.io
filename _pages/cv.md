@@ -26,6 +26,9 @@ Here is my [CV](https://emilyriehl.github.io/files/CV.pdf).
 
 #  Visiting Positions
 
+* **Chalmers University of Technology**, Gothenburg, Sweden
+    * Chalmers Jubilee Professor, September--November 2026
+
 * **Hausdorff Research Institute for Mathematics**, Bonn, Germany
     * Program Participant, Prospects of Formal Mathematics, May--August 2024
 

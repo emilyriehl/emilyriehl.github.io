@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am the [Kelly Miller](https://en.wikipedia.org/wiki/Kelly_Miller_(scientist)) Professor of Mathematics at [Johns Hopkins University](https://mathematics.jhu.edu/) working on higher category theory, homotopy type theory, and computer formalization. I am currently serving as Director of Graduate Studies.
+I am the [Kelly Miller](https://en.wikipedia.org/wiki/Kelly_Miller_(scientist)) Professor of Mathematics at [Johns Hopkins University](https://mathematics.jhu.edu/) working on higher category theory, homotopy type theory, and computer formalization. 
 
-I'm honored to be an invited sectional speaker in topology at the 2026 [International Congress of Mathematicians](https://www.icm2026.org/event/ac193975-5d24-4628-8c30-ddb23de19a8b/speakers). My contribution to the ICM Conference Proceedings is an expository article [Synthetic perspectives on spaces and categories](https://emilyriehl.github.io/files/synthetic-ICM.pdf).
+I'm honored to be an invited sectional speaker in topology at the 2026 [International Congress of Mathematicians](https://www.icm2026.org/event/ac193975-5d24-4628-8c30-ddb23de19a8b/speakers). My contribution to the ICM Conference Proceedings is an expository article [Synthetic perspectives on spaces and categories](https://emilyriehl.github.io/files/synthetic-ICM.pdf) and my slides are available [here](https://emilyriehl.github.io/files/synthetic-ICM-slides.pdf).
 
 I am currently a member of the [Executive Committee of the AMS Council](https://www.ams.org/about-us/governance/exec-comm/ec) and serve in that capacity on a number of other AMS committees. I am currently writing a series of opinion pieces for Science in their [Expert Voices](https://www.science.org/authored-by/Riehl/Emily) series.
 
