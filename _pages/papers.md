@@ -68,6 +68,7 @@ Algebraic &amp; Geometric Topology 24-4 (2024), 2171--2183. [arXiv:2205.02353](h
 
 ## Popular writing
 
+- E. Riehl [What lies beyond the Fields medal](https://www.science.org/doi/10.1126/science.aej6433), my third column for Science Magazine's Expert Voices series.
 - E. Riehl [To defeat gerrymandering, we must go back to the drawing board](https://www.science.org/doi/10.1126/science.aeg4298), my second column for Science Magazine's Expert Voices series. 
 - E. Riehl [Mathematics is hard for mathematicians to understand too](https://www.science.org/doi/10.1126/science.aec9014), my first column for Science Magazine's Expert Voices series. 
 - E. Riehl [AI Took on the Math Olympiad---But Mathematicians Aren’t Impressed: AI models supposedly did well on International Math Olympiad problems, but how they got their answers reminds us why we still need people doing math](https://www.scientificamerican.com/article/mathematicians-question-ai-performance-at-international-math-olympiad/), an opinion piece published by Scientific American, August 2025.

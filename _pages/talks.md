@@ -5,6 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
+## 2026 International Congress of Mathematicians
+
+- Slides from my talk in the topology section: [Synthetic perspectives on higher structures](https://emilyriehl.github.io/files/synthetic-ICM-slides.pdf).
+
+- Expository article in the conference proceedings: [Synthetic perspectives on spaces and categories](https://emilyriehl.github.io/files/synthetic-ICM.pdf)
+
 ## Hardy lectureship
 
 The [London Mathematical Society Hardy Lecture Tour](https://www.lms.ac.uk/events/lectures/hardy-lectureship) will include the following stops (with a few additions):
