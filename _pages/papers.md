@@ -14,15 +14,15 @@ author_profile: true
 ## Published Research
 
 - S. Awodey, E. Cavallo, T. Coquand, E. Riehl, C. Sattler, The equivariant model structure on cartesian cubical sets, Advances in Mathematics
-Volume 495, June 2026, 110965, 1--113, [arXiv:2406.18497](https://arxiv.org/abs/2406.18497)
+  Volume 495, June 2026, 110965, 1--113, [arXiv:2406.18497](https://arxiv.org/abs/2406.18497)
 
 - M. Carneiro, E. Riehl, [Formalizing colimits in Cat](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITP.2025.20), In 16th International Conference on Interactive Theorem Proving (ITP 2025). Leibniz International Proceedings in Informatics (LIPIcs), Volume 352, pp. 20:1-20:19, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2025), [arXiv:2503.20704](https://arxiv.org/abs/2503.20704)
-- E. Riehl and D. Verity, Cartesian exponentiation and monadicity, [Cahiers de Topologie et Geometrie Differential Categoriques](https://cahierstgdc.com/wp-content/uploads/2024/07/E.-RIEHL-D.-VERITY_-LXV-3.pdf), (2024), 1–60, [arXiv:2101.09853](https://arxiv.org/abs/2101.09853) 
-- S. Hazratpour and E. Riehl, A 2-categorical proof of Frobenius for fibrations defined from a generic point, [Mathematical Structures in Computer Science](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/article/2categorical-proof-of-frobenius-for-fibrations-defined-from-a-generic-point/8A9A180160D0833C108E51B0B5D1E6F2), Published online 2024:1-23,  [arXiv:2210.00078](https://arxiv.org/abs/2210.00078)
-- N. Kudasov, E. Riehl, and J. Weinberger, Formalizing the &infin;-categorical Yoneda lemma, 
-[CPP 2024: Proceedings of the 13th ACM SIGPLAN International Conference on Certified Programs and Proofs](https://dl.acm.org/doi/10.1145/3636501.3636945), 274-290, [arXiv:2309.08340](https://arxiv.org/abs/2309.08340)
-- P. Hackney, V. Ozornova, E. Riehl, and M. Rovelli, [Pushouts of Dwyer maps are (&infin;,1)-categorical](https://msp.org/agt/2024/24-4/p11.xhtml), 
-Algebraic &amp; Geometric Topology 24-4 (2024), 2171--2183. [arXiv:2205.02353](https://arxiv.org/abs/2205.02353)
+- E. Riehl and D. Verity, Cartesian exponentiation and monadicity, [Cahiers de Topologie et Geometrie Differential Categoriques](https://cahierstgdc.com/wp-content/uploads/2024/07/E.-RIEHL-D.-VERITY_-LXV-3.pdf), (2024), 1–60, [arXiv:2101.09853](https://arxiv.org/abs/2101.09853)
+- S. Hazratpour and E. Riehl, A 2-categorical proof of Frobenius for fibrations defined from a generic point, [Mathematical Structures in Computer Science](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/article/2categorical-proof-of-frobenius-for-fibrations-defined-from-a-generic-point/8A9A180160D0833C108E51B0B5D1E6F2), Published online 2024:1-23, [arXiv:2210.00078](https://arxiv.org/abs/2210.00078)
+- N. Kudasov, E. Riehl, and J. Weinberger, Formalizing the &infin;-categorical Yoneda lemma,
+  [CPP 2024: Proceedings of the 13th ACM SIGPLAN International Conference on Certified Programs and Proofs](https://dl.acm.org/doi/10.1145/3636501.3636945), 274-290, [arXiv:2309.08340](https://arxiv.org/abs/2309.08340)
+- P. Hackney, V. Ozornova, E. Riehl, and M. Rovelli, [Pushouts of Dwyer maps are (&infin;,1)-categorical](https://msp.org/agt/2024/24-4/p11.xhtml),
+  Algebraic &amp; Geometric Topology 24-4 (2024), 2171--2183. [arXiv:2205.02353](https://arxiv.org/abs/2205.02353)
 - P. Hackney, V. Ozornova, E. Riehl, M. Rovelli, An (&infin;, 2)-categorical pasting theorem, Trans. Amer. Math. Soc. 376 (2023), 555–597, [arXiv:2106.03660](https://arxiv.org/abs/2106.03660)
 - E. Riehl and M. Wattal, [On &infin;-cosmoi of bicategories](https://emilyriehl.github.io/files/bicategories.pdf), La Matematica 1, (2022), 740–764, [arXiv:2108.11786](https://arxiv.org/abs/2108.11786)
 - E. Riehl and D. Verity, [On the construction of limits and colimits in &infin;-categories](https://emilyriehl.github.io/files/construction.pdf), Theory Appl. Categ. 35 (2020), no. 30, 1101–1158, [arXiv:1808.09835](https://arxiv.org/abs/1808.09835)
@@ -54,8 +54,8 @@ Algebraic &amp; Geometric Topology 24-4 (2024), 2171--2183. [arXiv:2205.02353](h
 
 ## Published Exposition
 
-- E. Riehl, [Synthetic perspectives on spaces and categories](https://emilyriehl.github.io/files/synthetic-ICM.pdf), 
-[International Congress of Mathematicians 2026](https://epubs.siam.org/doi/10.1137/25M1806569), Volume 4: Invited Lectures: Sections 5--8, 2026, 414 -- 433, [arXiv:2510.15795](https://arxiv.org/abs/2510.15795).
+- E. Riehl, [Synthetic perspectives on spaces and categories](https://emilyriehl.github.io/files/synthetic-ICM.pdf),
+  [International Congress of Mathematicians 2026](https://epubs.siam.org/doi/10.1137/25M1806569), Volume 4: Invited Lectures: Sections 5--8, 2026, 414 -- 433, [arXiv:2510.15795](https://arxiv.org/abs/2510.15795).
 - E. Riehl, On the &infin;-topos semantics of homotopy type theory, Bulletin of the London Mathematical Society, Volume 56, Issue 2, Feb 2024, 461-879, [arXiv:2212.06937](https://arxiv.org/abs/2212.06937).
 - E. Riehl, [Could &infin;-category theory be taught to undergraduates?](https://emilyriehl.github.io/files/undergraduates.pdf), [Notices of the AMS](https://www.ams.org/journals/notices/202305/noti2692/noti2692.html) 70(5). May 2023, 727--736.
 - E. Riehl, [Homotopy coherent structures](https://emilyriehl.github.io/files/coherent-structures.pdf), Expositions in Theory and Applications of Categories 1 (2023), 1-31, [arXiv:1801.07404](https://arxiv.org/abs/1801.07404), also available via AMS Open Math Notes OMN:201901.110786.
@@ -69,14 +69,15 @@ Algebraic &amp; Geometric Topology 24-4 (2024), 2171--2183. [arXiv:2205.02353](h
 ## Popular writing
 
 - E. Riehl [What lies beyond the Fields medal](https://www.science.org/doi/10.1126/science.aej6433), my third column for Science Magazine's Expert Voices series.
-- E. Riehl [To defeat gerrymandering, we must go back to the drawing board](https://www.science.org/doi/10.1126/science.aeg4298), my second column for Science Magazine's Expert Voices series. 
-- E. Riehl [Mathematics is hard for mathematicians to understand too](https://www.science.org/doi/10.1126/science.aec9014), my first column for Science Magazine's Expert Voices series. 
+- E. Riehl [To defeat gerrymandering, we must go back to the drawing board](https://www.science.org/doi/10.1126/science.aeg4298), my second column for Science Magazine's Expert Voices series.
+- E. Riehl [Mathematics is hard for mathematicians to understand too](https://www.science.org/doi/10.1126/science.aec9014), my first column for Science Magazine's Expert Voices series.
 - E. Riehl [AI Took on the Math Olympiad---But Mathematicians Aren’t Impressed: AI models supposedly did well on International Math Olympiad problems, but how they got their answers reminds us why we still need people doing math](https://www.scientificamerican.com/article/mathematicians-question-ai-performance-at-international-math-olympiad/), an opinion piece published by Scientific American, August 2025.
 - E. Riehl [Should all mathematical proofs be checked by a computer?](https://emilyriehl.github.io/files/new-scientist.pdf), Lost in Space-Time Column, [New Scientist](https://www.newscientist.com/article/2380590-should-all-mathematical-proofs-be-checked-by-a-computer/), July 2023.
 - E. Riehl [Infinity-Category Theory Offers a Bird's-Eye View of Mathematics](https://www.scientificamerican.com/article/infinity-category-theory-offers-a-birds-eye-view-of-mathematics/), originally published with the title "Infinite Math" in Scientific American 325, 4, 32-41 (October 2021).
 
 ## Preprints
 
+- E. Riehl [Autoformalizing the calculation of π<sub>3</sub>S<sup>2</sup>](https://emilyriehl.github.io/files/auto-pi3S2-tagged.pdf), 2026, [arXiv:2608.23721](https://arxiv.org/abs/2608.23721)
 - E. Cavallo, E. Riehl, C. Sattler, [Directed univalence for simplicial objects in an &infin;-topos](https://emilyriehl.github.io/files/directed-univalence.pdf), 1–64, 2026, [arXiv:2607.02420](https://arxiv.org/abs/2607.02420)
 
 - E. Riehl, [Inductive Presentations of Generalized Reedy Categories](https://emilyriehl.github.io/files/generalized-reedy.pdf)

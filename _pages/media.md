@@ -19,7 +19,7 @@ See in addition the lists of my [popular writing](https://emilyriehl.github.io/p
 
 - A [Science Friday](https://www.sciencefriday.com) radio interview, [The Infinitely Surprising Career of a Mathematician](https://www.sciencefriday.com/segments/the-infinitely-surprising-career-of-a-mathematician/), with [Eugenia Cheng](http://eugeniacheng.com/) and [Rebecca Goldin](http://math.gmu.edu/~rgoldin/), with an accompanying [off-air interview](https://www.sciencefriday.com/articles/women-taking-math-next-dimension/).
 
-## Video 
+## Video
 
 - A video podcast on [Higher Category Theory, Homotopy &amp; AI in Math](https://youtu.be/4MQbd5wTlI8) hosted by [aboutlogic](https://www.youtube.com/@aboutlogic).
 
@@ -29,6 +29,8 @@ See in addition the lists of my [popular writing](https://emilyriehl.github.io/p
 
 ## Audio
 
+- A return visit to Science Friday on [An AI math shakeup](https://www.sciencefriday.com/segments/world-models-for-robots-ai-math/).
+
 - A wide ranging discussion on the [Invasive Thoughts](https://invasive-thoughts.com/) podcast with Nicholas Bellinson and Khafiz Kerimov on Metamathematics and Infinity Category Theory.
 
 - A discussion on Science Friday with [Daniel Litt](https://www.daniellitt.com/) entitled [Move over, vibe-coding. Vibe-proving is here for math](https://www.sciencefriday.com/segments/could-ai-make-mathematicians-obsolete/).
@@ -36,7 +38,6 @@ See in addition the lists of my [popular writing](https://emilyriehl.github.io/p
 - An interview on [Tidbits of Research](https://tidbitsofresearch.podbean.com/e/episode-14-emily-riehl/) with Smaranda Sandu.
 
 - An interview on [Topology, Categories, and the Future of Mathematics](https://www.preposterousuniverse.com/podcast/2021/05/10/146-emily-riehl-on-topology-categories-and-the-future-of-mathematics/) on [Seal Carroll's Mindscape Podcast](https://www.preposterousuniverse.com/podcast/).
-
 
 ## Print
 
@@ -67,7 +68,6 @@ See in addition the lists of my [popular writing](https://emilyriehl.github.io/p
 - An interview from the [Association for Women in Mathematics](https://awm-math.org/) November-December issue by [Beth Malmskog](https://malmskog.wordpress.com/about/): read the full version from the [Mathematics, Live!](https://emilyriehl.github.io/files/AWM-interview.pdf) column or a web excerpt, [Category Theory and Context: An Interview with Emily Riehl](https://blogs.ams.org/phdplus/2017/08/19/category-theory-and-context-an-interview-with-emily-riehl/).
 
 - An interview with the fabulous [Mike Hill](https://www.math.ucla.edu/~mikehill/), [On performing queerness and mathematics](https://blogs.ams.org/inclusionexclusion/2017/10/09/on-performing-queerness-and-mathematics-emily-riehl-interviews-mike-hill/), for the wonderful [inclusion/exclusion](https://blogs.ams.org/inclusionexclusion/) blog.
-
 
 {% include base_path %}
 

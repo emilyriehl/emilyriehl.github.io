@@ -25,7 +25,7 @@ Abstract: What does it mean for something to exist uniquely? Classically, to say
 
 - 24 June, Glasgow, "From the 1-categorical Yoneda lemma to the ∞-categorical Yoneda lemma"
 
-Abstract: A fundamental theorem in category theory, called the Yoneda lemma, states that two objects in a category are isomorphic if and only if the functors they represent are naturally isomorphic. An analogous result holds when ordinary 1-categories are replaced by ∞-categories, but the proof is considerably more complicated. After explaining why this is, we'll show that there is in fact a proof of the ∞-categorical Yoneda lemma that is as simple as the proof of the 1-categorical Yoneda lemma &mdash; provided we change the background foundation system from set theory to homotopy type theory. Time permitting, we'll also explain a "dependent" generalization of the Yoneda lemma that can be thought of as an "arrow induction" principle. 
+Abstract: A fundamental theorem in category theory, called the Yoneda lemma, states that two objects in a category are isomorphic if and only if the functors they represent are naturally isomorphic. An analogous result holds when ordinary 1-categories are replaced by ∞-categories, but the proof is considerably more complicated. After explaining why this is, we'll show that there is in fact a proof of the ∞-categorical Yoneda lemma that is as simple as the proof of the 1-categorical Yoneda lemma &mdash; provided we change the background foundation system from set theory to homotopy type theory. Time permitting, we'll also explain a "dependent" generalization of the Yoneda lemma that can be thought of as an "arrow induction" principle.
 
 - 25 June, Edinburgh, "[Queer in math and queering math](https://emilyriehl.github.io/files/queer-hardy.pdf)"
 
@@ -59,7 +59,7 @@ Abstract: While the last decades have seen considerable advances in our understa
 
 - 7 July, Bristol, "[A conversation on professional norms in mathematics](https://emilyriehl.github.io/files/norms-hardy.pdf)"
 
-Abstract: This talk will report on a multi-year conversation that aims to critically examine the cultural practices that affect the mathematics profession with a particular focus on our often unstated professional norms. Norms are local --- they are how individuals interact with each other and how individuals act in an institution --- and global --- our work at the local level building community glues to the work of our colleagues at other institutions, creating a systemic awareness and change across the mathematical landscape. We will raise questions related to building communities in which all mathematicians can flourish, rewarding collective work, organizing labor, confronting climate change, and anticipating AI. 
+Abstract: This talk will report on a multi-year conversation that aims to critically examine the cultural practices that affect the mathematics profession with a particular focus on our often unstated professional norms. Norms are local --- they are how individuals interact with each other and how individuals act in an institution --- and global --- our work at the local level building community glues to the work of our colleagues at other institutions, creating a systemic awareness and change across the mathematical landscape. We will raise questions related to building communities in which all mathematicians can flourish, rewarding collective work, organizing labor, confronting climate change, and anticipating AI.
 
 ## Mini-courses
 
@@ -70,11 +70,12 @@ Abstract: This talk will report on a multi-year conversation that aims to critic
 
 ## Technical lectures
 
+- [Recent highlights in computer formalized mathematics beyond Lean](https://emilyriehl.github.io/files/highlights.pdf), slides from an invited talk at [New Perspectives on Stable Homotopy Theory and Beyond](https://www.mpim-bonn.mpg.de/nps60), celebrating Neil Strickland's 60th Birthday.
 - [Thoughts on the future of type theory in mathematics](https://emilyriehl.github.io/files/type-theory-in-math.pdf), slides from an invited talk at [Types 2026](https://types2026.cse.chalmers.se/).
 - [Challenges in (auto)formalizing category theory](https://emilyriehl.github.io/files/autoformalizing-category-theory.pdf), slides from the [ItaLean 2025](https://pitmonticone.github.io/ItaLean2025/) workshop.
 - [Formalizing invisible mathematics: case studies from category theory](https://emilyriehl.github.io/files/invisible.pdf), slides from the workshop [Big proof: formalized mathematics at scale](https://www.newton.ac.uk/event/bprw03/); [updated slides](https://emilyriehl.github.io/files/invisible-duke.pdf).
-- [Synthetic perspectives on the Yoneda lemma](https://library.cirm-math.fr/Record.htm?idlist=1&record=19394791124911129739), video from a talk given at the workshop 
-[Synthetic mathematics, logic-affine computation and efficient proof systems](https://conferences.cirm-math.fr/3377.html) delivered at CIRM-Luminy.
+- [Synthetic perspectives on the Yoneda lemma](https://library.cirm-math.fr/Record.htm?idlist=1&record=19394791124911129739), video from a talk given at the workshop
+  [Synthetic mathematics, logic-affine computation and efficient proof systems](https://conferences.cirm-math.fr/3377.html) delivered at CIRM-Luminy.
 - [The &infin;-cosmos project: formalizing 1-, 2-, V-, and &infin;-category theory in Lean](https://emilyriehl.github.io/files/cosmos-project.pdf), slides and [video](https://youtu.be/pV6BIImkToU?feature=shared) from a talk given at [Lean Together 2025](https://leanprover-community.github.io/lt2025/).
 - [Formalizing post-rigorous mathematics](https://emilyriehl.github.io/files/post-rigorous.pdf), slides from a talk given at the Hausdorff Institute Trimester Program: [Prospects of Formal Mathematics](https://www.mathematics.uni-bonn.de/him/programs/current-trimester-program/him-trimester-program-prospects-of-formal-mathematics).
 - [Formalizing &infin;-category theory in the Rzk proof assistant](https://emilyriehl.github.io/files/yoneda-in-rzk.pdf), slides from a talk given at the [Interactions of Proof Assistants and Mathematics](https://itp-school-2023.github.io/) summer school describing ongoing [formalization project](https://emilyriehl.github.io/yoneda); [video](https://youtu.be/-voVwvoa5QI) from another version given at the Hausdorff Institute a year later.
@@ -124,14 +125,13 @@ Abstract: This talk will report on a multi-year conversation that aims to critic
 - [A synthetic theory of ∞-categories in homotopy type theory](https://emilyriehl.github.io/files/ASL-HoTT.pdf), slides from a colloquium given to the Association of Symbolic Logic at the 2018 Joint Mathematics Meetings.
 - [Quasi-category theory you can use](https://emilyriehl.github.io/files/GSTGC.pdf), slides from the Graduate Student Topology and Geometry Conference at UT Austin.
 
-
 ## General audience
 
 - [A new paradigm for mathematical proof?](https://emilyriehl.github.io/files/proof-paradigm-lorentz.pdf), for the [Mechanization and Mathematical Research
-](https://www.lorentzcenter.nl/mechanization-and-mathematical-research.html) workshop at the Lorentz Center.
+  ](https://www.lorentzcenter.nl/mechanization-and-mathematical-research.html) workshop at the Lorentz Center.
 - [A new paradigm for mathematical proof?](https://youtu.be/fzxW2XJS6SE), for the [Natural Philosophy Symposium](https://www.naturalphilosophyhopkins.org/natural-philosophy-symposium-2025/); [slides](https://emilyriehl.github.io/files/proof-paradigm.pdf), [video](https://youtu.be/fzxW2XJS6SE).
-- [Testing artificial mathematical intelligence](https://emilyriehl.github.io/files/testing-ai.pdf), for the [Simons Institute for the Theory of Computing and SLMath Joint Workshop: AI for Mathematics and Theoretical Computer Science](https://simons.berkeley.edu/workshops/simons-institute-theory-computing-slmath-joint-workshop-ai-mathematics-theoretical) and a workshop on [Deep Learning Models for Mathematics and Type Theory](https://www.cse.chalmers.se/~sattler/workshop-deep-learning-math.html). 
-- [Can machines think logically?](https://emilyriehl.github.io/files/can-machines-think-logically.pdf), for a Krieger school symposium on [The Science of AI](https://ai.jhu.edu/event/data-science-and-ai-institute-and-the-krieger-school-of-arts-and-sciences-symposium-series-the-science-of-ai/), later presented in [expanded form](https://emilyriehl.github.io/files/can-machines-think-logically-apl.pdf) for a colloquium at the JHU Applied Physics Laboratory. 
+- [Testing artificial mathematical intelligence](https://emilyriehl.github.io/files/testing-ai.pdf), for the [Simons Institute for the Theory of Computing and SLMath Joint Workshop: AI for Mathematics and Theoretical Computer Science](https://simons.berkeley.edu/workshops/simons-institute-theory-computing-slmath-joint-workshop-ai-mathematics-theoretical) and a workshop on [Deep Learning Models for Mathematics and Type Theory](https://www.cse.chalmers.se/~sattler/workshop-deep-learning-math.html).
+- [Can machines think logically?](https://emilyriehl.github.io/files/can-machines-think-logically.pdf), for a Krieger school symposium on [The Science of AI](https://ai.jhu.edu/event/data-science-and-ai-institute-and-the-krieger-school-of-arts-and-sciences-symposium-series-the-science-of-ai/), later presented in [expanded form](https://emilyriehl.github.io/files/can-machines-think-logically-apl.pdf) for a colloquium at the JHU Applied Physics Laboratory.
 - [The mathematical multiverse: the case against a unified mathematical reality](https://emilyriehl.github.io/files/reality.pdf), for [Investigating Reality: A Philosophical, Mathematical, and Scientific Exploration](https://santafe.edu/info/investigating-reality/about) at the Santa Fe Institute.
 - [On the art of giving the same name to different things](https://emilyriehl.github.io/files/identities-calgary.pdf), an expanded version for the [Calgary Mathematics and Philosophy Lectures](https://www.ucalgary.ca/programs/mathphil/2022-23) and the [SUMS 2023: Math and Language](https://sites.google.com/brown.edu/sums) conference.
 - [Mathematician explains infinity in 5 levels of difficulty](https://youtu.be/Vp570S6Plt8), episode 22 of the [WIRED 5 levels series](https://www.wired.com/video/series/5-levels).
@@ -149,7 +149,6 @@ Abstract: This talk will report on a multi-year conversation that aims to critic
 - [A categorical view of computational effects](https://youtu.be/Ssx2_JKpB3U) given at [Lambda World Cádiz](https://cadiz.lambda.world/).
 - [A categorical view of computational effects](https://youtu.be/6t6bsWVOIzs), a keynote lecture delivered at the [Compose Conference](http://www.composeconference.org/2017/); [slides](https://emilyriehl.github.io/files/compose.pdf).
 - [Functoriality in algebra and topology](https://emilyriehl.github.io/files/functoriality.pdf), slides from a colloquium talk given to pure and applied mathematicians at Macquarie University.
-
 
 ## the Stable Marriage Problem
 
