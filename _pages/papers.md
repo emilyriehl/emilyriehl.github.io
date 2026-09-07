@@ -77,7 +77,7 @@ author_profile: true
 
 ## Preprints
 
-- E. Riehl [Autoformalizing the calculation of π<sub>3</sub>S<sup>2</sup>](https://emilyriehl.github.io/files/auto-pi3S2-tagged.pdf), 2026, [arXiv:2608.23721](https://arxiv.org/abs/2608.23721)
+- D. Carranza, C. Liu, E. Riehl, E. Rijke, [Autoformalizing the calculation of π<sub>3</sub>S<sup>2</sup>](https://emilyriehl.github.io/files/auto-pi3S2-tagged.pdf), 1–15, 2026, [arXiv:2608.23721](https://arxiv.org/abs/2608.23721)
 - E. Cavallo, E. Riehl, C. Sattler, [Directed univalence for simplicial objects in an &infin;-topos](https://emilyriehl.github.io/files/directed-univalence.pdf), 1–64, 2026, [arXiv:2607.02420](https://arxiv.org/abs/2607.02420)
 
 - E. Riehl, [Inductive Presentations of Generalized Reedy Categories](https://emilyriehl.github.io/files/generalized-reedy.pdf)
