@@ -41,6 +41,8 @@ See in addition the lists of my [popular writing](https://emilyriehl.github.io/p
 
 ## Print
 
+- A guest post on [Terry Tao's blog](https://terrytao.wordpress.com/) answering the question of [why I do mathematical research](https://terrytao.wordpress.com/2026/09/14/why-i-do-mathematical-research/).
+
 - A Expert Voices column [To defeat gerrymandering, we must go back to the drawing board](https://www.science.org/doi/10.1126/science.aeg4298) and related Q&amp;A for the Johns Hopkins University HUB on [The political calculus&mdash;and actual math&mdash;of gerrymandering](https://hub.jhu.edu/2026/05/07/emily-riehl-gerrymandering-supreme-court/).
 
 - Some thoughts on [In Math, Rigor Is Vital. But Are Digitized Proofs Taking It Too Far?](https://www.quantamagazine.org/in-math-rigor-is-vital-but-are-digitized-proofs-taking-it-too-far-20260325/) in a series of articles in Quanta on the evolving foundations of mathematics.
