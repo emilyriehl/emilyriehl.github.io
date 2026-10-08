@@ -128,6 +128,7 @@ Abstract: This talk will report on a multi-year conversation that aims to critic
 
 ## General audience
 
+- [A new paradigm for mathematical proof?](https://emilyriehl.github.io/files/proof-paradigm-bergen.pdf), for the [Mathematical Proof in the Age of AI: Implications of the Use of Artificial Intelligence in Mathematical Research](https://www4.uib.no/en/research/research-groups/philosophy-of-science-and-mathematics/events/mathematical-proof-in-the-age-of-ai-implications-of-the-use-of-artificial-intelligence-in-mathematical-research) workshop at the University of Bergen.
 - [A new paradigm for mathematical proof?](https://emilyriehl.github.io/files/proof-paradigm-lorentz.pdf), for the [Mechanization and Mathematical Research
   ](https://www.lorentzcenter.nl/mechanization-and-mathematical-research.html) workshop at the Lorentz Center.
 - [A new paradigm for mathematical proof?](https://youtu.be/fzxW2XJS6SE), for the [Natural Philosophy Symposium](https://www.naturalphilosophyhopkins.org/natural-philosophy-symposium-2025/); [slides](https://emilyriehl.github.io/files/proof-paradigm.pdf), [video](https://youtu.be/fzxW2XJS6SE).
