@@ -68,6 +68,7 @@ author_profile: true
 
 ## Popular writing
 
+- E. Riehl [AI has solved many math problems, but it has not solved math](https://doi.org/10.1126/science.ael8339), my fourth column for Science Magazine's Expert Voices series.
 - E. Riehl [What lies beyond the Fields medal](https://www.science.org/doi/10.1126/science.aej6433), my third column for Science Magazine's Expert Voices series.
 - E. Riehl [To defeat gerrymandering, we must go back to the drawing board](https://www.science.org/doi/10.1126/science.aeg4298), my second column for Science Magazine's Expert Voices series.
 - E. Riehl [Mathematics is hard for mathematicians to understand too](https://www.science.org/doi/10.1126/science.aec9014), my first column for Science Magazine's Expert Voices series.
