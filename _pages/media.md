@@ -41,9 +41,13 @@ See in addition the lists of my [popular writing](https://emilyriehl.github.io/p
 
 ## Print
 
+- An Expert Voices column [AI has solved many math problems, but it has not solved math](https://doi.org/10.1126/science.ael8339).
+
+- An Expert Voices column [What lies beyond the Fields medal](https://www.science.org/doi/10.1126/science.aej6433) and related short post about the [Johns Hopkins origins of the Fields Medal](https://mathematics.jhu.edu/2026/07/26/hopkins-origins-of-the-fields-medal/).
+
 - A guest post on [Terry Tao's blog](https://terrytao.wordpress.com/) answering the question of [why I do mathematical research](https://terrytao.wordpress.com/2026/09/14/why-i-do-mathematical-research/).
 
-- A Expert Voices column [To defeat gerrymandering, we must go back to the drawing board](https://www.science.org/doi/10.1126/science.aeg4298) and related Q&amp;A for the Johns Hopkins University HUB on [The political calculus&mdash;and actual math&mdash;of gerrymandering](https://hub.jhu.edu/2026/05/07/emily-riehl-gerrymandering-supreme-court/).
+- An Expert Voices column [To defeat gerrymandering, we must go back to the drawing board](https://www.science.org/doi/10.1126/science.aeg4298) and related Q&amp;A for the Johns Hopkins University HUB on [The political calculus&mdash;and actual math&mdash;of gerrymandering](https://hub.jhu.edu/2026/05/07/emily-riehl-gerrymandering-supreme-court/).
 
 - Some thoughts on [In Math, Rigor Is Vital. But Are Digitized Proofs Taking It Too Far?](https://www.quantamagazine.org/in-math-rigor-is-vital-but-are-digitized-proofs-taking-it-too-far-20260325/) in a series of articles in Quanta on the evolving foundations of mathematics.
 
