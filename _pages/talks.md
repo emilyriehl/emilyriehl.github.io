@@ -128,6 +128,7 @@ Abstract: This talk will report on a multi-year conversation that aims to critic
 
 ## General audience
 
+- [What counts as &ldquo;good math research&rdquo; in an age of AI?](https://emilyriehl.github.io/files/chalmers-ai-days.pdf), for [Chalmers AI Days](https://www.chalmers.se/en/current/calendar/chalmers-ai-days/).
 - [A new paradigm for mathematical proof?](https://www.youtube.com/live/WcVL4r-DxQ0?si=syyrhBHit5GlHtQq), for the [Mathematical Proof in the Age of AI: Implications of the Use of Artificial Intelligence in Mathematical Research](https://www4.uib.no/en/research/research-groups/philosophy-of-science-and-mathematics/events/mathematical-proof-in-the-age-of-ai-implications-of-the-use-of-artificial-intelligence-in-mathematical-research) workshop at the University of Bergen; [slides](https://emilyriehl.github.io/files/proof-paradigm-bergen.pdf), [video](https://www.youtube.com/live/WcVL4r-DxQ0?si=syyrhBHit5GlHtQq).
 - [A new paradigm for mathematical proof?](https://emilyriehl.github.io/files/proof-paradigm-lorentz.pdf), for the [Mechanization and Mathematical Research
   ](https://www.lorentzcenter.nl/mechanization-and-mathematical-research.html) workshop at the Lorentz Center.
