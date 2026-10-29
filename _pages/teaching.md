@@ -63,4 +63,4 @@ Current and former mentees include:
 - Visiting masters student
   - [Lyne Moser](https://lynemoser.com/), 2016
 - Research assistant
-  - [Mira Wattal](https://www.linkedin.com/in/mira-wattal-351055135), 2020-2021
+  - [Mira Wattal](https://sites.google.com/view/mira-wattal), 2020-2021
