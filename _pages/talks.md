@@ -70,6 +70,7 @@ Abstract: This talk will report on a multi-year conversation that aims to critic
 
 ## Technical lectures
 
+- [Open questions in autoformalization (of HoTT)](https://emilyriehl.github.io/files/open-questions-autoformalization.pdf), slides from the [Stockholm&endash;Göteborg Meeting 2026](https://wiki.portal.chalmers.se/cse/pmwiki.php/ProgLog/StockholmGoteborgMeeting261104).
 - [Recent highlights in computer formalized mathematics beyond Lean](https://emilyriehl.github.io/files/highlights.pdf), slides from an invited talk at [New Perspectives on Stable Homotopy Theory and Beyond](https://www.mpim-bonn.mpg.de/nps60), celebrating Neil Strickland's 60th Birthday.
 - [Thoughts on the future of type theory in mathematics](https://emilyriehl.github.io/files/type-theory-in-math.pdf), slides from an invited talk at [Types 2026](https://types2026.cse.chalmers.se/).
 - [Challenges in (auto)formalizing category theory](https://emilyriehl.github.io/files/autoformalizing-category-theory.pdf), slides from the [ItaLean 2025](https://pitmonticone.github.io/ItaLean2025/) workshop.
