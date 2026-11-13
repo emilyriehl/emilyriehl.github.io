@@ -42,6 +42,7 @@ author_profile: true
 Current and former mentees include:
 
 - Postdocs
+  - [César Bardomiano Martínez](https://cesarbm03.github.io/), 2026-present
   - [Egbert Rijke](https://github.com/EgbertRijke), 2024-present
   - [Tim Campion](http://sites.nd.edu/tcampion/), 2021-2025
   - [Jonathan Weinberger](https://johnshopkins.academia.edu/JonathanWeinberger), 2022-2024
@@ -59,6 +60,7 @@ Current and former mentees include:
   - [Alvaro Belmonte](https://mathematics.jhu.edu/people/graduate-students/)
   - [Anna Matsui](https://mathematics.jhu.edu/people/graduate-students/)
   - [Daniel Carranza](https://daniel-carranza.github.io/)
+  - [Alexandra Proels](https://mathematics.jhu.edu/directory/alexandra-proels/)
 
 - Visiting masters student
   - [Lyne Moser](https://lynemoser.com/), 2016

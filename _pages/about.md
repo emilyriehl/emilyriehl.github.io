@@ -3,18 +3,18 @@ permalink: /
 title: "category theorist, working mathematician"
 # excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am the [Kelly Miller](https://en.wikipedia.org/wiki/Kelly_Miller_(scientist)) Professor of Mathematics at [Johns Hopkins University](https://mathematics.jhu.edu/) working on higher category theory, homotopy type theory, and computer formalization. 
+I am the [Kelly Miller](<https://en.wikipedia.org/wiki/Kelly_Miller_(scientist)>) Professor of Mathematics at [Johns Hopkins University](https://mathematics.jhu.edu/) working on higher category theory, homotopy type theory, computer formalization, and AI for mathematics.
 
-I am honored to be an invited sectional speaker in topology at the 2026 [International Congress of Mathematicians](https://www.icm2026.org/event/ac193975-5d24-4628-8c30-ddb23de19a8b/speakers). My contribution to the ICM Conference Proceedings is an expository article [Synthetic perspectives on spaces and categories](https://emilyriehl.github.io/files/synthetic-ICM.pdf) and my talk is titled [Synthetic perspectives on higher structures](https://emilyriehl.github.io/files/synthetic-ICM-slides.pdf).
+I was honored to be an invited sectional speaker in topology at the 2026 [International Congress of Mathematicians](https://www.icm2026.org/event/ac193975-5d24-4628-8c30-ddb23de19a8b/speakers). My contribution to the ICM Conference Proceedings is an expository article [Synthetic perspectives on spaces and categories](https://emilyriehl.github.io/files/synthetic-ICM.pdf) and my talk is titled [Synthetic perspectives on higher structures](https://emilyriehl.github.io/files/synthetic-ICM-slides.pdf).
 
 I am currently a member of the [Executive Committee of the AMS Council](https://www.ams.org/about-us/governance/exec-comm/ec) and serve in that capacity on a number of other AMS committees. I am currently writing a series of opinion pieces for Science in their [Expert Voices](https://www.science.org/authored-by/Riehl/Emily) series.
 
-I run the  [Johns Hopkins Category Theory Seminar](https://emilyriehl.github.io/seminar/) and am a co-organizer of the [Homotopy Type Theory Electronic Seminar Talks](https://uwo.ca/math/faculty/kapulkin/seminars/hottest.html). I was both an organizer and lecturer for the [HoTTEST Summer School](https://uwo.ca/math/faculty/kapulkin/seminars/hottest_summer_school_2022.html), the archives of which can now be found on [GitHub](https://github.com/martinescardo/HoTTEST-Summer-School) and on [YouTube](https://youtube.com/playlist?list=PLtIZ5qxwSNnzpNqfXzJjlHI9yCAzRzKtx).
+I run the [Johns Hopkins Category Theory Seminar](https://emilyriehl.github.io/seminar/) and am a co-organizer of the [Homotopy Type Theory Electronic Seminar Talks](https://uwo.ca/math/faculty/kapulkin/seminars/hottest.html). I was both an organizer and lecturer for the [HoTTEST Summer School](https://uwo.ca/math/faculty/kapulkin/seminars/hottest_summer_school_2022.html), the archives of which can now be found on [GitHub](https://github.com/martinescardo/HoTTEST-Summer-School) and on [YouTube](https://youtube.com/playlist?list=PLtIZ5qxwSNnzpNqfXzJjlHI9yCAzRzKtx).
 
 I am a co-host of the [n-Category Caf&eacute;](https://golem.ph.utexas.edu/category/) and was a founding board member of [Spectra](http://lgbtmath.org/), where I now serve on the Board of Trustees. <img src="https://emilyriehl.github.io/files/progress-pride.webp" width = "5%"/>
 
@@ -23,4 +23,3 @@ I am a member of the Strategic Advisory Board for the [Mathlib Initiative](https
 I serve on the editorial boards for the [American Journal of Mathematics](https://www.press.jhu.edu/journals/american-journal-mathematics), the [Bulletin of the AMS](https://www.ams.org/publications/journals/journalsframework/bull), and [Zeitschrift für Mathematische Logik und Grundlagen der Mathematik](https://zml.international/). In the past, I have served as an editor at [Cahiers de Topologie et G&eacute;om&eacute;trie Diff&eacute;rentielle Cat&eacute;goriques](http://cahierstgdc.com/), [Journal of Homotopy and Related Structures](https://www.springer.com/journal/40062), the [Journal of Pure and Applied Algebra](https://www.journals.elsevier.com/journal-of-pure-and-applied-algebra/editorial-board), [Mathematical Logic Quarterly](https://onlinelibrary.wiley.com/journal/15213870) and [Homology, Homotopy, and Applications](https://www.intlpress.com/index.php).
 
 There is a fairly large cohort of PhD students at Johns Hopkins who are interested in category theory, abstract homotopy theory, homotopy type theory, and related topics. If you are interested in joining us, more information about graduate admissions can be found [here](https://mathematics.jhu.edu/graduate/admissions/).
-
